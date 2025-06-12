@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SILENT PAGES on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/en/posts/life/silent-pages/</link>
+    <link>https://ruoqi28.github.io/en/en/posts/life/silent-pages/</link>
     <description>Recent content in SILENT PAGES on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/en/posts/life/silent-pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/en/posts/life/silent-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Whisper in the Static</title>
-      <link>http://localhost:1313/en/en/posts/life/silent-pages/h1/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/life/silent-pages/h1/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/life/silent-pages/h1/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/life/silent-pages/h1/</guid>
       <description>&lt;div id=&#34;password-section&#34;&gt;
     &lt;p&gt;Some doors are not meant to be opened. Are you sure?&lt;/p&gt;
     &lt;input type=&#34;password&#34; id=&#34;password-input&#34; placeholder=&#34;Enter the key&#34;&gt;

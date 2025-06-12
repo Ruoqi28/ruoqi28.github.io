@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PTM on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/tags/ptm/</link>
+    <link>https://ruoqi28.github.io/en/tags/ptm/</link>
     <description>Recent content in PTM on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/ptm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/tags/ptm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Inherent Difference Between Serine and Threonine Phosphorylation: Phosphothreonine Strongly Prefers a Highly Ordered, Compact, Cyclic Conformation</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/16/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/16/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/16/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/16/</guid>
       <description>Notes on 2023 ACS paper exploring structural differences between serine and threonine phosphorylation, focusing on phosphothreonine&amp;rsquo;s preference for ordered conformations.</description>
     </item>
     
     <item>
       <title>An Inherent Difference Between Serine and Threonine Phosphorylation: Phosphothreonine Strongly Prefers a Highly Ordered, Compact, Cyclic Conformation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/16/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/16/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/16/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/16/</guid>
       <description>Notes on 2023 ACS paper exploring structural differences between serine and threonine phosphorylation, focusing on phosphothreonine&amp;rsquo;s preference for ordered conformations.</description>
     </item>
     
     <item>
       <title>Graded Enhancement of p53-CBP Interaction by Multisite Phosphorylation</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/3/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/3/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/3/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/3/</guid>
       <description>Notes on 2010_PNAS study exploring how multisite phosphorylation of p53 modulates its interaction with CBP and transcriptional activation.</description>
     </item>
     
     <item>
       <title>Graded Enhancement of p53-CBP Interaction by Multisite Phosphorylation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/3/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/3/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/3/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/3/</guid>
       <description>Notes on 2010_PNAS study exploring how multisite phosphorylation of p53 modulates its interaction with CBP and transcriptional activation.</description>
     </item>
     
     <item>
       <title>Membrane Localization of a Rice Calcium-Dependent Protein Kinase (CDPK) Is Mediated by Myristoylation and Palmitoylation</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/44/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/44/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/44/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/44/</guid>
       <description>Notes on a 2000 &lt;em&gt;Plant Journal&lt;/em&gt; paper identifying dual lipid modifications — myristoylation and palmitoylation — as essential for membrane targeting of rice CDPK (OsCDPK2), marking the first report of such dual acylation in plant CDPKs.</description>
     </item>
     
     <item>
       <title>Membrane Localization of a Rice Calcium-Dependent Protein Kinase (CDPK) Is Mediated by Myristoylation and Palmitoylation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/44/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/44/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/44/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/44/</guid>
       <description>Notes on a 2000 &lt;em&gt;Plant Journal&lt;/em&gt; paper identifying dual lipid modifications — myristoylation and palmitoylation — as essential for membrane targeting of rice CDPK (OsCDPK2), marking the first report of such dual acylation in plant CDPKs.</description>
     </item>
     

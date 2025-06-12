@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Community Analysis on RD&#39;s Blog</title>
-    <link>http://localhost:1313/zh/tags/community-analysis/</link>
+    <link>https://ruoqi28.github.io/zh/tags/community-analysis/</link>
     <description>Recent content in Community Analysis on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh/tags/community-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/zh/tags/community-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Community Analysis of PKA: A Dynamic View of Kinase Architecture</title>
-      <link>http://localhost:1313/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/2/</link>
+      <link>https://ruoqi28.github.io/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/2/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/2/</guid>
+      <guid>https://ruoqi28.github.io/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/2/</guid>
       <description>Notes on a 2014 PNAS paper analyzing PKA dynamics through community analysis.</description>
     </item>
     

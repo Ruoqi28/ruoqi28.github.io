@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Protein Localization on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/tags/protein-localization/</link>
+    <link>https://ruoqi28.github.io/en/tags/protein-localization/</link>
     <description>Recent content in Protein Localization on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/protein-localization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/tags/protein-localization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Protein Isoelectric Point (pI) and Intracellular Localization: Relationships and Functional Insights</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/29/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/29/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/29/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/29/</guid>
       <description>Notes on a 2021 Frontiers review discussing how proteome-wide protein pI distributions are linked to subcellular localization. The paper highlights how environmental conditions and compartment-specific features shape protein pI profiles, offering insights into protein solubility, function, and adaptation.</description>
     </item>
     
     <item>
       <title>Protein Isoelectric Point (pI) and Intracellular Localization: Relationships and Functional Insights</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/29/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/29/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/29/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/29/</guid>
       <description>Notes on a 2021 Frontiers review discussing how proteome-wide protein pI distributions are linked to subcellular localization. The paper highlights how environmental conditions and compartment-specific features shape protein pI profiles, offering insights into protein solubility, function, and adaptation.</description>
     </item>
     

@@ -2,890 +2,890 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Zhs on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/zh/</link>
+    <link>https://ruoqi28.github.io/en/zh/</link>
     <description>Recent content in Zhs on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book Recommendation: Molecular Driving Forces: Statistical Thermodynamics in Chemistry and Biology</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/100/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/100/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/100/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/100/</guid>
       <description>A highly recommended, advanced-level book on statistical thermodynamics applied to chemistry and biology — a natural follow-up to &lt;em&gt;Protein Actions&lt;/em&gt;. Includes my annotated version and a clean copy for download.</description>
     </item>
     
     <item>
       <title>Multiple Diverse Ligands Binding at a Single Protein Site: A Matter of Pre-existing Populations</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/12/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/12/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/12/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/12/</guid>
       <description>Notes on 2002 Protein Science review on how proteins with specificity bind multiple diverse ligands through pre-existing conformational populations and hinge-bending motions.</description>
     </item>
     
     <item>
       <title>Behavior of Intrinsically Disordered Proteins (IDPs) in Protein-Protein Complexes: Emphasis on Fuzziness</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/11/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/11/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/11/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/11/</guid>
       <description>Notes on 2017 review discussing how intrinsically disordered proteins (IDPs) form various types of complexes including fuzzy complexes, with implications for flexible signaling and dynamic regulation.</description>
     </item>
     
     <item>
       <title>Book Recommendation: Protein Actions: Principles and Modeling</title>
-      <link>http://localhost:1313/en/posts/mind/mindscape/99/</link>
+      <link>https://ruoqi28.github.io/en/posts/mind/mindscape/99/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/posts/mind/mindscape/99/</guid>
+      <guid>https://ruoqi28.github.io/en/posts/mind/mindscape/99/</guid>
       <description>Highly recommended read on protein structure, dynamics, and modeling — accessible, like reading a novel. Includes my annotated version and a clean copy for download.</description>
     </item>
     
     <item>
       <title>Protein Isoelectric Point (pI) and Intracellular Localization: Relationships and Functional Insights</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/29/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/29/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/29/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/29/</guid>
       <description>Notes on a 2021 Frontiers review discussing how proteome-wide protein pI distributions are linked to subcellular localization. The paper highlights how environmental conditions and compartment-specific features shape protein pI profiles, offering insights into protein solubility, function, and adaptation.</description>
     </item>
     
     <item>
       <title>Water-Membrane Partition Thermodynamics of an Amphiphilic Lipopeptide: An Enthalpy-Driven Hydrophobic Effect</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/19/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/19/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/19/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/19/</guid>
       <description>Notes on 2008 Biophysical Journal paper analyzing the thermodynamics of membrane insertion for an H-ras lipopeptide anchor (ANCH), highlighting the role of enthalpy-driven hydrophobic effects and conformational selection.</description>
     </item>
     
     <item>
       <title>Why Are &#39;Natively Unfolded&#39; Proteins Unstructured Under Physiologic Conditions</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/17/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/17/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/17/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/17/</guid>
       <description>Notes on 2000 Proteins paper introducing the concept of &amp;rsquo;natively unfolded&amp;rsquo; proteins and how charge and hydrophobicity dictate their intrinsic disorder under physiological conditions.</description>
     </item>
     
     <item>
       <title>Preformed Structural Elements Feature in Partner Recognition by Intrinsically Unstructured Proteins</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/15/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/15/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/15/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/15/</guid>
       <description>Notes on 2004 JMB paper exploring how preformed structural elements in intrinsically disordered proteins (IDPs) facilitate efficient binding and partner recognition.</description>
     </item>
     
     <item>
       <title>Structural Characteristics of Protein Binding Sites for Calcium and Lanthanide Ions</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/27/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/27/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/27/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/27/</guid>
       <description>Notes on a 2001 JBIC review comparing structural features of Ca2+ and lanthanide-binding sites in proteins. Discusses coordination geometries, ligand types, and structural classes of metal-binding motifs, including under-representation of EF-hand in structural databases.</description>
     </item>
     
     <item>
       <title>Conformations of Intrinsically Disordered Proteins Are Influenced by Linear Sequence Distributions of Oppositely Charged Residues</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/21/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/21/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/21/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/21/</guid>
       <description>Notes on 2013 PNAS paper introducing the role of charge distribution pattern (κ) in shaping IDP conformations. Highlights how linear charge segregation influences whether IDPs adopt random coil or compact, hairpin-like structures.</description>
     </item>
     
     <item>
       <title>Diversity of Conformational States and Changes within the EF-hand Protein Superfamily</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/28/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/28/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/28/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/28/</guid>
       <description>Notes on a 1999 Proteins review analyzing the conformational diversity of EF-hand motifs in calcium-binding proteins. Introduces Vector Geometry Mapping (VGM) to dissect helix movements beyond simple interhelical angles, and discusses functional implications of EF-hand plasticity.</description>
     </item>
     
     <item>
       <title>Net Charge Per Residue Modulates Conformational Ensembles of Intrinsically Disordered Proteins</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/20/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/20/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/20/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/20/</guid>
       <description>Notes on 2010 PNAS paper exploring how net charge per residue (NCPR) governs the balance between collapsed and extended conformations in intrinsically disordered proteins (IDPs), with implications for understanding IDP behavior and function.</description>
     </item>
     
     <item>
       <title>Structural Basis for Diversity of the EF-hand Calcium-binding Proteins</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/24/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/24/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/24/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/24/</guid>
       <description>Notes on 2006 JMB review detailing EF-hand protein diversity, mechanisms of Ca2+ binding, and conformational change. Highlights the EFbeta-scaffold model and structural determinants of domain opening in calcium-binding proteins.</description>
     </item>
     
     <item>
       <title>Structures and Metal-ion Binding Properties of the Ca2&#43;-Binding Helix–Loop–Helix EF-hand Motifs</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/25/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/25/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/25/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/25/</guid>
       <description>Notes on 2007 Biochemical Journal review discussing EF-hand structural diversity, Ca²⁺/Mg²⁺ binding properties, cooperativity, and conformational changes. Focus on EF-hand pairing, metal selectivity, and functional adaptation for signaling.</description>
     </item>
     
     <item>
       <title>Pinning Down Proline-Directed Phosphorylation Signaling</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/31/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/31/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/31/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/31/</guid>
       <description>Notes on a 2002 Trends in Cell Biology review introducing phosphorylation-specific prolyl isomerization as a novel signaling mechanism. Pin1-mediated cis-trans switching of pSer/Thr-Pro motifs acts as a conformational timer for cellular signaling, impacting activity, interactions, and localization of key regulatory proteins.</description>
     </item>
     
     <item>
       <title>Anchor Residues in Protein–Protein Interactions</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/26/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/26/</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/26/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/26/</guid>
       <description>Notes on 2004 PNAS paper introducing the concept of anchor residues as key pre-configured side chains that drive protein–protein interactions. The study highlights a two-step binding mechanism, combining preformed &amp;lsquo;anchor&amp;rsquo; interactions and induced-fit adjustments.</description>
     </item>
     
     <item>
       <title>Identification of a Major Determinant for Serine-Threonine Kinase Phosphoacceptor Specificity</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/14/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/14/</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/14/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/14/</guid>
       <description>Notes on 2014 Cell paper that identifies the &amp;lsquo;DFG+1&amp;rsquo; residue as a key determinant of Ser/Thr kinase phosphoacceptor specificity, with structural and biochemical validation.</description>
     </item>
     
     <item>
       <title>The Hallmark of AGC Kinase Functional Divergence is Its C-terminal Tail, a Cis-acting Regulatory Module</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/37/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/37/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/37/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/37/</guid>
       <description>&lt;strong&gt;An elegant dissection&lt;/strong&gt; of how the &lt;strong&gt;C-terminal tail (C-tail)&lt;/strong&gt; in AGC kinases serves as a &lt;strong&gt;cis-acting regulatory module&lt;/strong&gt;, driving functional divergence from other kinase families. Through conserved interactions and structural specialization, the C-tail orchestrates key regulatory processes, acting as a unique hallmark of AGC kinases.</description>
     </item>
     
     <item>
       <title>Sequence Determinants of the Conformational Properties of an Intrinsically Disordered Protein Prior to and Upon Multisite Phosphorylation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/38/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/38/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/38/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/38/</guid>
       <description>&lt;strong&gt;A groundbreaking exploration&lt;/strong&gt; of how &lt;strong&gt;sequence patterning&lt;/strong&gt;, especially proline and charge distributions, governs the conformational behavior of intrinsically disordered regions (IDRs) even under &lt;strong&gt;multisite phosphorylation&lt;/strong&gt;, with &lt;strong&gt;compensatory conformational changes maintaining overall dimensions&lt;/strong&gt;.</description>
     </item>
     
     <item>
       <title>Water and Molecular Chaperones as Weak Links in Protein Folding Networks: A Game Theory View of Protein Folding</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/36/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/36/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/36/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/36/</guid>
       <description>&lt;strong&gt;A conceptual leap&lt;/strong&gt; in understanding protein folding, showing how &lt;strong&gt;water molecules and molecular chaperones&lt;/strong&gt; act as &lt;strong&gt;weak, transient links&lt;/strong&gt; that &lt;strong&gt;smooth energy landscapes&lt;/strong&gt; and prevent conformational traps. This paper connects &lt;strong&gt;protein folding, dynamic networks, and game theory&lt;/strong&gt;, offering a new way to see how folding and interaction landscapes are managed in crowded cellular environments.</description>
     </item>
     
     <item>
       <title>The Changing Landscape of Protein Allostery: Dynamic Ensembles and Functional Shifts</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/35/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/35/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/35/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/35/</guid>
       <description>&lt;strong&gt;A modern view of allostery&lt;/strong&gt; as an intrinsic property of protein dynamics, where &lt;strong&gt;conformational shifts, weak interactions, and energy landscapes&lt;/strong&gt; enable regulation of function. Bridging classical models with cutting-edge experimental and theoretical insights, this review explores how &lt;strong&gt;proteins use dynamic ensembles&lt;/strong&gt; and &lt;strong&gt;independent dynamic segments&lt;/strong&gt; to facilitate signaling, folding, and ligand binding — &lt;strong&gt;redefining allostery beyond static views.&lt;/strong&gt;</description>
     </item>
     
     <item>
       <title>Transient Non-native Hydrogen Bonds Promote Activation of a Signaling Protein</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/34/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/34/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/34/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/34/</guid>
       <description>A &lt;strong&gt;groundbreaking study&lt;/strong&gt; connecting &lt;strong&gt;protein folding energy landscapes&lt;/strong&gt; to &lt;strong&gt;functional conformational changes&lt;/strong&gt; in signaling proteins, showing how transient, non-native hydrogen bonds &lt;strong&gt;lower transition barriers&lt;/strong&gt; and facilitate activation without unfolding.</description>
     </item>
     
     <item>
       <title>Network Topology of a Potential Energy Landscape: A Static Scale-Free Network</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/18/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/18/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/18/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/18/</guid>
       <description>Notes on 2002 APS paper analyzing the topology of potential energy landscapes, showing how minima and transition states form a static scale-free and small-world network. Offers insights into energy landscape organization, optimization, and system dynamics.</description>
     </item>
     
     <item>
       <title>An Inherent Difference Between Serine and Threonine Phosphorylation: Phosphothreonine Strongly Prefers a Highly Ordered, Compact, Cyclic Conformation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/16/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/16/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/16/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/16/</guid>
       <description>Notes on 2023 ACS paper exploring structural differences between serine and threonine phosphorylation, focusing on phosphothreonine&amp;rsquo;s preference for ordered conformations.</description>
     </item>
     
     <item>
       <title>Architecture and Membrane Interaction of the EGF Receptor</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/97/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/97/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/97/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/97/</guid>
       <description>A deep dive into the molecular dynamics and membrane interaction of EGFR, revealing distinct active and inactive conformations, the role of lipid environment, and subtle structural regulation.</description>
     </item>
     
     <item>
       <title>Conformational Coupling Across the Plasma Membrane in Activation of the EGF Receptor</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/98/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/98/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/98/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/98/</guid>
       <description>An in-depth study of EGFR activation focusing on transmembrane and juxtamembrane coupling, density-dependent activation, and the role of the plasma membrane in maintaining autoinhibition.</description>
     </item>
     
     <item>
       <title>Evolutionarily Conserved Networks of Residues Mediate Allosteric Communication in Proteins</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</guid>
       <description>Notes on a 2003 Nature Structural Biology paper introducing the concept of evolutionarily conserved residue networks that mediate allosteric communication. Using sequence-based statistical coupling analysis (SCA), the authors map sparse, functionally critical networks in GPCRs, proteases, and hemoglobins, highlighting a fundamental mechanism of long-range communication in protein structures.</description>
     </item>
     
     <item>
       <title>Identification of the Autophosphorylation Sites in Rhodopsin Kinase</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/96/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/96/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/96/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/96/</guid>
       <description>A detailed analysis of Rhodopsin Kinase (RK) autophosphorylation sites and their functional implications, highlighting purification strategies and structural analysis using proteolysis and mass spectrometry.</description>
     </item>
     
     <item>
       <title>Binding Mechanism of Intrinsically Disordered Proteins: Theory, Simulation, and Experiment</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/32/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/32/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/32/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/32/</guid>
       <description>Comprehensive 2016 Frontiers review on the diverse binding mechanisms of intrinsically disordered proteins (IDPs), covering theory, simulations, and experimental insights into how disorder facilitates interaction dynamics, specificity, and versatility in cellular signaling.</description>
     </item>
     
     <item>
       <title>Induced Fit, Conformational Selection, and Independent Dynamic Segments: An Extended View of Binding Events</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/33/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/33/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/33/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/33/</guid>
       <description>A 2010 Cell review expanding the classical models of protein-ligand binding to a dynamic landscape of conformational selection, induced fit, and independent dynamic segments. The paper highlights how &amp;lsquo;NOISE&amp;rsquo;—conformational fluctuations—can amplify signaling and regulate allosteric interactions, reshaping our understanding of binding and protein communication.</description>
     </item>
     
     <item>
       <title>Molecular Mechanism Underlying Ca²⁺/Calmodulin Dependent Protein Kinase Kinase (CaMKK) Signal Transduction</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/95/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/95/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/95/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/95/</guid>
       <description>An in-depth review of CaMKK signaling, including structural, regulatory, and functional insights into its activation, downstream effects, and implications for disease.</description>
     </item>
     
     <item>
       <title>DFGmodel: Predicting Protein Kinase Structure in Inactive States for Structure-based Discovery of Type-II Inhibitors</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/13/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/13/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/13/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/13/</guid>
       <description>Notes on 2014 ACS paper introducing DFGmodel, a computational approach to predict kinase inactive structures for type-II inhibitor discovery. Includes insights on DFG-flip and kinase conformational analysis.</description>
     </item>
     
     <item>
       <title>Regulation of Protein Kinases: Activation Segment Conformation and Functional Control</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/9/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/9/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/9/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/9/</guid>
       <description>Notes on 2004 Molecular Cell review analyzing how activation segment conformation regulates protein kinase activity, including insights into RD pocket, anchor residues, and alternative activation mechanisms.</description>
     </item>
     
     <item>
       <title>Regulatory Modules: Coupling Protein Stability to Phosphorylation during Cell Division</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/10/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/10/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/10/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/10/</guid>
       <description>Notes on 2012 FEBS Review about how phosphorylation controls protein stability via phosphodegrons and phospho-inhibited degrons, integrating ubiquitin-mediated degradation in cell cycle regulation.</description>
     </item>
     
     <item>
       <title>Protein Grabs a Ligand by Extending Anchor Residues: Ca²⁺ Binding Mechanism of Calmodulin</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/8/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/8/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/8/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/8/</guid>
       <description>Notes on 2005 Biophysical Journal article analyzing atomistic pathways of Ca²⁺ binding to calmodulin, highlighting stepwise binding, dehydration coupling, and residue dynamics.</description>
     </item>
     
     <item>
       <title>Protein Interaction Kinetics Delimit Phosphorylation-Driven Protein Switches</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/6/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/6/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/6/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/6/</guid>
       <description>Notes on 2024_ACS paper discussing the kinetic and structural principles of phosphorylation-driven protein switches and their biosensor applications.</description>
     </item>
     
     <item>
       <title>Strong Links Are Important, but Weak Links Stabilize Them — The Role of Weak Links in Complex Systems</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/5/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/5/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/5/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/5/</guid>
       <description>Notes on 2004 Elsevier article discussing how weak links stabilize complex networks, with insights into phosphorylation, metabolic flux, and protein folding.</description>
     </item>
     
     <item>
       <title>Graded Enhancement of p53-CBP Interaction by Multisite Phosphorylation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/3/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/3/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/3/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/3/</guid>
       <description>Notes on 2010_PNAS study exploring how multisite phosphorylation of p53 modulates its interaction with CBP and transcriptional activation.</description>
     </item>
     
     <item>
       <title>Protein Kinases: Evolution of Dynamic Regulatory Proteins</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/7/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/7/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/7/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/7/</guid>
       <description>Notes on 2010 Cell Review article exploring the structural and evolutionary principles that shape the dynamic regulatory mechanisms of protein kinases.</description>
     </item>
     
     <item>
       <title>The Conformational Plasticity of Protein Kinases</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/22/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/22/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/22/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/22/</guid>
       <description>Notes on 2002 Cell review discussing conformational plasticity of protein kinases, highlighting key structural elements, activation mechanisms, and pseudosubstrate regulation. Includes insights on αC helix, activation loop, and therapeutic implications (e.g., Gleevec binding).</description>
     </item>
     
     <item>
       <title>F-Helix as a Structural Scaffold for Active Protein Kinase Assembly</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</guid>
       <description>Notes on 2008_PNAS paper revealing F-helix as a hub for regulatory and catalytic spine anchoring in protein kinases.</description>
     </item>
     
     <item>
       <title>AKAP Signaling Complexes: Focal Points in Space and Time</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/89/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/89/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/89/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/89/</guid>
       <description>Comprehensive notes on AKAPs as molecular scaffolds that regulate spatial and temporal signaling by anchoring PKA and other enzymes, enabling precise phosphorylation events in response to cellular stimuli.</description>
     </item>
     
     <item>
       <title>CASK Functions as a Mg²⁺-Independent Neurexin Kinase</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/94/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/94/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/94/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/94/</guid>
       <description>The study redefines CASK as an active Mg²⁺-independent kinase that phosphorylates neurexin, integrating scaffolding and enzymatic functions, challenging its previous classification as a pseudokinase.</description>
     </item>
     
     <item>
       <title>Intrinsically Disordered Regions Are Poised to Act as Sensors of Cellular Chemistry</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/84/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/84/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/84/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/84/</guid>
       <description>Notes on the 2023 TIBS review proposing that intrinsically disordered regions (IDRs), with their sequence-dependent structural biases, are well-suited to act as sensors and actuators of cellular physicochemistry. Discusses physical principles, molecular mechanisms, and experimental strategies for investigating IDR sensitivity and highlights their potential biological roles.</description>
     </item>
     
     <item>
       <title>Single-Molecule Spectroscopy Reveals Polymer Effects of Disordered Proteins in Crowded Environments</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/82/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/82/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/82/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/82/</guid>
       <description>Notes on the 2014 PNAS paper using single-molecule FRET to analyze the conformational response of intrinsically disordered proteins (IDPs) to molecular crowding. Highlights how IDP compaction depends not only on crowder concentration but also on crowder size, challenging traditional crowding models and introducing polymer-specific effects.</description>
     </item>
     
     <item>
       <title>Structural Biases in Disordered Proteins Are Prevalent in the Cell</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/83/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/83/</link>
       <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/83/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/83/</guid>
       <description>Notes on the 2024 Nature paper exploring how sequence-dependent structural biases in intrinsically disordered proteins (IDPs) are preserved inside cells and how they respond to environmental changes. Using a combination of FRET, SAXS, SEC, and simulations, the study establishes glycine-serine repeats as model-free standards and demonstrates that IDP ensembles encode functional biases persistent in cellular contexts.</description>
     </item>
     
     <item>
       <title>Revealing the Hidden Sensitivity of Intrinsically Disordered Proteins to Their Chemical Environments</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/81/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/81/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/81/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/81/</guid>
       <description>Notes on the 2020 ACS paper introducing a combined experimental, computational, and analytical framework to study how IDRs respond to changes in chemical environments. The work reveals sequence-dependent compaction and expansion of IDRs under different solutes and highlights the role of chemical sensitivity as an added layer of regulation in biology.</description>
     </item>
     
     <item>
       <title>Homing In: Mechanisms of Substrate Targeting by Protein Kinases</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/80/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/80/</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/80/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/80/</guid>
       <description>Notes on the 2018 Trends in Biochemical Sciences review covering diverse mechanisms by which protein kinases achieve substrate specificity. The paper explores recognition motifs, docking interactions, adaptor-mediated recruitment, and multisite phosphorylation, highlighting how these shape signaling networks. (Still can&amp;rsquo;t like this paper — 23.03.23)</description>
     </item>
     
     <item>
       <title>Structures of Two Repeats of Spectrin Suggest Models of Flexibility</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/79/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/79/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/79/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/79/</guid>
       <description>Notes on the 1999 Cell paper describing crystal structures of spectrin repeats and introducing two models for spectrin&amp;rsquo;s flexibility: conformational rearrangement and linker bending. Provides insights into spectrin’s role as a flexible cytoskeletal scaffold.</description>
     </item>
     
     <item>
       <title>SOCKET: A Program for Identifying and Analyzing Coiled-Coil Motifs within Protein Structures</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</guid>
       <description>Notes on the 2001 JMB paper introducing SOCKET, a computational tool that identifies coiled-coil motifs based on structural features rather than sequence patterns. Highlights the diversity of coiled-coil structures, the central role of knobs-into-holes packing, and applications in structural analysis and design.</description>
     </item>
     
     <item>
       <title>Principles of Helix-Helix Packing in Proteins: The Helical Lattice Superposition Model</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/77/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/77/</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/77/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/77/</guid>
       <description>Notes on the 1996 JMB paper introducing the Helical Lattice Superposition Model for analyzing helix-helix packing geometry in proteins. Explores mathematical formulations of optimal packing angles, comparing &amp;lsquo;knobs into holes&amp;rsquo; and &amp;lsquo;ridges into grooves&amp;rsquo; models, and provides insights into amino acid preferences and packing flexibility.</description>
     </item>
     
     <item>
       <title>Structure-Function of the Multifunctional Ca2&#43;/Calmodulin-Dependent Protein Kinase II (CaMKII)</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</guid>
       <description>Notes on a 2002 &lt;em&gt;JBC&lt;/em&gt; review dissecting CaMKII&amp;rsquo;s structure-function relationship, covering autoinhibition, isoform diversity, holoenzyme assembly, autophosphorylation, subunit exchange, and Ca2+/CaM frequency decoding — a foundational reference for understanding this multifunctional kinase as a calcium signal integrator.</description>
     </item>
     
     <item>
       <title>Phosphoproteomics of the Arabidopsis Plasma Membrane and a New Phosphorylation Site Database</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/41/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/41/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/41/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/41/</guid>
       <description>Notes on a 2004 Plant Cell paper mapping Arabidopsis plasma membrane phosphoproteins and phosphorylation sites.</description>
     </item>
     
     <item>
       <title>Autophosphorylation: A Salient Feature of Protein Kinases</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/90/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/90/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/90/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/90/</guid>
       <description>Notes on the fundamental roles and mechanisms of protein kinase autophosphorylation, including examples from PKA, PKC, MLCK, RTKs, and others. Functional effects and evolutionary perspectives are also discussed.</description>
     </item>
     
     <item>
       <title>Structural Evidence for Loose Linkage Between Ligand Binding and Kinase Activation in EGFR</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/75/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/75/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/75/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/75/</guid>
       <description>A study demonstrating that EGFR activation is not tightly coupled to specific transmembrane dimerization interfaces, suggesting a loose linkage between extracellular ligand binding and intracellular kinase activation.</description>
     </item>
     
     <item>
       <title>Molecular Evolution of CDPKs in Plants and Protists: The Role of Ancestral Introns</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/56/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/56/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/56/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/56/</guid>
       <description>Note on the evolutionary insights of CDPKs and CRKs through intron/exon analysis, proposing a monophyletic origin and highlighting the role of ancient intron-mediated gene fusion in the origin of CDPKs.</description>
     </item>
     
     <item>
       <title>A Temporary Gating of Actin Remodeling during Synaptic Plasticity: Interplay between the Kinase and Structural Functions of CaMKII</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/71/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/71/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/71/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/71/</guid>
       <description>Notes on a 2015 &lt;em&gt;Neuron&lt;/em&gt; paper revealing how CaMKII’s dual role as kinase and structural element regulates actin remodeling during synaptic plasticity, showing that autophosphorylation-mediated dissociation from F-actin provides a time window permissive for structural long-term potentiation (sLTP).</description>
     </item>
     
     <item>
       <title>Assembly of Allosteric Macromolecular Switches: Lessons from PKA</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/74/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/74/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/74/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/74/</guid>
       <description>Comprehensive review on how PKA holoenzyme assembly provides unique insights into kinase regulation, highlighting regulatory-catalytic subunit interactions, anchoring proteins, and macromolecular scaffolds.</description>
     </item>
     
     <item>
       <title>Activation of the Essential Kinase PDK1 by Phosphoinositide-Driven Trans-Autophosphorylation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/73/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/73/</link>
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/73/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/73/</guid>
       <description>Notes on the mechanism by which PDK1 is activated via PIP3-mediated dimerization and trans-autophosphorylation, highlighting the role of PH domain autoinhibition, linker-mediated dimerization, and switch-like activation mechanisms.</description>
     </item>
     
     <item>
       <title>Ile441 Is Essential for Autoinhibition of CaMKK: Regulatory Mechanism of Ca2&#43;/Calmodulin-Dependent Protein Kinase Kinase</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/65/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/65/</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/65/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/65/</guid>
       <description>Notes on a 2000 &lt;em&gt;JBC&lt;/em&gt; paper dissecting the autoinhibitory mechanism of CaMKK, identifying Ile441 as critical for maintaining the inactive state, and showing that CaM-binding peptide orientation does not dictate relief from autoinhibition — a pivotal insight into CaMKK regulation.</description>
     </item>
     
     <item>
       <title>Decoding Ca²⁺ Signals Through Plant Protein Kinases</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/91/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/91/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/91/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/91/</guid>
       <description>Overview of the plant-specific CDPK-SnRK superfamily, including CDPKs, CRKs, CCaMKs, SnRKs, and their Ca²⁺ regulatory mechanisms. Models of activation and functional diversity of Ca²⁺ decoding mechanisms are discussed.</description>
     </item>
     
     <item>
       <title>Mechanism of CDK Activation Revealed by the Structure of a CyclinA-CDK2 Complex</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</link>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</guid>
       <description>Notes on a 1995 &lt;em&gt;Nature&lt;/em&gt; paper revealing the structural mechanism of CDK2 activation by cyclinA, focusing on key conformational changes that relieve autoinhibition and organize the catalytic site.</description>
     </item>
     
     <item>
       <title>Variable Calcium Sensitivity in Arabidopsis CDPKs: Activated or Not by Calcium?</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/57/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/57/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/57/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/57/</guid>
       <description>Note on the differential calcium sensitivity among Arabidopsis CDPK isoforms, highlighting the diversity of activation mechanisms and implications for calcium signaling in plants.</description>
     </item>
     
     <item>
       <title>How Do Kinases Transfer Phosphoryl Groups</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/23/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/23/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/23/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/23/</guid>
       <description>Notes on 1998 Cell review discussing kinase phosphoryl transfer mechanisms, conformational dynamics, cofactor roles, and binding motifs. Highlights the debate between associative (SN2) and dissociative (SN1) pathways, with structural evidence for both models.</description>
     </item>
     
     <item>
       <title>Structure of the Autoinhibited CaMKII Kinase Domain and SAXS Analysis of the Holoenzyme</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</link>
       <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</guid>
       <description>Notes on a 2005 &lt;em&gt;Cell&lt;/em&gt; paper revealing the crystal structure of autoinhibited CaMKII kinase domain and small-angle X-ray scattering (SAXS) analysis of the full holoenzyme, uncovering mechanisms for tight autoinhibition and explaining frequency-dependent activation.</description>
     </item>
     
     <item>
       <title>A Mechanism for Tunable Autoinhibition in the Structure of Human CaMKII Holoenzyme</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/67/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/67/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/67/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/67/</guid>
       <description>Notes on a 2011 &lt;em&gt;Cell&lt;/em&gt; paper that reveals the full-length crystal structure of human CaMKII in its autoinhibited state and introduces a tunable mechanism for calcium signal decoding based on linker length-dependent conformational dynamics.</description>
     </item>
     
     <item>
       <title>αKAP as an Anchoring Protein for a Novel CaMKII Isoform in Skeletal Muscle</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/66/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/66/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/66/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/66/</guid>
       <description>Notes on a landmark 1998 &lt;em&gt;EMBO&lt;/em&gt; paper identifying αKAP as the first anchoring protein for CaM kinase II, revealing how αKAP targets CaMKII to the sarcoplasmic reticulum in skeletal muscle and enables tissue-specific membrane localization and signaling control.</description>
     </item>
     
     <item>
       <title>Regulation of the ABC Kinases by Phosphorylation: Protein Kinase C as a Paradigm</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/39/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/39/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/39/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/39/</guid>
       <description>&lt;strong&gt;A landmark review on the ordered, site-specific phosphorylation events governing the maturation, activation, and regulation of ABC kinases — using PKC as a paradigm — with profound insights into kinase life cycles, structural stabilization, and multi-step control mechanisms.&lt;/strong&gt;</description>
     </item>
     
     <item>
       <title>Allosteric Activation of Toxoplasma CDPK1: A Splint Model for Kinase Regulation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/52/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/52/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/52/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/52/</guid>
       <description>A fascinating study revealing that TgCDPK1 is stabilized and activated via an allosteric mechanism involving its regulatory CAD domain, challenging classical models of calcium-dependent kinase activation.</description>
     </item>
     
     <item>
       <title>Structural Insights into Apicomplexan CDPK Activation: A Calcium-Triggered Mechanism</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/53/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/53/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/53/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/53/</guid>
       <description>A landmark structural study revealing how apicomplexan CDPKs (TgCDPK1/3, CpCDPK) undergo dramatic conformational changes upon calcium binding to shift from an autoinhibited to an active state.</description>
     </item>
     
     <item>
       <title>The CaMKII Holoenzyme Structure in Activation-Competent Conformation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/69/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/69/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/69/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/69/</guid>
       <description>Notes on a 2017 &lt;em&gt;Nature Communications&lt;/em&gt; paper revealing the 3D structure of the CaMKII holoenzyme in an activation-competent conformation, emphasizing the role of flexible linkers and dimeric kinase domain interactions in regulating activation and frequency decoding.</description>
     </item>
     
     <item>
       <title>Membrane Binding of Recoverin: From Mechanistic Understanding to Biological Functionality</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/40/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/40/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/40/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/40/</guid>
       <description>&lt;strong&gt;A comprehensive study unraveling the molecular dynamics of recoverin&amp;rsquo;s membrane binding via its calcium-dependent myristoyl switch, highlighting the importance of N-terminal domain conformations and transient C-terminal interactions.&lt;/strong&gt;</description>
     </item>
     
     <item>
       <title>Unique Conformational Adaptation of Calmodulin to CaMKK: A Distinct Mode of Calcium-Dependent Kinase Regulation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/64/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/64/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/64/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/64/</guid>
       <description>Notes on a landmark &lt;em&gt;Nature&lt;/em&gt; (1999) paper detailing how calmodulin (CaM) adopts a unique binding mode when interacting with CaMKK, revealing an extended 26-residue peptide interface and an opposite binding orientation, distinguishing it from classical CaM-target interactions — a new paradigm in calcium signaling complexes.</description>
     </item>
     
     <item>
       <title>Autonomous Activity of CaMKKβ via Intramolecular Autophosphorylation at Thr482: A Mechanism to Bypass Calcium-Calmodulin Dependency</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/62/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/62/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/62/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/62/</guid>
       <description>Notes on a 2011 &lt;em&gt;ACS Biochemistry&lt;/em&gt; study showing that CaMKKβ, unlike CaMKKα, achieves high autonomous activity via intramolecular autophosphorylation at Thr482, partially releasing itself from autoinhibition and making it Ca2+/CaM-independent — revealing a unique kinase regulation mechanism within the CaMKK family.</description>
     </item>
     
     <item>
       <title>Target-Induced Conformational Adaptation of Calmodulin in Complex with Nematode CaMKK Peptide: Insights into Calcium-Dependent Kinase Regulation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/63/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/63/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/63/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/63/</guid>
       <description>Notes on a 2001 &lt;em&gt;Journal of Molecular Biology&lt;/em&gt; paper revealing the crystal structure of Ca2+/CaM bound to a CaMKK-derived peptide, highlighting how calmodulin achieves conformational flexibility to accommodate diverse targets — offering a mechanistic basis for how CaM relieves autoinhibition of kinases like CaMKK and mediates calcium signal transduction.</description>
     </item>
     
     <item>
       <title>The Calmodulin-Fused Kinase (CFK) Family: A Major System Converting Calcium Signals into Protein Phosphorylation in Plants</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/61/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/61/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/61/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/61/</guid>
       <description>Notes on a 2017 &lt;em&gt;Scientific Reports&lt;/em&gt; study proposing the Calmodulin-Fused Kinase (CFK) family as the principal system for converting calcium signals to protein phosphorylation responses in plants, based on deep phylogenetic analysis tracing their evolutionary origins and functional diversification.</description>
     </item>
     
     <item>
       <title>Common Activation Mechanism in CDPK: Structural Insights into CAD Refolding</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/54/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/54/</link>
       <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/54/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/54/</guid>
       <description>Note on the detailed structural study of CDPK activation, focusing on apicomplexan CAD conformations (CpCDPK, PfCDPK3), offering new insight into a potentially universal activation mechanism for CDPKs.</description>
     </item>
     
     <item>
       <title>N-terminal Domain of CDPK1 Determines Substrate Specificity: A Key to Rewiring Kinase Signaling</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/55/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/55/</link>
       <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/55/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/55/</guid>
       <description>Note on the discovery that the variable N-terminal domain of CDPK1 controls substrate specificity—offering a new mechanism to engineer signaling specificity in plants.</description>
     </item>
     
     <item>
       <title>Prediction of EF-hand-like Calcium Binding Regions in Myosin Light Chain and T4 Lysozyme</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</guid>
       <description>A 1975 Science paper pioneering the computational prediction of EF-hand calcium-binding motifs in unexpected proteins, revealing evolutionary insights into calcium sensor domains and highlighting structural conservation even in non-calcium-binding proteins.</description>
     </item>
     
     <item>
       <title>Comparative Modeling Studies of the Calmodulin-like Domain of CDPK from Soybean</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/49/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/49/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/49/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/49/</guid>
       <description>A 2000 PROTEINS paper exploring the structural modeling of the calmodulin-like domain (CLD) of soybean CDPK-α, revealing unique domain features and potential intramolecular regulatory mechanisms based on homology modeling and experimental validation.</description>
     </item>
     
     <item>
       <title>Discovery of Calcium-Dependent Protein Kinase (CDPK) as a Calmodulin-like Kinase Family</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/50/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/50/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/50/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/50/</guid>
       <description>A 1991 Science paper reporting the discovery of a soybean CDPK as a novel class of calcium-dependent kinases, providing structural and evolutionary insights that shaped the understanding of CDPKs as CaM-like autonomous calcium sensors.</description>
     </item>
     
     <item>
       <title>Real-Time Imaging of CDPK Conformational Changes Reveals Calcium-Decoding Mechanisms in Planta</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/60/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/60/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/60/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/60/</guid>
       <description>Notes on a 2023 &lt;em&gt;The Plant Cell&lt;/em&gt; study that introduces a genetically encoded FRET-based biosensor to monitor real-time conformational changes of CDPKs (CPKs) in response to calcium signals in vivo, highlighting distinct calcium sensitivities of CPK21 and CPK23 in stress responses.</description>
     </item>
     
     <item>
       <title>Calmodulin Trapping by CaMKII: A Mechanism for Frequency Decoding of Calcium Signals</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/59/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/59/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/59/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/59/</guid>
       <description>Notes on a 1992 &lt;em&gt;Science&lt;/em&gt; paper introducing the concept of &amp;lsquo;calmodulin trapping&amp;rsquo; by CaMKII via Thr286 autophosphorylation, establishing a mechanism for potentiating and decoding transient calcium signals through enhanced CaM binding.</description>
     </item>
     
     <item>
       <title>Structure of the Regulatory Apparatus of a Calcium-Dependent Protein Kinase (CDPK): A Novel Mode of Calmodulin-Target Recognition</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/48/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/48/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/48/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/48/</guid>
       <description>A 2006 JMB study presenting the crystal structure of Arabidopsis CDPK&amp;rsquo;s regulatory domain, revealing a domain-swapped dimer and an unexpected mechanism of calmodulin-like domain (CaM-LD) recognition, challenging classical calmodulin-target models.</description>
     </item>
     
     <item>
       <title>Dual Role of Calmodulin in CaMKII Autophosphorylation: Decoding Calcium Frequency</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/58/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/58/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/58/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/58/</guid>
       <description>Note on the seminal 1994 paper unveiling calmodulin&amp;rsquo;s dual role in CaMKII autophosphorylation and proposing a model for calcium frequency decoding in neurons. Includes reflections on CDPK parallels and a comparative framework for calcium signaling kinases.</description>
     </item>
     
     <item>
       <title>Evidence for Differing Roles for Each Lobe of the Calmodulin-like Domain in a Calcium-dependent Protein Kinase</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/46/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/46/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/46/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/46/</guid>
       <description>Notes on a 2004 &lt;em&gt;JBC&lt;/em&gt; paper exploring differential roles of N- and C-lobes in the CaM-like domain (CaM-LD) of CDPK, uncovering distinct Ca2+ affinities and their role in regulating kinase activation through interactions with the junction domain.</description>
     </item>
     
     <item>
       <title>Unexpected Structure of the Ca2&#43;-Regulatory Region from Soybean Calcium-dependent Protein Kinase-Alpha</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/47/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/47/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/47/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/47/</guid>
       <description>Notes on a 2004 JBC paper uncovering the high-resolution structure of the Ca2+-regulatory domain of soybean CDPK-alpha, revealing novel lobe interactions and a pivot-based mechanism, distinct from calmodulin-based models.</description>
     </item>
     
     <item>
       <title>Activation of a Ca2&#43;-dependent Protein Kinase Involves Intramolecular Binding of a Calmodulin-like Regulatory Domain</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/45/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/45/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/45/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/45/</guid>
       <description>Notes on a 1996 &lt;em&gt;Biochemistry&lt;/em&gt; paper revealing that activation of CDPK involves intramolecular binding between its calmodulin-like domain (CaM-LD) and junction/autoinhibitor, offering deep insights into Ca2+-regulated protein kinase activation.</description>
     </item>
     
     <item>
       <title>Membrane Localization of a Rice Calcium-Dependent Protein Kinase (CDPK) Is Mediated by Myristoylation and Palmitoylation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/44/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/44/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/44/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/44/</guid>
       <description>Notes on a 2000 &lt;em&gt;Plant Journal&lt;/em&gt; paper identifying dual lipid modifications — myristoylation and palmitoylation — as essential for membrane targeting of rice CDPK (OsCDPK2), marking the first report of such dual acylation in plant CDPKs.</description>
     </item>
     
     <item>
       <title>Tobacco Calcium-Dependent Protein Kinases Are Differentially Phosphorylated In Vivo as Part of a Kinase Cascade That Regulates Stress Response</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/43/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/43/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/43/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/43/</guid>
       <description>Notes on a 2010 JBC paper investigating in vivo phosphorylation of tobacco CDPKs (NtCDPK2 and NtCDPK3) in response to stress, revealing distinct intra- and inter-molecular phosphorylation events, N-terminal-specific regulation, and the critical role of membrane localization.</description>
     </item>
     
     <item>
       <title>Autophosphorylation-Dependent Activation of a Calcium-Dependent Protein Kinase from Groundnut</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/42/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/42/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/42/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/42/</guid>
       <description>Notes on a 1999 ASPS paper analyzing autophosphorylation-dependent activation of a calcium-dependent protein kinase (GnCDPK) from groundnut and its role in substrate phosphorylation.</description>
     </item>
     
     <item>
       <title>Histidine Protein Kinases: Key Signal Transducers Outside the Animal Kingdom </title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/92/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/92/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/92/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/92/</guid>
       <description>Comprehensive overview of Histidine Protein Kinases (HPKs), their role in two-component signaling systems across bacteria and non-animal eukaryotes, their domain structure, mechanism, and evolutionary significance.</description>
     </item>
     
     <item>
       <title>Predicting Coiled-Coil from Protein Sequences: A 1991 Science Classic</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</guid>
       <description>Notes on the foundational 1991 Science paper introducing a sequence-based method to predict coiled-coil domains. This paper outlines a statistical framework using heptad repeat patterns, Gaussian distributions, and sliding windows, uncovering over 200 proteins in GenBank with potential coiled-coil motifs.</description>
     </item>
     
     <item>
       <title>KALRN: A Central Regulator of Synaptic Function and Synaptopathies (Gene, 2021)</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/93/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/93/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/93/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/93/</guid>
       <description>Comprehensive review of kalirin (KALRN) as a regulator of synaptic plasticity, its molecular domains and isoforms, and its emerging link to neurodevelopmental and neuropsychiatric disorders.</description>
     </item>
     
     <item>
       <title>Rapid Whole Cell Imaging Reveals a Calcium-APPL1-Dynein Nexus that Regulates Cohort Trafficking of Stimulated EGF Receptors</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/88/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/88/</link>
       <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/88/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/88/</guid>
       <description>Notes on the 2021 Nature Communications paper revealing a calcium-dependent APPL1-dynein mechanism that coordinates collective EGFR trafficking to the perinuclear region following stimulation.</description>
     </item>
     
     <item>
       <title>A Critical Evolution of Protein Kinase Regulation by Activation Loop Autophosphorylation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/85/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/85/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/85/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/85/</guid>
       <description>Notes on the 2023 eLife review analyzing protein kinase activation loop autophosphorylation. Discusses cis vs. trans mechanisms, dimerization, regulation, and the biochemical, structural, and kinetic evidence for these processes, while addressing the enigmatic nature of autophosphorylation.</description>
     </item>
     
     <item>
       <title>Kinetic and Catalytic Mechanisms of Protein Kinases</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/87/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/87/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/87/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/87/</guid>
       <description>Comprehensive notes on the 2001 Chemical Reviews paper exploring the catalytic and kinetic mechanisms of protein kinases, with PKA as a model system. Covers substrate recognition, metal ion roles, phosphoryl transfer mechanisms, activation loop function, and rate-determining steps.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/76_null/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/76_null/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/76_null/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/76_null/</guid>
       <description></description>
     </item>
     

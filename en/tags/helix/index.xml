@@ -2,134 +2,134 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Helix on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/tags/helix/</link>
+    <link>https://ruoqi28.github.io/en/tags/helix/</link>
     <description>Recent content in Helix on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/helix/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/tags/helix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Protein Kinases: Evolution of Dynamic Regulatory Proteins</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/7/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/7/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/7/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/7/</guid>
       <description>Notes on 2010 Cell Review article exploring the structural and evolutionary principles that shape the dynamic regulatory mechanisms of protein kinases.</description>
     </item>
     
     <item>
       <title>Protein Kinases: Evolution of Dynamic Regulatory Proteins</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/7/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/7/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/7/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/7/</guid>
       <description>Notes on 2010 Cell Review article exploring the structural and evolutionary principles that shape the dynamic regulatory mechanisms of protein kinases.</description>
     </item>
     
     <item>
       <title>F-Helix as a Structural Scaffold for Active Protein Kinase Assembly</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/4/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/4/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/4/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/4/</guid>
       <description>Notes on 2008_PNAS paper revealing F-helix as a hub for regulatory and catalytic spine anchoring in protein kinases.</description>
     </item>
     
     <item>
       <title>F-Helix as a Structural Scaffold for Active Protein Kinase Assembly</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</guid>
       <description>Notes on 2008_PNAS paper revealing F-helix as a hub for regulatory and catalytic spine anchoring in protein kinases.</description>
     </item>
     
     <item>
       <title>SOCKET: A Program for Identifying and Analyzing Coiled-Coil Motifs within Protein Structures</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/78/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/78/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/78/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/78/</guid>
       <description>Notes on the 2001 JMB paper introducing SOCKET, a computational tool that identifies coiled-coil motifs based on structural features rather than sequence patterns. Highlights the diversity of coiled-coil structures, the central role of knobs-into-holes packing, and applications in structural analysis and design.</description>
     </item>
     
     <item>
       <title>SOCKET: A Program for Identifying and Analyzing Coiled-Coil Motifs within Protein Structures</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</guid>
       <description>Notes on the 2001 JMB paper introducing SOCKET, a computational tool that identifies coiled-coil motifs based on structural features rather than sequence patterns. Highlights the diversity of coiled-coil structures, the central role of knobs-into-holes packing, and applications in structural analysis and design.</description>
     </item>
     
     <item>
       <title>Principles of Helix-Helix Packing in Proteins: The Helical Lattice Superposition Model</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/77/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/77/</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/77/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/77/</guid>
       <description>Notes on the 1996 JMB paper introducing the Helical Lattice Superposition Model for analyzing helix-helix packing geometry in proteins. Explores mathematical formulations of optimal packing angles, comparing &amp;lsquo;knobs into holes&amp;rsquo; and &amp;lsquo;ridges into grooves&amp;rsquo; models, and provides insights into amino acid preferences and packing flexibility.</description>
     </item>
     
     <item>
       <title>Principles of Helix-Helix Packing in Proteins: The Helical Lattice Superposition Model</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/77/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/77/</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/77/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/77/</guid>
       <description>Notes on the 1996 JMB paper introducing the Helical Lattice Superposition Model for analyzing helix-helix packing geometry in proteins. Explores mathematical formulations of optimal packing angles, comparing &amp;lsquo;knobs into holes&amp;rsquo; and &amp;lsquo;ridges into grooves&amp;rsquo; models, and provides insights into amino acid preferences and packing flexibility.</description>
     </item>
     
     <item>
       <title>Mechanism of CDK Activation Revealed by the Structure of a CyclinA-CDK2 Complex</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/72/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/72/</link>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/72/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/72/</guid>
       <description>Notes on a 1995 &lt;em&gt;Nature&lt;/em&gt; paper revealing the structural mechanism of CDK2 activation by cyclinA, focusing on key conformational changes that relieve autoinhibition and organize the catalytic site.</description>
     </item>
     
     <item>
       <title>Mechanism of CDK Activation Revealed by the Structure of a CyclinA-CDK2 Complex</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</link>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</guid>
       <description>Notes on a 1995 &lt;em&gt;Nature&lt;/em&gt; paper revealing the structural mechanism of CDK2 activation by cyclinA, focusing on key conformational changes that relieve autoinhibition and organize the catalytic site.</description>
     </item>
     
     <item>
       <title>Unexpected Structure of the Ca2&#43;-Regulatory Region from Soybean Calcium-dependent Protein Kinase-Alpha</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/47/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/47/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/47/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/47/</guid>
       <description>Notes on a 2004 JBC paper uncovering the high-resolution structure of the Ca2+-regulatory domain of soybean CDPK-alpha, revealing novel lobe interactions and a pivot-based mechanism, distinct from calmodulin-based models.</description>
     </item>
     
     <item>
       <title>Unexpected Structure of the Ca2&#43;-Regulatory Region from Soybean Calcium-dependent Protein Kinase-Alpha</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/47/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/47/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/47/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/47/</guid>
       <description>Notes on a 2004 JBC paper uncovering the high-resolution structure of the Ca2+-regulatory domain of soybean CDPK-alpha, revealing novel lobe interactions and a pivot-based mechanism, distinct from calmodulin-based models.</description>
     </item>
     
     <item>
       <title>Predicting Coiled-Coil from Protein Sequences: A 1991 Science Classic</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/86/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/86/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/86/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/86/</guid>
       <description>Notes on the foundational 1991 Science paper introducing a sequence-based method to predict coiled-coil domains. This paper outlines a statistical framework using heptad repeat patterns, Gaussian distributions, and sliding windows, uncovering over 200 proteins in GenBank with potential coiled-coil motifs.</description>
     </item>
     
     <item>
       <title>Predicting Coiled-Coil from Protein Sequences: A 1991 Science Classic</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</guid>
       <description>Notes on the foundational 1991 Science paper introducing a sequence-based method to predict coiled-coil domains. This paper outlines a statistical framework using heptad repeat patterns, Gaussian distributions, and sliding windows, uncovering over 200 proteins in GenBank with potential coiled-coil motifs.</description>
     </item>
     

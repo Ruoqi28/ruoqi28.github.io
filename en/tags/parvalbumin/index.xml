@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Parvalbumin on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/tags/parvalbumin/</link>
+    <link>https://ruoqi28.github.io/en/tags/parvalbumin/</link>
     <description>Recent content in Parvalbumin on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/parvalbumin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/tags/parvalbumin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prediction of EF-hand-like Calcium Binding Regions in Myosin Light Chain and T4 Lysozyme</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/51/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/51/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/51/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/51/</guid>
       <description>A 1975 Science paper pioneering the computational prediction of EF-hand calcium-binding motifs in unexpected proteins, revealing evolutionary insights into calcium sensor domains and highlighting structural conservation even in non-calcium-binding proteins.</description>
     </item>
     
     <item>
       <title>Prediction of EF-hand-like Calcium Binding Regions in Myosin Light Chain and T4 Lysozyme</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</guid>
       <description>A 1975 Science paper pioneering the computational prediction of EF-hand calcium-binding motifs in unexpected proteins, revealing evolutionary insights into calcium sensor domains and highlighting structural conservation even in non-calcium-binding proteins.</description>
     </item>
     

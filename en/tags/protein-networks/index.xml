@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Protein Networks on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/tags/protein-networks/</link>
+    <link>https://ruoqi28.github.io/en/tags/protein-networks/</link>
     <description>Recent content in Protein Networks on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/protein-networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/tags/protein-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evolutionarily Conserved Networks of Residues Mediate Allosteric Communication in Proteins</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/30/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/30/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/30/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/30/</guid>
       <description>Notes on a 2003 Nature Structural Biology paper introducing the concept of evolutionarily conserved residue networks that mediate allosteric communication. Using sequence-based statistical coupling analysis (SCA), the authors map sparse, functionally critical networks in GPCRs, proteases, and hemoglobins, highlighting a fundamental mechanism of long-range communication in protein structures.</description>
     </item>
     
     <item>
       <title>Evolutionarily Conserved Networks of Residues Mediate Allosteric Communication in Proteins</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</guid>
       <description>Notes on a 2003 Nature Structural Biology paper introducing the concept of evolutionarily conserved residue networks that mediate allosteric communication. Using sequence-based statistical coupling analysis (SCA), the authors map sparse, functionally critical networks in GPCRs, proteases, and hemoglobins, highlighting a fundamental mechanism of long-range communication in protein structures.</description>
     </item>
     

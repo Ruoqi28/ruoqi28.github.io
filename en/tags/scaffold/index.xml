@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Scaffold on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/tags/scaffold/</link>
+    <link>https://ruoqi28.github.io/en/tags/scaffold/</link>
     <description>Recent content in Scaffold on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/scaffold/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/tags/scaffold/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Structural Basis for Diversity of the EF-hand Calcium-binding Proteins</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/24/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/24/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/24/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/24/</guid>
       <description>Notes on 2006 JMB review detailing EF-hand protein diversity, mechanisms of Ca2+ binding, and conformational change. Highlights the EFbeta-scaffold model and structural determinants of domain opening in calcium-binding proteins.</description>
     </item>
     
     <item>
       <title>Structural Basis for Diversity of the EF-hand Calcium-binding Proteins</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/24/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/24/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/24/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/24/</guid>
       <description>Notes on 2006 JMB review detailing EF-hand protein diversity, mechanisms of Ca2+ binding, and conformational change. Highlights the EFbeta-scaffold model and structural determinants of domain opening in calcium-binding proteins.</description>
     </item>
     
     <item>
       <title>AKAP Signaling Complexes: Focal Points in Space and Time</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/89/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/89/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/89/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/89/</guid>
       <description>Comprehensive notes on AKAPs as molecular scaffolds that regulate spatial and temporal signaling by anchoring PKA and other enzymes, enabling precise phosphorylation events in response to cellular stimuli.</description>
     </item>
     
     <item>
       <title>AKAP Signaling Complexes: Focal Points in Space and Time</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/89/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/89/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/89/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/89/</guid>
       <description>Comprehensive notes on AKAPs as molecular scaffolds that regulate spatial and temporal signaling by anchoring PKA and other enzymes, enabling precise phosphorylation events in response to cellular stimuli.</description>
     </item>
     
     <item>
       <title>Structures of Two Repeats of Spectrin Suggest Models of Flexibility</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/79/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/79/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/79/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/79/</guid>
       <description>Notes on the 1999 Cell paper describing crystal structures of spectrin repeats and introducing two models for spectrin&amp;rsquo;s flexibility: conformational rearrangement and linker bending. Provides insights into spectrin’s role as a flexible cytoskeletal scaffold.</description>
     </item>
     
     <item>
       <title>Structures of Two Repeats of Spectrin Suggest Models of Flexibility</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/79/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/79/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/79/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/79/</guid>
       <description>Notes on the 1999 Cell paper describing crystal structures of spectrin repeats and introducing two models for spectrin&amp;rsquo;s flexibility: conformational rearrangement and linker bending. Provides insights into spectrin’s role as a flexible cytoskeletal scaffold.</description>
     </item>
     
     <item>
       <title>Assembly of Allosteric Macromolecular Switches: Lessons from PKA</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/74/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/74/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/74/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/74/</guid>
       <description>Comprehensive review on how PKA holoenzyme assembly provides unique insights into kinase regulation, highlighting regulatory-catalytic subunit interactions, anchoring proteins, and macromolecular scaffolds.</description>
     </item>
     
     <item>
       <title>Assembly of Allosteric Macromolecular Switches: Lessons from PKA</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/74/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/74/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/74/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/74/</guid>
       <description>Comprehensive review on how PKA holoenzyme assembly provides unique insights into kinase regulation, highlighting regulatory-catalytic subunit interactions, anchoring proteins, and macromolecular scaffolds.</description>
     </item>
     

@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Evolution on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/tags/evolution/</link>
+    <link>https://ruoqi28.github.io/en/tags/evolution/</link>
     <description>Recent content in Evolution on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evolutionarily Conserved Networks of Residues Mediate Allosteric Communication in Proteins</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/30/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/30/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/30/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/30/</guid>
       <description>Notes on a 2003 Nature Structural Biology paper introducing the concept of evolutionarily conserved residue networks that mediate allosteric communication. Using sequence-based statistical coupling analysis (SCA), the authors map sparse, functionally critical networks in GPCRs, proteases, and hemoglobins, highlighting a fundamental mechanism of long-range communication in protein structures.</description>
     </item>
     
     <item>
       <title>Evolutionarily Conserved Networks of Residues Mediate Allosteric Communication in Proteins</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</guid>
       <description>Notes on a 2003 Nature Structural Biology paper introducing the concept of evolutionarily conserved residue networks that mediate allosteric communication. Using sequence-based statistical coupling analysis (SCA), the authors map sparse, functionally critical networks in GPCRs, proteases, and hemoglobins, highlighting a fundamental mechanism of long-range communication in protein structures.</description>
     </item>
     
     <item>
       <title>Molecular Evolution of CDPKs in Plants and Protists: The Role of Ancestral Introns</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/56/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/56/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/56/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/56/</guid>
       <description>Note on the evolutionary insights of CDPKs and CRKs through intron/exon analysis, proposing a monophyletic origin and highlighting the role of ancient intron-mediated gene fusion in the origin of CDPKs.</description>
     </item>
     
     <item>
       <title>Molecular Evolution of CDPKs in Plants and Protists: The Role of Ancestral Introns</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/56/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/56/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/56/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/56/</guid>
       <description>Note on the evolutionary insights of CDPKs and CRKs through intron/exon analysis, proposing a monophyletic origin and highlighting the role of ancient intron-mediated gene fusion in the origin of CDPKs.</description>
     </item>
     
     <item>
       <title>The Calmodulin-Fused Kinase (CFK) Family: A Major System Converting Calcium Signals into Protein Phosphorylation in Plants</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/61/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/61/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/61/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/61/</guid>
       <description>Notes on a 2017 &lt;em&gt;Scientific Reports&lt;/em&gt; study proposing the Calmodulin-Fused Kinase (CFK) family as the principal system for converting calcium signals to protein phosphorylation responses in plants, based on deep phylogenetic analysis tracing their evolutionary origins and functional diversification.</description>
     </item>
     
     <item>
       <title>The Calmodulin-Fused Kinase (CFK) Family: A Major System Converting Calcium Signals into Protein Phosphorylation in Plants</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/61/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/61/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/61/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/61/</guid>
       <description>Notes on a 2017 &lt;em&gt;Scientific Reports&lt;/em&gt; study proposing the Calmodulin-Fused Kinase (CFK) family as the principal system for converting calcium signals to protein phosphorylation responses in plants, based on deep phylogenetic analysis tracing their evolutionary origins and functional diversification.</description>
     </item>
     
     <item>
       <title>Prediction of EF-hand-like Calcium Binding Regions in Myosin Light Chain and T4 Lysozyme</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/51/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/51/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/51/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/51/</guid>
       <description>A 1975 Science paper pioneering the computational prediction of EF-hand calcium-binding motifs in unexpected proteins, revealing evolutionary insights into calcium sensor domains and highlighting structural conservation even in non-calcium-binding proteins.</description>
     </item>
     
     <item>
       <title>Prediction of EF-hand-like Calcium Binding Regions in Myosin Light Chain and T4 Lysozyme</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</guid>
       <description>A 1975 Science paper pioneering the computational prediction of EF-hand calcium-binding motifs in unexpected proteins, revealing evolutionary insights into calcium sensor domains and highlighting structural conservation even in non-calcium-binding proteins.</description>
     </item>
     
     <item>
       <title>Discovery of Calcium-Dependent Protein Kinase (CDPK) as a Calmodulin-like Kinase Family</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/50/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/50/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/50/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/50/</guid>
       <description>A 1991 Science paper reporting the discovery of a soybean CDPK as a novel class of calcium-dependent kinases, providing structural and evolutionary insights that shaped the understanding of CDPKs as CaM-like autonomous calcium sensors.</description>
     </item>
     
     <item>
       <title>Discovery of Calcium-Dependent Protein Kinase (CDPK) as a Calmodulin-like Kinase Family</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/50/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/50/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/50/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/50/</guid>
       <description>A 1991 Science paper reporting the discovery of a soybean CDPK as a novel class of calcium-dependent kinases, providing structural and evolutionary insights that shaped the understanding of CDPKs as CaM-like autonomous calcium sensors.</description>
     </item>
     

@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cell Cycle on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/tags/cell-cycle/</link>
+    <link>https://ruoqi28.github.io/en/tags/cell-cycle/</link>
     <description>Recent content in Cell Cycle on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/cell-cycle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/tags/cell-cycle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pinning Down Proline-Directed Phosphorylation Signaling</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/31/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/31/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/31/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/31/</guid>
       <description>Notes on a 2002 Trends in Cell Biology review introducing phosphorylation-specific prolyl isomerization as a novel signaling mechanism. Pin1-mediated cis-trans switching of pSer/Thr-Pro motifs acts as a conformational timer for cellular signaling, impacting activity, interactions, and localization of key regulatory proteins.</description>
     </item>
     
     <item>
       <title>Pinning Down Proline-Directed Phosphorylation Signaling</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/31/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/31/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/31/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/31/</guid>
       <description>Notes on a 2002 Trends in Cell Biology review introducing phosphorylation-specific prolyl isomerization as a novel signaling mechanism. Pin1-mediated cis-trans switching of pSer/Thr-Pro motifs acts as a conformational timer for cellular signaling, impacting activity, interactions, and localization of key regulatory proteins.</description>
     </item>
     
     <item>
       <title>Regulatory Modules: Coupling Protein Stability to Phosphorylation during Cell Division</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/10/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/10/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/10/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/10/</guid>
       <description>Notes on 2012 FEBS Review about how phosphorylation controls protein stability via phosphodegrons and phospho-inhibited degrons, integrating ubiquitin-mediated degradation in cell cycle regulation.</description>
     </item>
     
     <item>
       <title>Regulatory Modules: Coupling Protein Stability to Phosphorylation during Cell Division</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/10/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/10/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/10/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/10/</guid>
       <description>Notes on 2012 FEBS Review about how phosphorylation controls protein stability via phosphodegrons and phospho-inhibited degrons, integrating ubiquitin-mediated degradation in cell cycle regulation.</description>
     </item>
     
     <item>
       <title>Mechanism of CDK Activation Revealed by the Structure of a CyclinA-CDK2 Complex</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/72/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/72/</link>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/72/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/72/</guid>
       <description>Notes on a 1995 &lt;em&gt;Nature&lt;/em&gt; paper revealing the structural mechanism of CDK2 activation by cyclinA, focusing on key conformational changes that relieve autoinhibition and organize the catalytic site.</description>
     </item>
     
     <item>
       <title>Mechanism of CDK Activation Revealed by the Structure of a CyclinA-CDK2 Complex</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</link>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</guid>
       <description>Notes on a 1995 &lt;em&gt;Nature&lt;/em&gt; paper revealing the structural mechanism of CDK2 activation by cyclinA, focusing on key conformational changes that relieve autoinhibition and organize the catalytic site.</description>
     </item>
     

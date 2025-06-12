@@ -2,134 +2,134 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SPARKS on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/en/posts/mind/sparks/</link>
+    <link>https://ruoqi28.github.io/en/en/posts/mind/sparks/</link>
     <description>Recent content in SPARKS on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/en/posts/mind/sparks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/en/posts/mind/sparks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FIRST OF first</title>
-      <link>http://localhost:1313/en/en/posts/mind/sparks/s1/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/sparks/s1/</link>
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/sparks/s1/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/sparks/s1/</guid>
       <description>before you start the journey here&amp;hellip;</description>
     </item>
     
     <item>
       <title>Systems We Build, Systems We Are</title>
-      <link>http://localhost:1313/en/en/posts/mind/sparks/s2/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/sparks/s2/</link>
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/sparks/s2/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/sparks/s2/</guid>
       <description>Not chaos, protocols.</description>
     </item>
     
     <item>
       <title>What Would a Biological Protocol Look Like?</title>
-      <link>http://localhost:1313/en/en/posts/mind/sparks/s3/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/sparks/s3/</link>
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/sparks/s3/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/sparks/s3/</guid>
       <description>Not chaos, protocols.</description>
     </item>
     
     <item>
       <title>Life Runs on Protocols</title>
-      <link>http://localhost:1313/en/en/posts/mind/sparks/s3_1/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/sparks/s3_1/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/sparks/s3_1/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/sparks/s3_1/</guid>
       <description>Like us, life negotiates. Systems within systems.</description>
     </item>
     
     <item>
       <title>Protocol Layers in Biology — From Molecules to Systems</title>
-      <link>http://localhost:1313/en/en/posts/mind/sparks/s3_2/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/sparks/s3_2/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/sparks/s3_2/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/sparks/s3_2/</guid>
       <description>Life is not chaos — it runs on layered, negotiated protocols, from molecules to whole organisms.</description>
     </item>
     
     <item>
       <title>Molecular Layer — How Proteins Negotiate</title>
-      <link>http://localhost:1313/en/posts/mind/sparks/S3_21/</link>
+      <link>https://ruoqi28.github.io/en/posts/mind/sparks/S3_21/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/posts/mind/sparks/S3_21/</guid>
+      <guid>https://ruoqi28.github.io/en/posts/mind/sparks/S3_21/</guid>
       <description>Protein interactions aren&amp;rsquo;t random — they follow strict molecular protocols.</description>
     </item>
     
     <item>
       <title>Cellular Layer — How Cells Negotiate and Confirm Signals</title>
-      <link>http://localhost:1313/en/posts/mind/sparks/S3_22/</link>
+      <link>https://ruoqi28.github.io/en/posts/mind/sparks/S3_22/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/posts/mind/sparks/S3_22/</guid>
+      <guid>https://ruoqi28.github.io/en/posts/mind/sparks/S3_22/</guid>
       <description>Cells don&amp;rsquo;t just listen — they negotiate, confirm, and regulate communication.</description>
     </item>
     
     <item>
       <title>Network Layer — How Cells Resolve Conflicting Signals</title>
-      <link>http://localhost:1313/en/posts/mind/sparks/S3_23/</link>
+      <link>https://ruoqi28.github.io/en/posts/mind/sparks/S3_23/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/posts/mind/sparks/S3_23/</guid>
+      <guid>https://ruoqi28.github.io/en/posts/mind/sparks/S3_23/</guid>
       <description>Cells handle conflicting orders through internal negotiation — a network protocol at work.</description>
     </item>
     
     <item>
       <title>System Layer — Protocols for Organism-Wide Coordination</title>
-      <link>http://localhost:1313/en/posts/mind/sparks/S3_24/</link>
+      <link>https://ruoqi28.github.io/en/posts/mind/sparks/S3_24/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/posts/mind/sparks/S3_24/</guid>
+      <guid>https://ruoqi28.github.io/en/posts/mind/sparks/S3_24/</guid>
       <description>Organisms coordinate as a whole — through long-distance protocols that manage survival.</description>
     </item>
     
     <item>
       <title>Encoded, Embedded, Alive</title>
-      <link>http://localhost:1313/en/en/posts/mind/sparks/s4/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/sparks/s4/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/sparks/s4/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/sparks/s4/</guid>
       <description>Life runs on data, algorithms</description>
     </item>
     
     <item>
       <title>Network Protocols vs. Biological Protocols — Advanced Parallels</title>
-      <link>http://localhost:1313/en/en/posts/mind/sparks/s3_25/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/sparks/s3_25/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/sparks/s3_25/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/sparks/s3_25/</guid>
       <description>From TCP handshakes to receptor-ligand negotiations, life runs on protocols — structured, layered, and architectural.</description>
     </item>
     
     <item>
       <title>Data Structures and Biological Architecture</title>
-      <link>http://localhost:1313/en/en/posts/mind/sparks/s4_1/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/sparks/s4_1/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/sparks/s4_1/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/sparks/s4_1/</guid>
       <description>How data structures shape biological behavior — from protein complexes to signaling networks.</description>
     </item>
     
     <item>
       <title>Algorithms and Biological Behavior</title>
-      <link>http://localhost:1313/en/en/posts/mind/sparks/s4_2/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/sparks/s4_2/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/sparks/s4_2/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/sparks/s4_2/</guid>
       <description>Biology as computation — signaling cascades as algorithms, evolution as optimization.</description>
     </item>
     
     <item>
       <title>Rethinking Life as Protocol — A Philosophical Exploration</title>
-      <link>http://localhost:1313/en/en/posts/mind/sparks/s6/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/sparks/s6/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/sparks/s6/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/sparks/s6/</guid>
       <description>What if life itself is nothing but a system of protocols? From molecules to consciousness, from birth to death — to exist is to negotiate.</description>
     </item>
     

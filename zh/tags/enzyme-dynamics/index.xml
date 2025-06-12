@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Enzyme Dynamics on RD&#39;s Blog</title>
-    <link>http://localhost:1313/zh/tags/enzyme-dynamics/</link>
+    <link>https://ruoqi28.github.io/zh/tags/enzyme-dynamics/</link>
     <description>Recent content in Enzyme Dynamics on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh/tags/enzyme-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/zh/tags/enzyme-dynamics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book Recommendation: Dynamics in Enzyme Catalysis</title>
-      <link>http://localhost:1313/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/101/</link>
+      <link>https://ruoqi28.github.io/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/101/</link>
       <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/101/</guid>
+      <guid>https://ruoqi28.github.io/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/101/</guid>
       <description>An advanced collection of papers exploring the role of dynamics in enzyme catalysis, co-edited by Judith Klinman and Sharon Hammes-Schiffer. Includes my annotated version and a clean copy for download.</description>
     </item>
     

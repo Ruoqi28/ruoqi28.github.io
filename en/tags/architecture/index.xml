@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Architecture on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/tags/architecture/</link>
+    <link>https://ruoqi28.github.io/en/tags/architecture/</link>
     <description>Recent content in Architecture on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Structure of the Autoinhibited CaMKII Kinase Domain and SAXS Analysis of the Holoenzyme</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/68/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/68/</link>
       <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/68/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/68/</guid>
       <description>Notes on a 2005 &lt;em&gt;Cell&lt;/em&gt; paper revealing the crystal structure of autoinhibited CaMKII kinase domain and small-angle X-ray scattering (SAXS) analysis of the full holoenzyme, uncovering mechanisms for tight autoinhibition and explaining frequency-dependent activation.</description>
     </item>
     
     <item>
       <title>Structure of the Autoinhibited CaMKII Kinase Domain and SAXS Analysis of the Holoenzyme</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</link>
       <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</guid>
       <description>Notes on a 2005 &lt;em&gt;Cell&lt;/em&gt; paper revealing the crystal structure of autoinhibited CaMKII kinase domain and small-angle X-ray scattering (SAXS) analysis of the full holoenzyme, uncovering mechanisms for tight autoinhibition and explaining frequency-dependent activation.</description>
     </item>
     

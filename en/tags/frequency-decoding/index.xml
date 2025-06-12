@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Frequency Decoding on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/tags/frequency-decoding/</link>
+    <link>https://ruoqi28.github.io/en/tags/frequency-decoding/</link>
     <description>Recent content in Frequency Decoding on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/frequency-decoding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/tags/frequency-decoding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Structure-Function of the Multifunctional Ca2&#43;/Calmodulin-Dependent Protein Kinase II (CaMKII)</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/70/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/70/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/70/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/70/</guid>
       <description>Notes on a 2002 &lt;em&gt;JBC&lt;/em&gt; review dissecting CaMKII&amp;rsquo;s structure-function relationship, covering autoinhibition, isoform diversity, holoenzyme assembly, autophosphorylation, subunit exchange, and Ca2+/CaM frequency decoding — a foundational reference for understanding this multifunctional kinase as a calcium signal integrator.</description>
     </item>
     
     <item>
       <title>Structure-Function of the Multifunctional Ca2&#43;/Calmodulin-Dependent Protein Kinase II (CaMKII)</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</guid>
       <description>Notes on a 2002 &lt;em&gt;JBC&lt;/em&gt; review dissecting CaMKII&amp;rsquo;s structure-function relationship, covering autoinhibition, isoform diversity, holoenzyme assembly, autophosphorylation, subunit exchange, and Ca2+/CaM frequency decoding — a foundational reference for understanding this multifunctional kinase as a calcium signal integrator.</description>
     </item>
     
     <item>
       <title>Structure of the Autoinhibited CaMKII Kinase Domain and SAXS Analysis of the Holoenzyme</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/68/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/68/</link>
       <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/68/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/68/</guid>
       <description>Notes on a 2005 &lt;em&gt;Cell&lt;/em&gt; paper revealing the crystal structure of autoinhibited CaMKII kinase domain and small-angle X-ray scattering (SAXS) analysis of the full holoenzyme, uncovering mechanisms for tight autoinhibition and explaining frequency-dependent activation.</description>
     </item>
     
     <item>
       <title>Structure of the Autoinhibited CaMKII Kinase Domain and SAXS Analysis of the Holoenzyme</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</link>
       <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</guid>
       <description>Notes on a 2005 &lt;em&gt;Cell&lt;/em&gt; paper revealing the crystal structure of autoinhibited CaMKII kinase domain and small-angle X-ray scattering (SAXS) analysis of the full holoenzyme, uncovering mechanisms for tight autoinhibition and explaining frequency-dependent activation.</description>
     </item>
     
     <item>
       <title>A Mechanism for Tunable Autoinhibition in the Structure of Human CaMKII Holoenzyme</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/67/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/67/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/67/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/67/</guid>
       <description>Notes on a 2011 &lt;em&gt;Cell&lt;/em&gt; paper that reveals the full-length crystal structure of human CaMKII in its autoinhibited state and introduces a tunable mechanism for calcium signal decoding based on linker length-dependent conformational dynamics.</description>
     </item>
     
     <item>
       <title>A Mechanism for Tunable Autoinhibition in the Structure of Human CaMKII Holoenzyme</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/67/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/67/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/67/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/67/</guid>
       <description>Notes on a 2011 &lt;em&gt;Cell&lt;/em&gt; paper that reveals the full-length crystal structure of human CaMKII in its autoinhibited state and introduces a tunable mechanism for calcium signal decoding based on linker length-dependent conformational dynamics.</description>
     </item>
     
     <item>
       <title>The CaMKII Holoenzyme Structure in Activation-Competent Conformation</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/69/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/69/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/69/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/69/</guid>
       <description>Notes on a 2017 &lt;em&gt;Nature Communications&lt;/em&gt; paper revealing the 3D structure of the CaMKII holoenzyme in an activation-competent conformation, emphasizing the role of flexible linkers and dimeric kinase domain interactions in regulating activation and frequency decoding.</description>
     </item>
     
     <item>
       <title>The CaMKII Holoenzyme Structure in Activation-Competent Conformation</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/69/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/69/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/69/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/69/</guid>
       <description>Notes on a 2017 &lt;em&gt;Nature Communications&lt;/em&gt; paper revealing the 3D structure of the CaMKII holoenzyme in an activation-competent conformation, emphasizing the role of flexible linkers and dimeric kinase domain interactions in regulating activation and frequency decoding.</description>
     </item>
     
     <item>
       <title>Calmodulin Trapping by CaMKII: A Mechanism for Frequency Decoding of Calcium Signals</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/59/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/59/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/59/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/59/</guid>
       <description>Notes on a 1992 &lt;em&gt;Science&lt;/em&gt; paper introducing the concept of &amp;lsquo;calmodulin trapping&amp;rsquo; by CaMKII via Thr286 autophosphorylation, establishing a mechanism for potentiating and decoding transient calcium signals through enhanced CaM binding.</description>
     </item>
     
     <item>
       <title>Calmodulin Trapping by CaMKII: A Mechanism for Frequency Decoding of Calcium Signals</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/59/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/59/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/59/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/59/</guid>
       <description>Notes on a 1992 &lt;em&gt;Science&lt;/em&gt; paper introducing the concept of &amp;lsquo;calmodulin trapping&amp;rsquo; by CaMKII via Thr286 autophosphorylation, establishing a mechanism for potentiating and decoding transient calcium signals through enhanced CaM binding.</description>
     </item>
     
     <item>
       <title>Dual Role of Calmodulin in CaMKII Autophosphorylation: Decoding Calcium Frequency</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/58/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/58/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/58/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/58/</guid>
       <description>Note on the seminal 1994 paper unveiling calmodulin&amp;rsquo;s dual role in CaMKII autophosphorylation and proposing a model for calcium frequency decoding in neurons. Includes reflections on CDPK parallels and a comparative framework for calcium signaling kinases.</description>
     </item>
     
     <item>
       <title>Dual Role of Calmodulin in CaMKII Autophosphorylation: Decoding Calcium Frequency</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/58/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/58/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/58/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/58/</guid>
       <description>Note on the seminal 1994 paper unveiling calmodulin&amp;rsquo;s dual role in CaMKII autophosphorylation and proposing a model for calcium frequency decoding in neurons. Includes reflections on CDPK parallels and a comparative framework for calcium signaling kinases.</description>
     </item>
     

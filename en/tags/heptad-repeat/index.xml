@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Heptad Repeat on RD&#39;s Blog</title>
-    <link>http://localhost:1313/en/tags/heptad-repeat/</link>
+    <link>https://ruoqi28.github.io/en/tags/heptad-repeat/</link>
     <description>Recent content in Heptad Repeat on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/heptad-repeat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ruoqi28.github.io/en/tags/heptad-repeat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SOCKET: A Program for Identifying and Analyzing Coiled-Coil Motifs within Protein Structures</title>
-      <link>http://localhost:1313/en/en/posts/mind/mindscape/78/</link>
+      <link>https://ruoqi28.github.io/en/en/posts/mind/mindscape/78/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/en/posts/mind/mindscape/78/</guid>
+      <guid>https://ruoqi28.github.io/en/en/posts/mind/mindscape/78/</guid>
       <description>Notes on the 2001 JMB paper introducing SOCKET, a computational tool that identifies coiled-coil motifs based on structural features rather than sequence patterns. Highlights the diversity of coiled-coil structures, the central role of knobs-into-holes packing, and applications in structural analysis and design.</description>
     </item>
     
     <item>
       <title>SOCKET: A Program for Identifying and Analyzing Coiled-Coil Motifs within Protein Structures</title>
-      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</link>
+      <link>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</guid>
+      <guid>https://ruoqi28.github.io/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</guid>
       <description>Notes on the 2001 JMB paper introducing SOCKET, a computational tool that identifies coiled-coil motifs based on structural features rather than sequence patterns. Highlights the diversity of coiled-coil structures, the central role of knobs-into-holes packing, and applications in structural analysis and design.</description>
     </item>
     

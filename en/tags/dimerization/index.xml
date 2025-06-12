@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dimerization on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/dimerization/</link>
+    <description>Recent content in Dimerization on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/dimerization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conformational Coupling Across the Plasma Membrane in Activation of the EGF Receptor</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/76/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/76/</guid>
+      <description>&lt;strong&gt;An elegant dissection&lt;/strong&gt; of how &lt;strong&gt;EGFR activation&lt;/strong&gt; depends on &lt;strong&gt;conformational coupling across the plasma membrane&lt;/strong&gt;, revealing that &lt;strong&gt;ligand binding, transmembrane helix dimerization, and juxtamembrane interactions&lt;/strong&gt; are essential to overcoming &lt;strong&gt;membrane-imposed inhibition&lt;/strong&gt; and stabilizing the active kinase dimer.</description>
+    </item>
+    
+    <item>
+      <title>Architecture and Membrane Interaction of the EGF Receptor</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/97/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/97/</guid>
+      <description>A deep dive into the molecular dynamics and membrane interaction of EGFR, revealing distinct active and inactive conformations, the role of lipid environment, and subtle structural regulation.</description>
+    </item>
+    
+    <item>
+      <title>Architecture and Membrane Interaction of the EGF Receptor</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/97/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/97/</guid>
+      <description>A deep dive into the molecular dynamics and membrane interaction of EGFR, revealing distinct active and inactive conformations, the role of lipid environment, and subtle structural regulation.</description>
+    </item>
+    
+    <item>
+      <title>Conformational Coupling Across the Plasma Membrane in Activation of the EGF Receptor</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/98/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/98/</guid>
+      <description>An in-depth study of EGFR activation focusing on transmembrane and juxtamembrane coupling, density-dependent activation, and the role of the plasma membrane in maintaining autoinhibition.</description>
+    </item>
+    
+    <item>
+      <title>Conformational Coupling Across the Plasma Membrane in Activation of the EGF Receptor</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/98/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/98/</guid>
+      <description>An in-depth study of EGFR activation focusing on transmembrane and juxtamembrane coupling, density-dependent activation, and the role of the plasma membrane in maintaining autoinhibition.</description>
+    </item>
+    
+    <item>
+      <title>Structural Evidence for Loose Linkage Between Ligand Binding and Kinase Activation in EGFR</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/75/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/75/</guid>
+      <description>A study demonstrating that EGFR activation is not tightly coupled to specific transmembrane dimerization interfaces, suggesting a loose linkage between extracellular ligand binding and intracellular kinase activation.</description>
+    </item>
+    
+    <item>
+      <title>Structural Evidence for Loose Linkage Between Ligand Binding and Kinase Activation in EGFR</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/75/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/75/</guid>
+      <description>A study demonstrating that EGFR activation is not tightly coupled to specific transmembrane dimerization interfaces, suggesting a loose linkage between extracellular ligand binding and intracellular kinase activation.</description>
+    </item>
+    
+    <item>
+      <title>A Critical Evolution of Protein Kinase Regulation by Activation Loop Autophosphorylation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/85/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/85/</guid>
+      <description>Notes on the 2023 eLife review analyzing protein kinase activation loop autophosphorylation. Discusses cis vs. trans mechanisms, dimerization, regulation, and the biochemical, structural, and kinetic evidence for these processes, while addressing the enigmatic nature of autophosphorylation.</description>
+    </item>
+    
+    <item>
+      <title>A Critical Evolution of Protein Kinase Regulation by Activation Loop Autophosphorylation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/85/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/85/</guid>
+      <description>Notes on the 2023 eLife review analyzing protein kinase activation loop autophosphorylation. Discusses cis vs. trans mechanisms, dimerization, regulation, and the biochemical, structural, and kinetic evidence for these processes, while addressing the enigmatic nature of autophosphorylation.</description>
+    </item>
+    
+  </channel>
+</rss>

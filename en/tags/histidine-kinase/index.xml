@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Histidine Kinase on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/histidine-kinase/</link>
+    <description>Recent content in Histidine Kinase on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/histidine-kinase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Histidine Protein Kinases: Key Signal Transducers Outside the Animal Kingdom </title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/92/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/92/</guid>
+      <description>Comprehensive overview of Histidine Protein Kinases (HPKs), their role in two-component signaling systems across bacteria and non-animal eukaryotes, their domain structure, mechanism, and evolutionary significance.</description>
+    </item>
+    
+    <item>
+      <title>Histidine Protein Kinases: Key Signal Transducers Outside the Animal Kingdom </title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/92/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/92/</guid>
+      <description>Comprehensive overview of Histidine Protein Kinases (HPKs), their role in two-component signaling systems across bacteria and non-animal eukaryotes, their domain structure, mechanism, and evolutionary significance.</description>
+    </item>
+    
+  </channel>
+</rss>

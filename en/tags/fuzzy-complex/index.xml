@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fuzzy Complex on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/fuzzy-complex/</link>
+    <description>Recent content in Fuzzy Complex on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/fuzzy-complex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Behavior of Intrinsically Disordered Proteins (IDPs) in Protein-Protein Complexes: Emphasis on Fuzziness</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/11/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/11/</guid>
+      <description>Notes on 2017 review discussing how intrinsically disordered proteins (IDPs) form various types of complexes including fuzzy complexes, with implications for flexible signaling and dynamic regulation.</description>
+    </item>
+    
+    <item>
+      <title>Behavior of Intrinsically Disordered Proteins (IDPs) in Protein-Protein Complexes: Emphasis on Fuzziness</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/11/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/11/</guid>
+      <description>Notes on 2017 review discussing how intrinsically disordered proteins (IDPs) form various types of complexes including fuzzy complexes, with implications for flexible signaling and dynamic regulation.</description>
+    </item>
+    
+    <item>
+      <title>Binding Mechanism of Intrinsically Disordered Proteins: Theory, Simulation, and Experiment</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/32/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/32/</guid>
+      <description>Comprehensive 2016 Frontiers review on the diverse binding mechanisms of intrinsically disordered proteins (IDPs), covering theory, simulations, and experimental insights into how disorder facilitates interaction dynamics, specificity, and versatility in cellular signaling.</description>
+    </item>
+    
+    <item>
+      <title>Binding Mechanism of Intrinsically Disordered Proteins: Theory, Simulation, and Experiment</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/32/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/32/</guid>
+      <description>Comprehensive 2016 Frontiers review on the diverse binding mechanisms of intrinsically disordered proteins (IDPs), covering theory, simulations, and experimental insights into how disorder facilitates interaction dynamics, specificity, and versatility in cellular signaling.</description>
+    </item>
+    
+  </channel>
+</rss>

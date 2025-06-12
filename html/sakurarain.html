@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Sakura Letter Rain</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      height: 100%;
+      background: #0a0a0a;
+      font-family: monospace;
+    }
+
+    #sakura-bg {
+      position: fixed;
+      bottom: -50px;
+      left: 50%;
+      transform: translateX(-50%) rotate(0deg);
+      height: 420px;
+      z-index: 1;
+      pointer-events: none;
+      transform-origin: bottom center;
+      animation: sway 6s ease-in-out infinite;
+    }
+
+    @keyframes sway {
+      0%   { transform: translateX(-50%) rotate(0deg); }
+      25%  { transform: translateX(-50%) rotate(0.4deg); }
+      50%  { transform: translateX(-50%) rotate(0deg); }
+      75%  { transform: translateX(-50%) rotate(-0.4deg); }
+      100% { transform: translateX(-50%) rotate(0deg); }
+    }
+
+    canvas {
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: block;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    audio {
+      position: fixed;
+      bottom: 10px;
+      right: 20px;
+      z-index: 999;
+      opacity: 0.85;
+    }
+  </style>
+</head>
+<body>
+  <img id="sakura-bg" src="img/sakura2.png" alt="sakura tree">
+  <canvas id="particles"></canvas>
+  <canvas id="textRain"></canvas>
+  <audio autoplay loop controls>
+    <source src="music/oldmemory.mp3" type="audio/mp3" />
+  </audio>
+
+  <script>
+    const letters = "Happinessisbeingabletoholdanumbrellafortheoneyoulove".split("");
+    const _console = window.console;
+    Object.defineProperty(window, 'console', {
+      get: () => {
+        throw new Error('console access blocked');
+      },
+      set: () => {}
+    });
+
+    const particleCanvas = document.getElementById('particles');
+    const textCanvas = document.getElementById('textRain');
+    const pctx = particleCanvas.getContext('2d');
+    const tctx = textCanvas.getContext('2d');
+
+    function resize() {
+      particleCanvas.width = textCanvas.width = window.innerWidth;
+      particleCanvas.height = textCanvas.height = window.innerHeight;
+    }
+    resize();
+    window.addEventListener('resize', resize);
+
+    const particles = Array.from({ length: 100 }, () => ({
+      x: Math.random() * window.innerWidth,
+      y: Math.random() * window.innerHeight,
+      radius: 1 + Math.random() * 2,
+      speedY: -0.3 + Math.random() * 0.6,
+      alpha: 0.3 + Math.random() * 0.4
+    }));
+
+    const longLines = [];
+    function createLongLine() {
+      const line = {
+        x: Math.random() * window.innerWidth,
+        y: Math.random() * window.innerHeight * -1,
+        height: 80 + Math.random() * 200,
+        opacity: 0.4 + Math.random() * 0.3,
+        speed: 1 + Math.random() * 1.5
+      };
+      longLines.push(line);
+    }
+    setInterval(() => {
+      for (let i = 0; i < 3; i++) createLongLine();
+    }, 400);
+
+    const sparkles = [];
+    function createSparkle(x, y) {
+      for (let i = 0; i < 6; i++) {
+        const colors = ["#fff0f5", "#ffe4e1", "#ffddee", "#ffc0cb"];
+        const color = colors[Math.floor(Math.random() * colors.length)];
+        sparkles.push({
+          x,
+          y,
+          radius: 1.5 + Math.random() * 2,
+          dx: -1 + Math.random() * 2,
+          dy: -2 + Math.random() * -1,
+          life: 30,
+          color
+        });
+      }
+    }
+
+    function drawParticles() {
+      pctx.clearRect(0, 0, particleCanvas.width, particleCanvas.height);
+
+      for (let l of longLines) {
+        pctx.beginPath();
+        pctx.moveTo(l.x, l.y);
+        pctx.lineTo(l.x, l.y + l.height);
+        pctx.strokeStyle = `rgba(255, 182, 193, ${l.opacity})`;
+        pctx.lineWidth = 1.2;
+        pctx.stroke();
+        l.y += l.speed;
+        l.opacity -= 0.005;
+      }
+
+      for (let p of particles) {
+        pctx.beginPath();
+        pctx.arc(p.x, p.y, p.radius, 0, 2 * Math.PI);
+        pctx.fillStyle = `rgba(255,192,203,${p.alpha})`;
+        pctx.shadowColor = "#fdd";
+        pctx.shadowBlur = 10;
+        pctx.fill();
+
+        p.y += p.speedY;
+        if (p.y < 0) p.y = particleCanvas.height;
+      }
+
+      for (let i = sparkles.length - 1; i >= 0; i--) {
+        const s = sparkles[i];
+        pctx.beginPath();
+        pctx.arc(s.x, s.y, s.radius, 0, 2 * Math.PI);
+        pctx.fillStyle = s.color;
+        pctx.fill();
+        s.x += s.dx;
+        s.y += s.dy;
+        s.dy += 0.1;
+        s.life--;
+        if (s.life <= 0) sparkles.splice(i, 1);
+      }
+
+      requestAnimationFrame(drawParticles);
+    }
+    drawParticles();
+
+    const drops = [];
+    const columns = Math.floor(window.innerWidth / 24);
+    function createDrop() {
+      const columnIndex = Math.floor(Math.random() * columns);
+      drops.push({
+        x: columnIndex * 24 + 4,
+        y: -20,
+        speedY: 2 + Math.random() * 2,
+        gravity: 0.2 + Math.random() * 0.1,
+        letter: letters[Math.floor(Math.random() * letters.length)],
+        size: 18,
+        opacity: 0.85,
+        bounced: false,
+        bounceHeight: 0,
+        bounceAngle: -0.3 + Math.random() * 0.6
+      });
+    }
+    setInterval(() => {
+      for (let i = 0; i < 6; i++) createDrop();
+    }, 70);
+
+    function drawText() {
+      tctx.clearRect(0, 0, textCanvas.width, textCanvas.height);
+
+      const treeTop = textCanvas.height - 320;
+      const treeLeft = textCanvas.width / 2 - 260;
+      const treeRight = textCanvas.width / 2 + 260;
+
+      for (let i = drops.length - 1; i >= 0; i--) {
+        const d = drops[i];
+        const normX = (d.x - treeLeft) / (treeRight - treeLeft);
+        const treeCurve = treeTop - 100 * (1 - Math.pow((normX - 0.5) * 2, 2)) + 100;
+        const nextY = d.y + d.speedY;
+        const hitTree = !d.bounced && nextY >= treeCurve && d.y <= treeCurve && d.x >= treeLeft && d.x <= treeRight;
+
+        if (hitTree) {
+          createSparkle(d.x, d.y);
+          drops.splice(i, 1);
+          continue;
+        }
+
+        if (!d.bounced && d.y > textCanvas.height) {
+          createSparkle(d.x, textCanvas.height - 5);
+          drops.splice(i, 1);
+          continue;
+        }
+
+        if (d.bounced) {
+          d.bounceHeight++;
+          if (d.bounceHeight > 20) {
+            drops.splice(i, 1);
+            continue;
+          }
+          d.x += d.bounceAngle * 2;
+        }
+
+        d.speedY += d.gravity;
+        d.y += d.speedY;
+
+        tctx.font = `${d.size}px monospace`;
+        tctx.fillStyle = `rgba(255, 255, 255, ${d.opacity})`;
+        tctx.fillText(d.letter, d.x, d.y);
+
+        tctx.strokeStyle = `rgba(255, 255, 255, 0.12)`;
+        tctx.lineWidth = 1.2;
+        tctx.beginPath();
+        tctx.moveTo(d.x, d.y - 28);
+        tctx.lineTo(d.x, d.y);
+        tctx.stroke();
+      }
+      requestAnimationFrame(drawText);
+    }
+    drawText();
+  </script>
+
+  <!-- 自动跳回主页的逻辑 -->
+  <script>
+    (function () {
+      function goBack() {
+        window.location.href = "/en/";
+      }
+
+      ['mousemove', 'mousedown', 'keydown', 'scroll', 'touchstart'].forEach(evt => {
+        window.addEventListener(evt, goBack, { once: true });
+      });
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CaMKK on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/camkk/</link>
+    <description>Recent content in CaMKK on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/camkk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Molecular Mechanism Underlying Ca²⁺/Calmodulin Dependent Protein Kinase Kinase (CaMKK) Signal Transduction</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/95/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/95/</guid>
+      <description>An in-depth review of CaMKK signaling, including structural, regulatory, and functional insights into its activation, downstream effects, and implications for disease.</description>
+    </item>
+    
+    <item>
+      <title>Molecular Mechanism Underlying Ca²⁺/Calmodulin Dependent Protein Kinase Kinase (CaMKK) Signal Transduction</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/95/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/95/</guid>
+      <description>An in-depth review of CaMKK signaling, including structural, regulatory, and functional insights into its activation, downstream effects, and implications for disease.</description>
+    </item>
+    
+    <item>
+      <title>Ile441 Is Essential for Autoinhibition of CaMKK: Regulatory Mechanism of Ca2&#43;/Calmodulin-Dependent Protein Kinase Kinase</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/65/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/65/</guid>
+      <description>Notes on a 2000 &lt;em&gt;JBC&lt;/em&gt; paper dissecting the autoinhibitory mechanism of CaMKK, identifying Ile441 as critical for maintaining the inactive state, and showing that CaM-binding peptide orientation does not dictate relief from autoinhibition — a pivotal insight into CaMKK regulation.</description>
+    </item>
+    
+    <item>
+      <title>Ile441 Is Essential for Autoinhibition of CaMKK: Regulatory Mechanism of Ca2&#43;/Calmodulin-Dependent Protein Kinase Kinase</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/65/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/65/</guid>
+      <description>Notes on a 2000 &lt;em&gt;JBC&lt;/em&gt; paper dissecting the autoinhibitory mechanism of CaMKK, identifying Ile441 as critical for maintaining the inactive state, and showing that CaM-binding peptide orientation does not dictate relief from autoinhibition — a pivotal insight into CaMKK regulation.</description>
+    </item>
+    
+    <item>
+      <title>Unique Conformational Adaptation of Calmodulin to CaMKK: A Distinct Mode of Calcium-Dependent Kinase Regulation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/64/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/64/</guid>
+      <description>Notes on a landmark &lt;em&gt;Nature&lt;/em&gt; (1999) paper detailing how calmodulin (CaM) adopts a unique binding mode when interacting with CaMKK, revealing an extended 26-residue peptide interface and an opposite binding orientation, distinguishing it from classical CaM-target interactions — a new paradigm in calcium signaling complexes.</description>
+    </item>
+    
+    <item>
+      <title>Unique Conformational Adaptation of Calmodulin to CaMKK: A Distinct Mode of Calcium-Dependent Kinase Regulation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/64/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/64/</guid>
+      <description>Notes on a landmark &lt;em&gt;Nature&lt;/em&gt; (1999) paper detailing how calmodulin (CaM) adopts a unique binding mode when interacting with CaMKK, revealing an extended 26-residue peptide interface and an opposite binding orientation, distinguishing it from classical CaM-target interactions — a new paradigm in calcium signaling complexes.</description>
+    </item>
+    
+    <item>
+      <title>Autonomous Activity of CaMKKβ via Intramolecular Autophosphorylation at Thr482: A Mechanism to Bypass Calcium-Calmodulin Dependency</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/62/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/62/</guid>
+      <description>Notes on a 2011 &lt;em&gt;ACS Biochemistry&lt;/em&gt; study showing that CaMKKβ, unlike CaMKKα, achieves high autonomous activity via intramolecular autophosphorylation at Thr482, partially releasing itself from autoinhibition and making it Ca2+/CaM-independent — revealing a unique kinase regulation mechanism within the CaMKK family.</description>
+    </item>
+    
+    <item>
+      <title>Autonomous Activity of CaMKKβ via Intramolecular Autophosphorylation at Thr482: A Mechanism to Bypass Calcium-Calmodulin Dependency</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/62/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/62/</guid>
+      <description>Notes on a 2011 &lt;em&gt;ACS Biochemistry&lt;/em&gt; study showing that CaMKKβ, unlike CaMKKα, achieves high autonomous activity via intramolecular autophosphorylation at Thr482, partially releasing itself from autoinhibition and making it Ca2+/CaM-independent — revealing a unique kinase regulation mechanism within the CaMKK family.</description>
+    </item>
+    
+    <item>
+      <title>Target-Induced Conformational Adaptation of Calmodulin in Complex with Nematode CaMKK Peptide: Insights into Calcium-Dependent Kinase Regulation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/63/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/63/</guid>
+      <description>Notes on a 2001 &lt;em&gt;Journal of Molecular Biology&lt;/em&gt; paper revealing the crystal structure of Ca2+/CaM bound to a CaMKK-derived peptide, highlighting how calmodulin achieves conformational flexibility to accommodate diverse targets — offering a mechanistic basis for how CaM relieves autoinhibition of kinases like CaMKK and mediates calcium signal transduction.</description>
+    </item>
+    
+    <item>
+      <title>Target-Induced Conformational Adaptation of Calmodulin in Complex with Nematode CaMKK Peptide: Insights into Calcium-Dependent Kinase Regulation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/63/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/63/</guid>
+      <description>Notes on a 2001 &lt;em&gt;Journal of Molecular Biology&lt;/em&gt; paper revealing the crystal structure of Ca2+/CaM bound to a CaMKK-derived peptide, highlighting how calmodulin achieves conformational flexibility to accommodate diverse targets — offering a mechanistic basis for how CaM relieves autoinhibition of kinases like CaMKK and mediates calcium signal transduction.</description>
+    </item>
+    
+  </channel>
+</rss>

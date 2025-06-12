@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Autoinhibition on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/autoinhibition/</link>
+    <description>Recent content in Autoinhibition on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/autoinhibition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architecture and Membrane Interaction of the EGF Receptor</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/97/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/97/</guid>
+      <description>A deep dive into the molecular dynamics and membrane interaction of EGFR, revealing distinct active and inactive conformations, the role of lipid environment, and subtle structural regulation.</description>
+    </item>
+    
+    <item>
+      <title>Architecture and Membrane Interaction of the EGF Receptor</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/97/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/97/</guid>
+      <description>A deep dive into the molecular dynamics and membrane interaction of EGFR, revealing distinct active and inactive conformations, the role of lipid environment, and subtle structural regulation.</description>
+    </item>
+    
+    <item>
+      <title>Conformational Coupling Across the Plasma Membrane in Activation of the EGF Receptor</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/98/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/98/</guid>
+      <description>An in-depth study of EGFR activation focusing on transmembrane and juxtamembrane coupling, density-dependent activation, and the role of the plasma membrane in maintaining autoinhibition.</description>
+    </item>
+    
+    <item>
+      <title>Conformational Coupling Across the Plasma Membrane in Activation of the EGF Receptor</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/98/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/98/</guid>
+      <description>An in-depth study of EGFR activation focusing on transmembrane and juxtamembrane coupling, density-dependent activation, and the role of the plasma membrane in maintaining autoinhibition.</description>
+    </item>
+    
+    <item>
+      <title>Structure-Function of the Multifunctional Ca2&#43;/Calmodulin-Dependent Protein Kinase II (CaMKII)</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/70/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/70/</guid>
+      <description>Notes on a 2002 &lt;em&gt;JBC&lt;/em&gt; review dissecting CaMKII&amp;rsquo;s structure-function relationship, covering autoinhibition, isoform diversity, holoenzyme assembly, autophosphorylation, subunit exchange, and Ca2+/CaM frequency decoding — a foundational reference for understanding this multifunctional kinase as a calcium signal integrator.</description>
+    </item>
+    
+    <item>
+      <title>Structure-Function of the Multifunctional Ca2&#43;/Calmodulin-Dependent Protein Kinase II (CaMKII)</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</guid>
+      <description>Notes on a 2002 &lt;em&gt;JBC&lt;/em&gt; review dissecting CaMKII&amp;rsquo;s structure-function relationship, covering autoinhibition, isoform diversity, holoenzyme assembly, autophosphorylation, subunit exchange, and Ca2+/CaM frequency decoding — a foundational reference for understanding this multifunctional kinase as a calcium signal integrator.</description>
+    </item>
+    
+    <item>
+      <title>Ile441 Is Essential for Autoinhibition of CaMKK: Regulatory Mechanism of Ca2&#43;/Calmodulin-Dependent Protein Kinase Kinase</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/65/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/65/</guid>
+      <description>Notes on a 2000 &lt;em&gt;JBC&lt;/em&gt; paper dissecting the autoinhibitory mechanism of CaMKK, identifying Ile441 as critical for maintaining the inactive state, and showing that CaM-binding peptide orientation does not dictate relief from autoinhibition — a pivotal insight into CaMKK regulation.</description>
+    </item>
+    
+    <item>
+      <title>Ile441 Is Essential for Autoinhibition of CaMKK: Regulatory Mechanism of Ca2&#43;/Calmodulin-Dependent Protein Kinase Kinase</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/65/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/65/</guid>
+      <description>Notes on a 2000 &lt;em&gt;JBC&lt;/em&gt; paper dissecting the autoinhibitory mechanism of CaMKK, identifying Ile441 as critical for maintaining the inactive state, and showing that CaM-binding peptide orientation does not dictate relief from autoinhibition — a pivotal insight into CaMKK regulation.</description>
+    </item>
+    
+    <item>
+      <title>Structure of the Autoinhibited CaMKII Kinase Domain and SAXS Analysis of the Holoenzyme</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/68/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/68/</guid>
+      <description>Notes on a 2005 &lt;em&gt;Cell&lt;/em&gt; paper revealing the crystal structure of autoinhibited CaMKII kinase domain and small-angle X-ray scattering (SAXS) analysis of the full holoenzyme, uncovering mechanisms for tight autoinhibition and explaining frequency-dependent activation.</description>
+    </item>
+    
+    <item>
+      <title>Structure of the Autoinhibited CaMKII Kinase Domain and SAXS Analysis of the Holoenzyme</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</guid>
+      <description>Notes on a 2005 &lt;em&gt;Cell&lt;/em&gt; paper revealing the crystal structure of autoinhibited CaMKII kinase domain and small-angle X-ray scattering (SAXS) analysis of the full holoenzyme, uncovering mechanisms for tight autoinhibition and explaining frequency-dependent activation.</description>
+    </item>
+    
+    <item>
+      <title>A Mechanism for Tunable Autoinhibition in the Structure of Human CaMKII Holoenzyme</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/67/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/67/</guid>
+      <description>Notes on a 2011 &lt;em&gt;Cell&lt;/em&gt; paper that reveals the full-length crystal structure of human CaMKII in its autoinhibited state and introduces a tunable mechanism for calcium signal decoding based on linker length-dependent conformational dynamics.</description>
+    </item>
+    
+    <item>
+      <title>A Mechanism for Tunable Autoinhibition in the Structure of Human CaMKII Holoenzyme</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/67/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/67/</guid>
+      <description>Notes on a 2011 &lt;em&gt;Cell&lt;/em&gt; paper that reveals the full-length crystal structure of human CaMKII in its autoinhibited state and introduces a tunable mechanism for calcium signal decoding based on linker length-dependent conformational dynamics.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Coiled-Coil on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/coiled-coil/</link>
+    <description>Recent content in Coiled-Coil on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/coiled-coil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structures of Two Repeats of Spectrin Suggest Models of Flexibility</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/79/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/79/</guid>
+      <description>Notes on the 1999 Cell paper describing crystal structures of spectrin repeats and introducing two models for spectrin&amp;rsquo;s flexibility: conformational rearrangement and linker bending. Provides insights into spectrin’s role as a flexible cytoskeletal scaffold.</description>
+    </item>
+    
+    <item>
+      <title>Structures of Two Repeats of Spectrin Suggest Models of Flexibility</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/79/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/79/</guid>
+      <description>Notes on the 1999 Cell paper describing crystal structures of spectrin repeats and introducing two models for spectrin&amp;rsquo;s flexibility: conformational rearrangement and linker bending. Provides insights into spectrin’s role as a flexible cytoskeletal scaffold.</description>
+    </item>
+    
+    <item>
+      <title>SOCKET: A Program for Identifying and Analyzing Coiled-Coil Motifs within Protein Structures</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/78/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/78/</guid>
+      <description>Notes on the 2001 JMB paper introducing SOCKET, a computational tool that identifies coiled-coil motifs based on structural features rather than sequence patterns. Highlights the diversity of coiled-coil structures, the central role of knobs-into-holes packing, and applications in structural analysis and design.</description>
+    </item>
+    
+    <item>
+      <title>SOCKET: A Program for Identifying and Analyzing Coiled-Coil Motifs within Protein Structures</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</guid>
+      <description>Notes on the 2001 JMB paper introducing SOCKET, a computational tool that identifies coiled-coil motifs based on structural features rather than sequence patterns. Highlights the diversity of coiled-coil structures, the central role of knobs-into-holes packing, and applications in structural analysis and design.</description>
+    </item>
+    
+    <item>
+      <title>Structure of the Autoinhibited CaMKII Kinase Domain and SAXS Analysis of the Holoenzyme</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/68/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/68/</guid>
+      <description>Notes on a 2005 &lt;em&gt;Cell&lt;/em&gt; paper revealing the crystal structure of autoinhibited CaMKII kinase domain and small-angle X-ray scattering (SAXS) analysis of the full holoenzyme, uncovering mechanisms for tight autoinhibition and explaining frequency-dependent activation.</description>
+    </item>
+    
+    <item>
+      <title>Structure of the Autoinhibited CaMKII Kinase Domain and SAXS Analysis of the Holoenzyme</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</guid>
+      <description>Notes on a 2005 &lt;em&gt;Cell&lt;/em&gt; paper revealing the crystal structure of autoinhibited CaMKII kinase domain and small-angle X-ray scattering (SAXS) analysis of the full holoenzyme, uncovering mechanisms for tight autoinhibition and explaining frequency-dependent activation.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Coiled-Coil from Protein Sequences: A 1991 Science Classic</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/86/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/86/</guid>
+      <description>Notes on the foundational 1991 Science paper introducing a sequence-based method to predict coiled-coil domains. This paper outlines a statistical framework using heptad repeat patterns, Gaussian distributions, and sliding windows, uncovering over 200 proteins in GenBank with potential coiled-coil motifs.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Coiled-Coil from Protein Sequences: A 1991 Science Classic</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</guid>
+      <description>Notes on the foundational 1991 Science paper introducing a sequence-based method to predict coiled-coil domains. This paper outlines a statistical framework using heptad repeat patterns, Gaussian distributions, and sliding windows, uncovering over 200 proteins in GenBank with potential coiled-coil motifs.</description>
+    </item>
+    
+  </channel>
+</rss>

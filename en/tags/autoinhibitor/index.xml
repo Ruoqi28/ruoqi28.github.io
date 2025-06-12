@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Autoinhibitor on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/autoinhibitor/</link>
+    <description>Recent content in Autoinhibitor on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/autoinhibitor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Activation of a Ca2&#43;-dependent Protein Kinase Involves Intramolecular Binding of a Calmodulin-like Regulatory Domain</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/45/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/45/</guid>
+      <description>Notes on a 1996 &lt;em&gt;Biochemistry&lt;/em&gt; paper revealing that activation of CDPK involves intramolecular binding between its calmodulin-like domain (CaM-LD) and junction/autoinhibitor, offering deep insights into Ca2+-regulated protein kinase activation.</description>
+    </item>
+    
+    <item>
+      <title>Activation of a Ca2&#43;-dependent Protein Kinase Involves Intramolecular Binding of a Calmodulin-like Regulatory Domain</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/45/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/45/</guid>
+      <description>Notes on a 1996 &lt;em&gt;Biochemistry&lt;/em&gt; paper revealing that activation of CDPK involves intramolecular binding between its calmodulin-like domain (CaM-LD) and junction/autoinhibitor, offering deep insights into Ca2+-regulated protein kinase activation.</description>
+    </item>
+    
+  </channel>
+</rss>

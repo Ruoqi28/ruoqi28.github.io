@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spine on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/spine/</link>
+    <description>Recent content in Spine on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/spine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regulation of Protein Kinases: Activation Segment Conformation and Functional Control</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/9/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/9/</guid>
+      <description>Notes on 2004 Molecular Cell review analyzing how activation segment conformation regulates protein kinase activity, including insights into RD pocket, anchor residues, and alternative activation mechanisms.</description>
+    </item>
+    
+    <item>
+      <title>Regulation of Protein Kinases: Activation Segment Conformation and Functional Control</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/9/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/9/</guid>
+      <description>Notes on 2004 Molecular Cell review analyzing how activation segment conformation regulates protein kinase activity, including insights into RD pocket, anchor residues, and alternative activation mechanisms.</description>
+    </item>
+    
+    <item>
+      <title>Community Analysis of PKA: A Dynamic View of Kinase Architecture</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/2/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/2/</guid>
+      <description>Notes on a 2014 PNAS paper analyzing PKA dynamics through community analysis.</description>
+    </item>
+    
+    <item>
+      <title>Protein Kinases: Evolution of Dynamic Regulatory Proteins</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/7/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/7/</guid>
+      <description>Notes on 2010 Cell Review article exploring the structural and evolutionary principles that shape the dynamic regulatory mechanisms of protein kinases.</description>
+    </item>
+    
+    <item>
+      <title>Protein Kinases: Evolution of Dynamic Regulatory Proteins</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/7/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/7/</guid>
+      <description>Notes on 2010 Cell Review article exploring the structural and evolutionary principles that shape the dynamic regulatory mechanisms of protein kinases.</description>
+    </item>
+    
+    <item>
+      <title>F-Helix as a Structural Scaffold for Active Protein Kinase Assembly</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/4/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/4/</guid>
+      <description>Notes on 2008_PNAS paper revealing F-helix as a hub for regulatory and catalytic spine anchoring in protein kinases.</description>
+    </item>
+    
+    <item>
+      <title>F-Helix as a Structural Scaffold for Active Protein Kinase Assembly</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</guid>
+      <description>Notes on 2008_PNAS paper revealing F-helix as a hub for regulatory and catalytic spine anchoring in protein kinases.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CaMKKβ on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/camkk%CE%B2/</link>
+    <description>Recent content in CaMKKβ on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/camkk%CE%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autonomous Activity of CaMKKβ via Intramolecular Autophosphorylation at Thr482: A Mechanism to Bypass Calcium-Calmodulin Dependency</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/62/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/62/</guid>
+      <description>Notes on a 2011 &lt;em&gt;ACS Biochemistry&lt;/em&gt; study showing that CaMKKβ, unlike CaMKKα, achieves high autonomous activity via intramolecular autophosphorylation at Thr482, partially releasing itself from autoinhibition and making it Ca2+/CaM-independent — revealing a unique kinase regulation mechanism within the CaMKK family.</description>
+    </item>
+    
+    <item>
+      <title>Autonomous Activity of CaMKKβ via Intramolecular Autophosphorylation at Thr482: A Mechanism to Bypass Calcium-Calmodulin Dependency</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/62/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/62/</guid>
+      <description>Notes on a 2011 &lt;em&gt;ACS Biochemistry&lt;/em&gt; study showing that CaMKKβ, unlike CaMKKα, achieves high autonomous activity via intramolecular autophosphorylation at Thr482, partially releasing itself from autoinhibition and making it Ca2+/CaM-independent — revealing a unique kinase regulation mechanism within the CaMKK family.</description>
+    </item>
+    
+  </channel>
+</rss>

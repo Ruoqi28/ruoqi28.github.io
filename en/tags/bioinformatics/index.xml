@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bioinformatics on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/bioinformatics/</link>
+    <description>Recent content in Bioinformatics on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predicting Coiled-Coil from Protein Sequences: A 1991 Science Classic</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/86/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/86/</guid>
+      <description>Notes on the foundational 1991 Science paper introducing a sequence-based method to predict coiled-coil domains. This paper outlines a statistical framework using heptad repeat patterns, Gaussian distributions, and sliding windows, uncovering over 200 proteins in GenBank with potential coiled-coil motifs.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Coiled-Coil from Protein Sequences: A 1991 Science Classic</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</guid>
+      <description>Notes on the foundational 1991 Science paper introducing a sequence-based method to predict coiled-coil domains. This paper outlines a statistical framework using heptad repeat patterns, Gaussian distributions, and sliding windows, uncovering over 200 proteins in GenBank with potential coiled-coil motifs.</description>
+    </item>
+    
+  </channel>
+</rss>

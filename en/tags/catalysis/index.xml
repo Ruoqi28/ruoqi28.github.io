@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Catalysis on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/catalysis/</link>
+    <description>Recent content in Catalysis on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/catalysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Identification of a Major Determinant for Serine-Threonine Kinase Phosphoacceptor Specificity</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/14/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/14/</guid>
+      <description>Notes on 2014 Cell paper that identifies the &amp;lsquo;DFG+1&amp;rsquo; residue as a key determinant of Ser/Thr kinase phosphoacceptor specificity, with structural and biochemical validation.</description>
+    </item>
+    
+    <item>
+      <title>Identification of a Major Determinant for Serine-Threonine Kinase Phosphoacceptor Specificity</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/14/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/14/</guid>
+      <description>Notes on 2014 Cell paper that identifies the &amp;lsquo;DFG+1&amp;rsquo; residue as a key determinant of Ser/Thr kinase phosphoacceptor specificity, with structural and biochemical validation.</description>
+    </item>
+    
+    <item>
+      <title>How Do Kinases Transfer Phosphoryl Groups</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/23/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/23/</guid>
+      <description>Notes on 1998 Cell review discussing kinase phosphoryl transfer mechanisms, conformational dynamics, cofactor roles, and binding motifs. Highlights the debate between associative (SN2) and dissociative (SN1) pathways, with structural evidence for both models.</description>
+    </item>
+    
+    <item>
+      <title>How Do Kinases Transfer Phosphoryl Groups</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/23/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/23/</guid>
+      <description>Notes on 1998 Cell review discussing kinase phosphoryl transfer mechanisms, conformational dynamics, cofactor roles, and binding motifs. Highlights the debate between associative (SN2) and dissociative (SN1) pathways, with structural evidence for both models.</description>
+    </item>
+    
+    <item>
+      <title>Kinetic and Catalytic Mechanisms of Protein Kinases</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/87/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/87/</guid>
+      <description>Comprehensive notes on the 2001 Chemical Reviews paper exploring the catalytic and kinetic mechanisms of protein kinases, with PKA as a model system. Covers substrate recognition, metal ion roles, phosphoryl transfer mechanisms, activation loop function, and rate-determining steps.</description>
+    </item>
+    
+    <item>
+      <title>Kinetic and Catalytic Mechanisms of Protein Kinases</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/87/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/87/</guid>
+      <description>Comprehensive notes on the 2001 Chemical Reviews paper exploring the catalytic and kinetic mechanisms of protein kinases, with PKA as a model system. Covers substrate recognition, metal ion roles, phosphoryl transfer mechanisms, activation loop function, and rate-determining steps.</description>
+    </item>
+    
+  </channel>
+</rss>

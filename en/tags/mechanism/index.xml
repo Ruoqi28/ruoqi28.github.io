@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mechanism on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/mechanism/</link>
+    <description>Recent content in Mechanism on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/mechanism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Induced Fit, Conformational Selection, and Independent Dynamic Segments: An Extended View of Binding Events</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/33/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/33/</guid>
+      <description>A 2010 Cell review expanding the classical models of protein-ligand binding to a dynamic landscape of conformational selection, induced fit, and independent dynamic segments. The paper highlights how &amp;lsquo;NOISE&amp;rsquo;—conformational fluctuations—can amplify signaling and regulate allosteric interactions, reshaping our understanding of binding and protein communication.</description>
+    </item>
+    
+    <item>
+      <title>Induced Fit, Conformational Selection, and Independent Dynamic Segments: An Extended View of Binding Events</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/33/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/33/</guid>
+      <description>A 2010 Cell review expanding the classical models of protein-ligand binding to a dynamic landscape of conformational selection, induced fit, and independent dynamic segments. The paper highlights how &amp;lsquo;NOISE&amp;rsquo;—conformational fluctuations—can amplify signaling and regulate allosteric interactions, reshaping our understanding of binding and protein communication.</description>
+    </item>
+    
+    <item>
+      <title>How Do Kinases Transfer Phosphoryl Groups</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/23/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/23/</guid>
+      <description>Notes on 1998 Cell review discussing kinase phosphoryl transfer mechanisms, conformational dynamics, cofactor roles, and binding motifs. Highlights the debate between associative (SN2) and dissociative (SN1) pathways, with structural evidence for both models.</description>
+    </item>
+    
+    <item>
+      <title>How Do Kinases Transfer Phosphoryl Groups</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/23/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/23/</guid>
+      <description>Notes on 1998 Cell review discussing kinase phosphoryl transfer mechanisms, conformational dynamics, cofactor roles, and binding motifs. Highlights the debate between associative (SN2) and dissociative (SN1) pathways, with structural evidence for both models.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Structure on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/structure/</link>
+    <description>Recent content in Structure on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/structure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Behavior of Intrinsically Disordered Proteins (IDPs) in Protein-Protein Complexes: Emphasis on Fuzziness</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/11/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/11/</guid>
+      <description>Notes on 2017 review discussing how intrinsically disordered proteins (IDPs) form various types of complexes including fuzzy complexes, with implications for flexible signaling and dynamic regulation.</description>
+    </item>
+    
+    <item>
+      <title>Behavior of Intrinsically Disordered Proteins (IDPs) in Protein-Protein Complexes: Emphasis on Fuzziness</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/11/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/11/</guid>
+      <description>Notes on 2017 review discussing how intrinsically disordered proteins (IDPs) form various types of complexes including fuzzy complexes, with implications for flexible signaling and dynamic regulation.</description>
+    </item>
+    
+    <item>
+      <title>Preformed Structural Elements Feature in Partner Recognition by Intrinsically Unstructured Proteins</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/15/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/15/</guid>
+      <description>Notes on 2004 JMB paper exploring how preformed structural elements in intrinsically disordered proteins (IDPs) facilitate efficient binding and partner recognition.</description>
+    </item>
+    
+    <item>
+      <title>Preformed Structural Elements Feature in Partner Recognition by Intrinsically Unstructured Proteins</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/15/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/15/</guid>
+      <description>Notes on 2004 JMB paper exploring how preformed structural elements in intrinsically disordered proteins (IDPs) facilitate efficient binding and partner recognition.</description>
+    </item>
+    
+    <item>
+      <title>Diversity of Conformational States and Changes within the EF-hand Protein Superfamily</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/28/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/28/</guid>
+      <description>Notes on a 1999 Proteins review analyzing the conformational diversity of EF-hand motifs in calcium-binding proteins. Introduces Vector Geometry Mapping (VGM) to dissect helix movements beyond simple interhelical angles, and discusses functional implications of EF-hand plasticity.</description>
+    </item>
+    
+    <item>
+      <title>Diversity of Conformational States and Changes within the EF-hand Protein Superfamily</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/28/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/28/</guid>
+      <description>Notes on a 1999 Proteins review analyzing the conformational diversity of EF-hand motifs in calcium-binding proteins. Introduces Vector Geometry Mapping (VGM) to dissect helix movements beyond simple interhelical angles, and discusses functional implications of EF-hand plasticity.</description>
+    </item>
+    
+    <item>
+      <title>Anchor Residues in Protein–Protein Interactions</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/26/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/26/</guid>
+      <description>Notes on 2004 PNAS paper introducing the concept of anchor residues as key pre-configured side chains that drive protein–protein interactions. The study highlights a two-step binding mechanism, combining preformed &amp;lsquo;anchor&amp;rsquo; interactions and induced-fit adjustments.</description>
+    </item>
+    
+    <item>
+      <title>Anchor Residues in Protein–Protein Interactions</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/26/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/26/</guid>
+      <description>Notes on 2004 PNAS paper introducing the concept of anchor residues as key pre-configured side chains that drive protein–protein interactions. The study highlights a two-step binding mechanism, combining preformed &amp;lsquo;anchor&amp;rsquo; interactions and induced-fit adjustments.</description>
+    </item>
+    
+    <item>
+      <title>Identification of a Major Determinant for Serine-Threonine Kinase Phosphoacceptor Specificity</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/14/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/14/</guid>
+      <description>Notes on 2014 Cell paper that identifies the &amp;lsquo;DFG+1&amp;rsquo; residue as a key determinant of Ser/Thr kinase phosphoacceptor specificity, with structural and biochemical validation.</description>
+    </item>
+    
+    <item>
+      <title>Identification of a Major Determinant for Serine-Threonine Kinase Phosphoacceptor Specificity</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/14/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/14/</guid>
+      <description>Notes on 2014 Cell paper that identifies the &amp;lsquo;DFG+1&amp;rsquo; residue as a key determinant of Ser/Thr kinase phosphoacceptor specificity, with structural and biochemical validation.</description>
+    </item>
+    
+    <item>
+      <title>The Hallmark of AGC Kinase Functional Divergence is Its C-terminal Tail, a Cis-acting Regulatory Module</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/37/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/37/</guid>
+      <description>&lt;strong&gt;An elegant dissection&lt;/strong&gt; of how the &lt;strong&gt;C-terminal tail (C-tail)&lt;/strong&gt; in AGC kinases serves as a &lt;strong&gt;cis-acting regulatory module&lt;/strong&gt;, driving functional divergence from other kinase families. Through conserved interactions and structural specialization, the C-tail orchestrates key regulatory processes, acting as a unique hallmark of AGC kinases.</description>
+    </item>
+    
+    <item>
+      <title>The Hallmark of AGC Kinase Functional Divergence is Its C-terminal Tail, a Cis-acting Regulatory Module</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/37/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/37/</guid>
+      <description>&lt;strong&gt;An elegant dissection&lt;/strong&gt; of how the &lt;strong&gt;C-terminal tail (C-tail)&lt;/strong&gt; in AGC kinases serves as a &lt;strong&gt;cis-acting regulatory module&lt;/strong&gt;, driving functional divergence from other kinase families. Through conserved interactions and structural specialization, the C-tail orchestrates key regulatory processes, acting as a unique hallmark of AGC kinases.</description>
+    </item>
+    
+    <item>
+      <title>An Inherent Difference Between Serine and Threonine Phosphorylation: Phosphothreonine Strongly Prefers a Highly Ordered, Compact, Cyclic Conformation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/16/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/16/</guid>
+      <description>Notes on 2023 ACS paper exploring structural differences between serine and threonine phosphorylation, focusing on phosphothreonine&amp;rsquo;s preference for ordered conformations.</description>
+    </item>
+    
+    <item>
+      <title>An Inherent Difference Between Serine and Threonine Phosphorylation: Phosphothreonine Strongly Prefers a Highly Ordered, Compact, Cyclic Conformation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/16/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/16/</guid>
+      <description>Notes on 2023 ACS paper exploring structural differences between serine and threonine phosphorylation, focusing on phosphothreonine&amp;rsquo;s preference for ordered conformations.</description>
+    </item>
+    
+    <item>
+      <title>Architecture and Membrane Interaction of the EGF Receptor</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/97/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/97/</guid>
+      <description>A deep dive into the molecular dynamics and membrane interaction of EGFR, revealing distinct active and inactive conformations, the role of lipid environment, and subtle structural regulation.</description>
+    </item>
+    
+    <item>
+      <title>Architecture and Membrane Interaction of the EGF Receptor</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/97/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/97/</guid>
+      <description>A deep dive into the molecular dynamics and membrane interaction of EGFR, revealing distinct active and inactive conformations, the role of lipid environment, and subtle structural regulation.</description>
+    </item>
+    
+    <item>
+      <title>Evolutionarily Conserved Networks of Residues Mediate Allosteric Communication in Proteins</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/30/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/30/</guid>
+      <description>Notes on a 2003 Nature Structural Biology paper introducing the concept of evolutionarily conserved residue networks that mediate allosteric communication. Using sequence-based statistical coupling analysis (SCA), the authors map sparse, functionally critical networks in GPCRs, proteases, and hemoglobins, highlighting a fundamental mechanism of long-range communication in protein structures.</description>
+    </item>
+    
+    <item>
+      <title>Evolutionarily Conserved Networks of Residues Mediate Allosteric Communication in Proteins</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/30/</guid>
+      <description>Notes on a 2003 Nature Structural Biology paper introducing the concept of evolutionarily conserved residue networks that mediate allosteric communication. Using sequence-based statistical coupling analysis (SCA), the authors map sparse, functionally critical networks in GPCRs, proteases, and hemoglobins, highlighting a fundamental mechanism of long-range communication in protein structures.</description>
+    </item>
+    
+    <item>
+      <title>DFGmodel: Predicting Protein Kinase Structure in Inactive States for Structure-based Discovery of Type-II Inhibitors</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/13/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/13/</guid>
+      <description>Notes on 2014 ACS paper introducing DFGmodel, a computational approach to predict kinase inactive structures for type-II inhibitor discovery. Includes insights on DFG-flip and kinase conformational analysis.</description>
+    </item>
+    
+    <item>
+      <title>DFGmodel: Predicting Protein Kinase Structure in Inactive States for Structure-based Discovery of Type-II Inhibitors</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/13/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/13/</guid>
+      <description>Notes on 2014 ACS paper introducing DFGmodel, a computational approach to predict kinase inactive structures for type-II inhibitor discovery. Includes insights on DFG-flip and kinase conformational analysis.</description>
+    </item>
+    
+    <item>
+      <title>Regulation of Protein Kinases: Activation Segment Conformation and Functional Control</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/9/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/9/</guid>
+      <description>Notes on 2004 Molecular Cell review analyzing how activation segment conformation regulates protein kinase activity, including insights into RD pocket, anchor residues, and alternative activation mechanisms.</description>
+    </item>
+    
+    <item>
+      <title>Regulation of Protein Kinases: Activation Segment Conformation and Functional Control</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/9/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/9/</guid>
+      <description>Notes on 2004 Molecular Cell review analyzing how activation segment conformation regulates protein kinase activity, including insights into RD pocket, anchor residues, and alternative activation mechanisms.</description>
+    </item>
+    
+    <item>
+      <title>Surface Comparison Reveals Conserved Activation Mechanism in Protein Kinases</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/1/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/1/</guid>
+      <description>Notes on 2006_PNAS paper exploring conserved structural mechanisms of kinase activation via surface comparison.</description>
+    </item>
+    
+    <item>
+      <title>Community Analysis of PKA: A Dynamic View of Kinase Architecture</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/2/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/2/</guid>
+      <description>Notes on a 2014 PNAS paper analyzing PKA dynamics through community analysis.</description>
+    </item>
+    
+    <item>
+      <title>F-Helix as a Structural Scaffold for Active Protein Kinase Assembly</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/4/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/4/</guid>
+      <description>Notes on 2008_PNAS paper revealing F-helix as a hub for regulatory and catalytic spine anchoring in protein kinases.</description>
+    </item>
+    
+    <item>
+      <title>F-Helix as a Structural Scaffold for Active Protein Kinase Assembly</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</guid>
+      <description>Notes on 2008_PNAS paper revealing F-helix as a hub for regulatory and catalytic spine anchoring in protein kinases.</description>
+    </item>
+    
+    <item>
+      <title>CASK Functions as a Mg²⁺-Independent Neurexin Kinase</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/94/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/94/</guid>
+      <description>The study redefines CASK as an active Mg²⁺-independent kinase that phosphorylates neurexin, integrating scaffolding and enzymatic functions, challenging its previous classification as a pseudokinase.</description>
+    </item>
+    
+    <item>
+      <title>CASK Functions as a Mg²⁺-Independent Neurexin Kinase</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/94/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/94/</guid>
+      <description>The study redefines CASK as an active Mg²⁺-independent kinase that phosphorylates neurexin, integrating scaffolding and enzymatic functions, challenging its previous classification as a pseudokinase.</description>
+    </item>
+    
+    <item>
+      <title>Structural Biases in Disordered Proteins Are Prevalent in the Cell</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/83/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/83/</guid>
+      <description>Notes on the 2024 Nature paper exploring how sequence-dependent structural biases in intrinsically disordered proteins (IDPs) are preserved inside cells and how they respond to environmental changes. Using a combination of FRET, SAXS, SEC, and simulations, the study establishes glycine-serine repeats as model-free standards and demonstrates that IDP ensembles encode functional biases persistent in cellular contexts.</description>
+    </item>
+    
+    <item>
+      <title>Structural Biases in Disordered Proteins Are Prevalent in the Cell</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/83/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/83/</guid>
+      <description>Notes on the 2024 Nature paper exploring how sequence-dependent structural biases in intrinsically disordered proteins (IDPs) are preserved inside cells and how they respond to environmental changes. Using a combination of FRET, SAXS, SEC, and simulations, the study establishes glycine-serine repeats as model-free standards and demonstrates that IDP ensembles encode functional biases persistent in cellular contexts.</description>
+    </item>
+    
+    <item>
+      <title>SOCKET: A Program for Identifying and Analyzing Coiled-Coil Motifs within Protein Structures</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/78/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/78/</guid>
+      <description>Notes on the 2001 JMB paper introducing SOCKET, a computational tool that identifies coiled-coil motifs based on structural features rather than sequence patterns. Highlights the diversity of coiled-coil structures, the central role of knobs-into-holes packing, and applications in structural analysis and design.</description>
+    </item>
+    
+    <item>
+      <title>SOCKET: A Program for Identifying and Analyzing Coiled-Coil Motifs within Protein Structures</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</guid>
+      <description>Notes on the 2001 JMB paper introducing SOCKET, a computational tool that identifies coiled-coil motifs based on structural features rather than sequence patterns. Highlights the diversity of coiled-coil structures, the central role of knobs-into-holes packing, and applications in structural analysis and design.</description>
+    </item>
+    
+    <item>
+      <title>Principles of Helix-Helix Packing in Proteins: The Helical Lattice Superposition Model</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/77/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/77/</guid>
+      <description>Notes on the 1996 JMB paper introducing the Helical Lattice Superposition Model for analyzing helix-helix packing geometry in proteins. Explores mathematical formulations of optimal packing angles, comparing &amp;lsquo;knobs into holes&amp;rsquo; and &amp;lsquo;ridges into grooves&amp;rsquo; models, and provides insights into amino acid preferences and packing flexibility.</description>
+    </item>
+    
+    <item>
+      <title>Principles of Helix-Helix Packing in Proteins: The Helical Lattice Superposition Model</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/77/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/77/</guid>
+      <description>Notes on the 1996 JMB paper introducing the Helical Lattice Superposition Model for analyzing helix-helix packing geometry in proteins. Explores mathematical formulations of optimal packing angles, comparing &amp;lsquo;knobs into holes&amp;rsquo; and &amp;lsquo;ridges into grooves&amp;rsquo; models, and provides insights into amino acid preferences and packing flexibility.</description>
+    </item>
+    
+    <item>
+      <title>Structure-Function of the Multifunctional Ca2&#43;/Calmodulin-Dependent Protein Kinase II (CaMKII)</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/70/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/70/</guid>
+      <description>Notes on a 2002 &lt;em&gt;JBC&lt;/em&gt; review dissecting CaMKII&amp;rsquo;s structure-function relationship, covering autoinhibition, isoform diversity, holoenzyme assembly, autophosphorylation, subunit exchange, and Ca2+/CaM frequency decoding — a foundational reference for understanding this multifunctional kinase as a calcium signal integrator.</description>
+    </item>
+    
+    <item>
+      <title>Structure-Function of the Multifunctional Ca2&#43;/Calmodulin-Dependent Protein Kinase II (CaMKII)</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</guid>
+      <description>Notes on a 2002 &lt;em&gt;JBC&lt;/em&gt; review dissecting CaMKII&amp;rsquo;s structure-function relationship, covering autoinhibition, isoform diversity, holoenzyme assembly, autophosphorylation, subunit exchange, and Ca2+/CaM frequency decoding — a foundational reference for understanding this multifunctional kinase as a calcium signal integrator.</description>
+    </item>
+    
+    <item>
+      <title>A Temporary Gating of Actin Remodeling during Synaptic Plasticity: Interplay between the Kinase and Structural Functions of CaMKII</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/71/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/71/</guid>
+      <description>Notes on a 2015 &lt;em&gt;Neuron&lt;/em&gt; paper revealing how CaMKII’s dual role as kinase and structural element regulates actin remodeling during synaptic plasticity, showing that autophosphorylation-mediated dissociation from F-actin provides a time window permissive for structural long-term potentiation (sLTP).</description>
+    </item>
+    
+    <item>
+      <title>A Temporary Gating of Actin Remodeling during Synaptic Plasticity: Interplay between the Kinase and Structural Functions of CaMKII</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/71/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/71/</guid>
+      <description>Notes on a 2015 &lt;em&gt;Neuron&lt;/em&gt; paper revealing how CaMKII’s dual role as kinase and structural element regulates actin remodeling during synaptic plasticity, showing that autophosphorylation-mediated dissociation from F-actin provides a time window permissive for structural long-term potentiation (sLTP).</description>
+    </item>
+    
+    <item>
+      <title>Activation of the Essential Kinase PDK1 by Phosphoinositide-Driven Trans-Autophosphorylation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/73/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/73/</guid>
+      <description>Notes on the mechanism by which PDK1 is activated via PIP3-mediated dimerization and trans-autophosphorylation, highlighting the role of PH domain autoinhibition, linker-mediated dimerization, and switch-like activation mechanisms.</description>
+    </item>
+    
+    <item>
+      <title>Activation of the Essential Kinase PDK1 by Phosphoinositide-Driven Trans-Autophosphorylation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/73/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/73/</guid>
+      <description>Notes on the mechanism by which PDK1 is activated via PIP3-mediated dimerization and trans-autophosphorylation, highlighting the role of PH domain autoinhibition, linker-mediated dimerization, and switch-like activation mechanisms.</description>
+    </item>
+    
+    <item>
+      <title>Mechanism of CDK Activation Revealed by the Structure of a CyclinA-CDK2 Complex</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/72/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/72/</guid>
+      <description>Notes on a 1995 &lt;em&gt;Nature&lt;/em&gt; paper revealing the structural mechanism of CDK2 activation by cyclinA, focusing on key conformational changes that relieve autoinhibition and organize the catalytic site.</description>
+    </item>
+    
+    <item>
+      <title>Mechanism of CDK Activation Revealed by the Structure of a CyclinA-CDK2 Complex</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</guid>
+      <description>Notes on a 1995 &lt;em&gt;Nature&lt;/em&gt; paper revealing the structural mechanism of CDK2 activation by cyclinA, focusing on key conformational changes that relieve autoinhibition and organize the catalytic site.</description>
+    </item>
+    
+    <item>
+      <title>Structure of the Autoinhibited CaMKII Kinase Domain and SAXS Analysis of the Holoenzyme</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/68/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/68/</guid>
+      <description>Notes on a 2005 &lt;em&gt;Cell&lt;/em&gt; paper revealing the crystal structure of autoinhibited CaMKII kinase domain and small-angle X-ray scattering (SAXS) analysis of the full holoenzyme, uncovering mechanisms for tight autoinhibition and explaining frequency-dependent activation.</description>
+    </item>
+    
+    <item>
+      <title>Structure of the Autoinhibited CaMKII Kinase Domain and SAXS Analysis of the Holoenzyme</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/68/</guid>
+      <description>Notes on a 2005 &lt;em&gt;Cell&lt;/em&gt; paper revealing the crystal structure of autoinhibited CaMKII kinase domain and small-angle X-ray scattering (SAXS) analysis of the full holoenzyme, uncovering mechanisms for tight autoinhibition and explaining frequency-dependent activation.</description>
+    </item>
+    
+    <item>
+      <title>A Mechanism for Tunable Autoinhibition in the Structure of Human CaMKII Holoenzyme</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/67/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/67/</guid>
+      <description>Notes on a 2011 &lt;em&gt;Cell&lt;/em&gt; paper that reveals the full-length crystal structure of human CaMKII in its autoinhibited state and introduces a tunable mechanism for calcium signal decoding based on linker length-dependent conformational dynamics.</description>
+    </item>
+    
+    <item>
+      <title>A Mechanism for Tunable Autoinhibition in the Structure of Human CaMKII Holoenzyme</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/67/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/67/</guid>
+      <description>Notes on a 2011 &lt;em&gt;Cell&lt;/em&gt; paper that reveals the full-length crystal structure of human CaMKII in its autoinhibited state and introduces a tunable mechanism for calcium signal decoding based on linker length-dependent conformational dynamics.</description>
+    </item>
+    
+    <item>
+      <title>Allosteric Activation of Toxoplasma CDPK1: A Splint Model for Kinase Regulation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/52/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/52/</guid>
+      <description>A fascinating study revealing that TgCDPK1 is stabilized and activated via an allosteric mechanism involving its regulatory CAD domain, challenging classical models of calcium-dependent kinase activation.</description>
+    </item>
+    
+    <item>
+      <title>Allosteric Activation of Toxoplasma CDPK1: A Splint Model for Kinase Regulation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/52/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/52/</guid>
+      <description>A fascinating study revealing that TgCDPK1 is stabilized and activated via an allosteric mechanism involving its regulatory CAD domain, challenging classical models of calcium-dependent kinase activation.</description>
+    </item>
+    
+    <item>
+      <title>Structural Insights into Apicomplexan CDPK Activation: A Calcium-Triggered Mechanism</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/53/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/53/</guid>
+      <description>A landmark structural study revealing how apicomplexan CDPKs (TgCDPK1/3, CpCDPK) undergo dramatic conformational changes upon calcium binding to shift from an autoinhibited to an active state.</description>
+    </item>
+    
+    <item>
+      <title>Structural Insights into Apicomplexan CDPK Activation: A Calcium-Triggered Mechanism</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/53/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/53/</guid>
+      <description>A landmark structural study revealing how apicomplexan CDPKs (TgCDPK1/3, CpCDPK) undergo dramatic conformational changes upon calcium binding to shift from an autoinhibited to an active state.</description>
+    </item>
+    
+    <item>
+      <title>The CaMKII Holoenzyme Structure in Activation-Competent Conformation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/69/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/69/</guid>
+      <description>Notes on a 2017 &lt;em&gt;Nature Communications&lt;/em&gt; paper revealing the 3D structure of the CaMKII holoenzyme in an activation-competent conformation, emphasizing the role of flexible linkers and dimeric kinase domain interactions in regulating activation and frequency decoding.</description>
+    </item>
+    
+    <item>
+      <title>The CaMKII Holoenzyme Structure in Activation-Competent Conformation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/69/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/69/</guid>
+      <description>Notes on a 2017 &lt;em&gt;Nature Communications&lt;/em&gt; paper revealing the 3D structure of the CaMKII holoenzyme in an activation-competent conformation, emphasizing the role of flexible linkers and dimeric kinase domain interactions in regulating activation and frequency decoding.</description>
+    </item>
+    
+    <item>
+      <title>Unique Conformational Adaptation of Calmodulin to CaMKK: A Distinct Mode of Calcium-Dependent Kinase Regulation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/64/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/64/</guid>
+      <description>Notes on a landmark &lt;em&gt;Nature&lt;/em&gt; (1999) paper detailing how calmodulin (CaM) adopts a unique binding mode when interacting with CaMKK, revealing an extended 26-residue peptide interface and an opposite binding orientation, distinguishing it from classical CaM-target interactions — a new paradigm in calcium signaling complexes.</description>
+    </item>
+    
+    <item>
+      <title>Unique Conformational Adaptation of Calmodulin to CaMKK: A Distinct Mode of Calcium-Dependent Kinase Regulation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/64/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/64/</guid>
+      <description>Notes on a landmark &lt;em&gt;Nature&lt;/em&gt; (1999) paper detailing how calmodulin (CaM) adopts a unique binding mode when interacting with CaMKK, revealing an extended 26-residue peptide interface and an opposite binding orientation, distinguishing it from classical CaM-target interactions — a new paradigm in calcium signaling complexes.</description>
+    </item>
+    
+    <item>
+      <title>Target-Induced Conformational Adaptation of Calmodulin in Complex with Nematode CaMKK Peptide: Insights into Calcium-Dependent Kinase Regulation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/63/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/63/</guid>
+      <description>Notes on a 2001 &lt;em&gt;Journal of Molecular Biology&lt;/em&gt; paper revealing the crystal structure of Ca2+/CaM bound to a CaMKK-derived peptide, highlighting how calmodulin achieves conformational flexibility to accommodate diverse targets — offering a mechanistic basis for how CaM relieves autoinhibition of kinases like CaMKK and mediates calcium signal transduction.</description>
+    </item>
+    
+    <item>
+      <title>Target-Induced Conformational Adaptation of Calmodulin in Complex with Nematode CaMKK Peptide: Insights into Calcium-Dependent Kinase Regulation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/63/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/63/</guid>
+      <description>Notes on a 2001 &lt;em&gt;Journal of Molecular Biology&lt;/em&gt; paper revealing the crystal structure of Ca2+/CaM bound to a CaMKK-derived peptide, highlighting how calmodulin achieves conformational flexibility to accommodate diverse targets — offering a mechanistic basis for how CaM relieves autoinhibition of kinases like CaMKK and mediates calcium signal transduction.</description>
+    </item>
+    
+    <item>
+      <title>N-terminal Domain of CDPK1 Determines Substrate Specificity: A Key to Rewiring Kinase Signaling</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/55/</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/55/</guid>
+      <description>Note on the discovery that the variable N-terminal domain of CDPK1 controls substrate specificity—offering a new mechanism to engineer signaling specificity in plants.</description>
+    </item>
+    
+    <item>
+      <title>N-terminal Domain of CDPK1 Determines Substrate Specificity: A Key to Rewiring Kinase Signaling</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/55/</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/55/</guid>
+      <description>Note on the discovery that the variable N-terminal domain of CDPK1 controls substrate specificity—offering a new mechanism to engineer signaling specificity in plants.</description>
+    </item>
+    
+    <item>
+      <title>Prediction of EF-hand-like Calcium Binding Regions in Myosin Light Chain and T4 Lysozyme</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/51/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/51/</guid>
+      <description>A 1975 Science paper pioneering the computational prediction of EF-hand calcium-binding motifs in unexpected proteins, revealing evolutionary insights into calcium sensor domains and highlighting structural conservation even in non-calcium-binding proteins.</description>
+    </item>
+    
+    <item>
+      <title>Prediction of EF-hand-like Calcium Binding Regions in Myosin Light Chain and T4 Lysozyme</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/51/</guid>
+      <description>A 1975 Science paper pioneering the computational prediction of EF-hand calcium-binding motifs in unexpected proteins, revealing evolutionary insights into calcium sensor domains and highlighting structural conservation even in non-calcium-binding proteins.</description>
+    </item>
+    
+    <item>
+      <title>Structure of the Regulatory Apparatus of a Calcium-Dependent Protein Kinase (CDPK): A Novel Mode of Calmodulin-Target Recognition</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/48/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/48/</guid>
+      <description>A 2006 JMB study presenting the crystal structure of Arabidopsis CDPK&amp;rsquo;s regulatory domain, revealing a domain-swapped dimer and an unexpected mechanism of calmodulin-like domain (CaM-LD) recognition, challenging classical calmodulin-target models.</description>
+    </item>
+    
+    <item>
+      <title>Structure of the Regulatory Apparatus of a Calcium-Dependent Protein Kinase (CDPK): A Novel Mode of Calmodulin-Target Recognition</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/48/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/48/</guid>
+      <description>A 2006 JMB study presenting the crystal structure of Arabidopsis CDPK&amp;rsquo;s regulatory domain, revealing a domain-swapped dimer and an unexpected mechanism of calmodulin-like domain (CaM-LD) recognition, challenging classical calmodulin-target models.</description>
+    </item>
+    
+    <item>
+      <title>Evidence for Differing Roles for Each Lobe of the Calmodulin-like Domain in a Calcium-dependent Protein Kinase</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/46/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/46/</guid>
+      <description>Notes on a 2004 &lt;em&gt;JBC&lt;/em&gt; paper exploring differential roles of N- and C-lobes in the CaM-like domain (CaM-LD) of CDPK, uncovering distinct Ca2+ affinities and their role in regulating kinase activation through interactions with the junction domain.</description>
+    </item>
+    
+    <item>
+      <title>Evidence for Differing Roles for Each Lobe of the Calmodulin-like Domain in a Calcium-dependent Protein Kinase</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/46/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/46/</guid>
+      <description>Notes on a 2004 &lt;em&gt;JBC&lt;/em&gt; paper exploring differential roles of N- and C-lobes in the CaM-like domain (CaM-LD) of CDPK, uncovering distinct Ca2+ affinities and their role in regulating kinase activation through interactions with the junction domain.</description>
+    </item>
+    
+    <item>
+      <title>Unexpected Structure of the Ca2&#43;-Regulatory Region from Soybean Calcium-dependent Protein Kinase-Alpha</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/47/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/47/</guid>
+      <description>Notes on a 2004 JBC paper uncovering the high-resolution structure of the Ca2+-regulatory domain of soybean CDPK-alpha, revealing novel lobe interactions and a pivot-based mechanism, distinct from calmodulin-based models.</description>
+    </item>
+    
+    <item>
+      <title>Unexpected Structure of the Ca2&#43;-Regulatory Region from Soybean Calcium-dependent Protein Kinase-Alpha</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/47/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/47/</guid>
+      <description>Notes on a 2004 JBC paper uncovering the high-resolution structure of the Ca2+-regulatory domain of soybean CDPK-alpha, revealing novel lobe interactions and a pivot-based mechanism, distinct from calmodulin-based models.</description>
+    </item>
+    
+    <item>
+      <title>Activation of a Ca2&#43;-dependent Protein Kinase Involves Intramolecular Binding of a Calmodulin-like Regulatory Domain</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/45/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/45/</guid>
+      <description>Notes on a 1996 &lt;em&gt;Biochemistry&lt;/em&gt; paper revealing that activation of CDPK involves intramolecular binding between its calmodulin-like domain (CaM-LD) and junction/autoinhibitor, offering deep insights into Ca2+-regulated protein kinase activation.</description>
+    </item>
+    
+    <item>
+      <title>Activation of a Ca2&#43;-dependent Protein Kinase Involves Intramolecular Binding of a Calmodulin-like Regulatory Domain</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/45/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/45/</guid>
+      <description>Notes on a 1996 &lt;em&gt;Biochemistry&lt;/em&gt; paper revealing that activation of CDPK involves intramolecular binding between its calmodulin-like domain (CaM-LD) and junction/autoinhibitor, offering deep insights into Ca2+-regulated protein kinase activation.</description>
+    </item>
+    
+    <item>
+      <title>Membrane Localization of a Rice Calcium-Dependent Protein Kinase (CDPK) Is Mediated by Myristoylation and Palmitoylation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/44/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/44/</guid>
+      <description>Notes on a 2000 &lt;em&gt;Plant Journal&lt;/em&gt; paper identifying dual lipid modifications — myristoylation and palmitoylation — as essential for membrane targeting of rice CDPK (OsCDPK2), marking the first report of such dual acylation in plant CDPKs.</description>
+    </item>
+    
+    <item>
+      <title>Membrane Localization of a Rice Calcium-Dependent Protein Kinase (CDPK) Is Mediated by Myristoylation and Palmitoylation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/44/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/44/</guid>
+      <description>Notes on a 2000 &lt;em&gt;Plant Journal&lt;/em&gt; paper identifying dual lipid modifications — myristoylation and palmitoylation — as essential for membrane targeting of rice CDPK (OsCDPK2), marking the first report of such dual acylation in plant CDPKs.</description>
+    </item>
+    
+    <item>
+      <title>Tobacco Calcium-Dependent Protein Kinases Are Differentially Phosphorylated In Vivo as Part of a Kinase Cascade That Regulates Stress Response</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/43/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/43/</guid>
+      <description>Notes on a 2010 JBC paper investigating in vivo phosphorylation of tobacco CDPKs (NtCDPK2 and NtCDPK3) in response to stress, revealing distinct intra- and inter-molecular phosphorylation events, N-terminal-specific regulation, and the critical role of membrane localization.</description>
+    </item>
+    
+    <item>
+      <title>Tobacco Calcium-Dependent Protein Kinases Are Differentially Phosphorylated In Vivo as Part of a Kinase Cascade That Regulates Stress Response</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/43/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/43/</guid>
+      <description>Notes on a 2010 JBC paper investigating in vivo phosphorylation of tobacco CDPKs (NtCDPK2 and NtCDPK3) in response to stress, revealing distinct intra- and inter-molecular phosphorylation events, N-terminal-specific regulation, and the critical role of membrane localization.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Coiled-Coil from Protein Sequences: A 1991 Science Classic</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/86/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/86/</guid>
+      <description>Notes on the foundational 1991 Science paper introducing a sequence-based method to predict coiled-coil domains. This paper outlines a statistical framework using heptad repeat patterns, Gaussian distributions, and sliding windows, uncovering over 200 proteins in GenBank with potential coiled-coil motifs.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Coiled-Coil from Protein Sequences: A 1991 Science Classic</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/86/</guid>
+      <description>Notes on the foundational 1991 Science paper introducing a sequence-based method to predict coiled-coil domains. This paper outlines a statistical framework using heptad repeat patterns, Gaussian distributions, and sliding windows, uncovering over 200 proteins in GenBank with potential coiled-coil motifs.</description>
+    </item>
+    
+    <item>
+      <title>Rapid Whole Cell Imaging Reveals a Calcium-APPL1-Dynein Nexus that Regulates Cohort Trafficking of Stimulated EGF Receptors</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/88/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/88/</guid>
+      <description>Notes on the 2021 Nature Communications paper revealing a calcium-dependent APPL1-dynein mechanism that coordinates collective EGFR trafficking to the perinuclear region following stimulation.</description>
+    </item>
+    
+    <item>
+      <title>Rapid Whole Cell Imaging Reveals a Calcium-APPL1-Dynein Nexus that Regulates Cohort Trafficking of Stimulated EGF Receptors</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/88/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/88/</guid>
+      <description>Notes on the 2021 Nature Communications paper revealing a calcium-dependent APPL1-dynein mechanism that coordinates collective EGFR trafficking to the perinuclear region following stimulation.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Enthalpy on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/enthalpy/</link>
+    <description>Recent content in Enthalpy on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/enthalpy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Water-Membrane Partition Thermodynamics of an Amphiphilic Lipopeptide: An Enthalpy-Driven Hydrophobic Effect</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/19/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/19/</guid>
+      <description>Notes on 2008 Biophysical Journal paper analyzing the thermodynamics of membrane insertion for an H-ras lipopeptide anchor (ANCH), highlighting the role of enthalpy-driven hydrophobic effects and conformational selection.</description>
+    </item>
+    
+    <item>
+      <title>Water-Membrane Partition Thermodynamics of an Amphiphilic Lipopeptide: An Enthalpy-Driven Hydrophobic Effect</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/19/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/19/</guid>
+      <description>Notes on 2008 Biophysical Journal paper analyzing the thermodynamics of membrane insertion for an H-ras lipopeptide anchor (ANCH), highlighting the role of enthalpy-driven hydrophobic effects and conformational selection.</description>
+    </item>
+    
+  </channel>
+</rss>

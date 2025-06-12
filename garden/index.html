@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garden</title>
+    <style>
+        /* 🌿 页面基础样式 */
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            font-family: "Georgia", serif;
+            text-align: center;
+            transition: background 1s ease-in-out, color 1s ease-in-out;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* 🌞 白天模式 */
+        body.light-mode {
+            background: linear-gradient(to top, #f6f1eb, #d6e2d6); /* 柔和晨雾 */
+            color: #333;
+        }
+
+        /* 🌌 黑夜模式 */
+        body.dark-mode {
+            background: #03061A;
+            color: rgba(220, 210, 255, 0.8);
+        }
+
+        /* ✨ 星空动画 */
+        .star {
+            width: 3px;
+            height: 3px;
+            border-radius: 50%;
+            position: absolute;
+            background-color: rgba(237, 205, 163, 0.8);
+            box-shadow: 0 0 40px 0 rgba(237, 205, 163, 0.8), 0 0 20px 0 #FFFFFF;
+            animation: glow 5s infinite alternate ease-in-out;
+        }
+
+        .star--medium {
+            width: 6px;
+            height: 6px;
+        }
+
+        .star--big {
+            width: 9px;
+            height: 9px;
+            box-shadow: 0 0 40px 0 #EDCDA3, 0 0 20px 0 #FFFFFF, inset 0 0 4px #FFFFFF;
+        }
+
+        /* ✨ 流星 */
+        .comet {
+            width: 6px;
+            height: 6px;
+            background-color: rgba(255, 255, 255, 0.6);
+            box-shadow: 0 0 40px 0 #EDCDA3, 0 0 20px 0 #FFFFFF, inset 0 0 8px rgba(255, 255, 255, 0.6);
+            top: 0;
+            left: 80%;
+            opacity: 0.3;
+            transform: rotate(-45deg) translate(0, -50px);
+            animation: comet 6s infinite;
+        }
+
+        .comet:after {
+            content: '';
+            width: 20vw;
+            height: 6px;
+            border-radius: 50%;
+            background-color: rgba(255, 255, 255, 0.1);
+            box-shadow: 0 0 20px rgba(237, 205, 163, 0.4);
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        @keyframes glow {
+            0% { opacity: 0.9; }
+            50% { opacity: 0.2; }
+            100% { opacity: 0.9; }
+        }
+
+        @keyframes comet {
+            0% { transform: rotate(-45deg) translateX(0); opacity: 0.3; }
+            10% { opacity: 1; }
+            20% { transform: rotate(-45deg) translateX(-100vw); opacity: 0; }
+            100% { transform: rotate(-45deg) translateX(-100vw); opacity: 0; }
+        }
+
+        /* 🌠 让星星 & 流星只在黑夜模式出现 */
+        .star, .comet {
+            display: none;
+        }
+
+        body.dark-mode .star, body.dark-mode .comet {
+            display: block;
+        }
+
+        /* 📜 文字 */
+        .content {
+            z-index: 2;
+            font-size: 1.2rem;
+            opacity: 0.85;
+            line-height: 1.5;
+        }
+
+        /* 🌌 "The sky above, The law within" 只在夜晚出现 */
+        .dark-only {
+            display: none;
+        }
+
+        body.dark-mode .dark-only {
+            display: block;
+        }
+
+        /* 🌿 "A place where thoughts bloom" 只在白天出现 */
+        .light-only {
+            display: none;
+        }
+
+        body.light-mode .light-only {
+            display: block;
+        }
+
+        /* ✨ 让"The sky above" 和 "Return" 也缓慢闪烁 */
+        .quote, .back-link {
+            font-style: italic;
+            opacity: 0.7;
+            font-size: 1rem;
+            animation: glow 5s infinite alternate ease-in-out;
+        }
+
+        /* 🔙 返回主页 */
+        .back-link {
+            text-decoration: none;
+            border-bottom: 1px solid rgba(220, 210, 255, 0.3);
+            padding-bottom: 2px;
+            font-size: 0.9rem;
+            display: inline-block;
+            margin-top: 1.5rem;
+        }
+
+        /* 适配白天和黑夜的 Return 颜色 */
+        body.light-mode .back-link {
+            color: #333;
+            border-bottom-color: rgba(0, 0, 0, 0.3);
+        }
+
+        body.dark-mode .back-link {
+            color: rgba(220, 210, 255, 0.8);
+            border-bottom-color: rgba(220, 210, 255, 0.3);
+        }
+
+        /* 📌 页脚 */
+        .footer {
+            position: absolute;
+            bottom: 10px;
+            width: 100%;
+            font-size: 1.2rem;
+            display: flex;
+            justify-content: space-between;
+            padding: 0 20px;
+        }
+
+        /* 🌿 白天模式的页脚 */
+        .footer-light {
+            display: flex;
+            width: 100%;
+            justify-content: space-between;
+        }
+
+        /* 🌌 黑夜模式的页脚（居中） */
+        .footer-dark {
+            display: none;
+            text-align: center;
+        }
+
+        body.dark-mode .footer-light {
+            display: none;
+        }
+
+        body.dark-mode .footer-dark {
+            display: flex;
+            justify-content: center;
+        }
+
+    </style>
+</head>
+<body>
+    <!-- 🌌 夜晚的星星 & 流星 -->
+    <script>
+        function createStars(n) {
+            for (let i = 0; i < n; i++) {
+                let star = document.createElement("div");
+                star.className = "star";
+                star.style.left = `${Math.random() * 100}vw`;
+                star.style.top = `${Math.random() * 100}vh`;
+                star.style.animationDuration = `${Math.random() * 5 + 3}s`;
+                document.body.appendChild(star);
+            }
+        }
+
+        function createComet() {
+            let comet = document.createElement("div");
+            comet.className = "comet";
+            document.body.appendChild(comet);
+        }
+
+        function checkTheme() {
+            let theme = localStorage.getItem("pref-theme");
+            if (!theme) {
+                theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+            }
+            if (theme === "dark") {
+                document.body.classList.add("dark-mode");
+                document.body.classList.remove("light-mode");
+                createStars(150);
+                createComet();
+            } else {
+                document.body.classList.add("light-mode");
+                document.body.classList.remove("dark-mode");
+            }
+        }
+
+        checkTheme();
+    </script>
+
+    <div class="content">
+        <p class="quote light-only">A place where thoughts bloom.</p>
+        <p class="quote dark-only">The sky above. The law within.</p>
+        <a href="/" class="back-link">Return</a>
+    </div>
+
+    <div class="footer footer-light">🌵🌿💐🪷🪻🌻🌷🍄🌳🌴🌾🍂🌲 <span class=“right-top”>🕸️🐾🐾🐾🐾🐾🐾</span></div>
+    <div class="footer footer-dark">🪐✨🌎✨💫</div>
+
+    <style>
+    .right-top {
+        position: absolute;
+        top: 10px;
+        right: 20px;
+    }</style>
+
+</body>
+</html>

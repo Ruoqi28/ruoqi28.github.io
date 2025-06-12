@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Myristoyl Switch on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/myristoyl-switch/</link>
+    <description>Recent content in Myristoyl Switch on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/myristoyl-switch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Membrane Binding of Recoverin: From Mechanistic Understanding to Biological Functionality</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/40/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/40/</guid>
+      <description>&lt;strong&gt;A comprehensive study unraveling the molecular dynamics of recoverin&amp;rsquo;s membrane binding via its calcium-dependent myristoyl switch, highlighting the importance of N-terminal domain conformations and transient C-terminal interactions.&lt;/strong&gt;</description>
+    </item>
+    
+    <item>
+      <title>Membrane Binding of Recoverin: From Mechanistic Understanding to Biological Functionality</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/40/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/40/</guid>
+      <description>&lt;strong&gt;A comprehensive study unraveling the molecular dynamics of recoverin&amp;rsquo;s membrane binding via its calcium-dependent myristoyl switch, highlighting the importance of N-terminal domain conformations and transient C-terminal interactions.&lt;/strong&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

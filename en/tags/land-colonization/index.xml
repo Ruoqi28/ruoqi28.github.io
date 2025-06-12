@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Land Colonization on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/land-colonization/</link>
+    <description>Recent content in Land Colonization on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/land-colonization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Calmodulin-Fused Kinase (CFK) Family: A Major System Converting Calcium Signals into Protein Phosphorylation in Plants</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/61/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/61/</guid>
+      <description>Notes on a 2017 &lt;em&gt;Scientific Reports&lt;/em&gt; study proposing the Calmodulin-Fused Kinase (CFK) family as the principal system for converting calcium signals to protein phosphorylation responses in plants, based on deep phylogenetic analysis tracing their evolutionary origins and functional diversification.</description>
+    </item>
+    
+    <item>
+      <title>The Calmodulin-Fused Kinase (CFK) Family: A Major System Converting Calcium Signals into Protein Phosphorylation in Plants</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/61/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/61/</guid>
+      <description>Notes on a 2017 &lt;em&gt;Scientific Reports&lt;/em&gt; study proposing the Calmodulin-Fused Kinase (CFK) family as the principal system for converting calcium signals to protein phosphorylation responses in plants, based on deep phylogenetic analysis tracing their evolutionary origins and functional diversification.</description>
+    </item>
+    
+  </channel>
+</rss>

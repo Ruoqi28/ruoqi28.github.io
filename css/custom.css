@@ -1,0 +1,20 @@
+.secret-message {
+  filter: blur(6px);
+  transition: filter 0.3s ease;
+  cursor: pointer;
+}
+
+.secret-message:hover {
+  filter: blur(0);
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+.typewriter {
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 2px solid rgba(0,0,0,0.75); /* 光标效果 */
+  animation: typing 4s steps(40, end);
+}

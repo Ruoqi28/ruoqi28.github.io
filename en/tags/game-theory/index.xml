@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Game Theory on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/game-theory/</link>
+    <description>Recent content in Game Theory on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/game-theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Water and Molecular Chaperones as Weak Links in Protein Folding Networks: A Game Theory View of Protein Folding</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/36/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/36/</guid>
+      <description>&lt;strong&gt;A conceptual leap&lt;/strong&gt; in understanding protein folding, showing how &lt;strong&gt;water molecules and molecular chaperones&lt;/strong&gt; act as &lt;strong&gt;weak, transient links&lt;/strong&gt; that &lt;strong&gt;smooth energy landscapes&lt;/strong&gt; and prevent conformational traps. This paper connects &lt;strong&gt;protein folding, dynamic networks, and game theory&lt;/strong&gt;, offering a new way to see how folding and interaction landscapes are managed in crowded cellular environments.</description>
+    </item>
+    
+    <item>
+      <title>Water and Molecular Chaperones as Weak Links in Protein Folding Networks: A Game Theory View of Protein Folding</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/36/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/36/</guid>
+      <description>&lt;strong&gt;A conceptual leap&lt;/strong&gt; in understanding protein folding, showing how &lt;strong&gt;water molecules and molecular chaperones&lt;/strong&gt; act as &lt;strong&gt;weak, transient links&lt;/strong&gt; that &lt;strong&gt;smooth energy landscapes&lt;/strong&gt; and prevent conformational traps. This paper connects &lt;strong&gt;protein folding, dynamic networks, and game theory&lt;/strong&gt;, offering a new way to see how folding and interaction landscapes are managed in crowded cellular environments.</description>
+    </item>
+    
+    <item>
+      <title>The Changing Landscape of Protein Allostery: Dynamic Ensembles and Functional Shifts</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/35/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/35/</guid>
+      <description>&lt;strong&gt;A modern view of allostery&lt;/strong&gt; as an intrinsic property of protein dynamics, where &lt;strong&gt;conformational shifts, weak interactions, and energy landscapes&lt;/strong&gt; enable regulation of function. Bridging classical models with cutting-edge experimental and theoretical insights, this review explores how &lt;strong&gt;proteins use dynamic ensembles&lt;/strong&gt; and &lt;strong&gt;independent dynamic segments&lt;/strong&gt; to facilitate signaling, folding, and ligand binding — &lt;strong&gt;redefining allostery beyond static views.&lt;/strong&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Changing Landscape of Protein Allostery: Dynamic Ensembles and Functional Shifts</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/35/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/35/</guid>
+      <description>&lt;strong&gt;A modern view of allostery&lt;/strong&gt; as an intrinsic property of protein dynamics, where &lt;strong&gt;conformational shifts, weak interactions, and energy landscapes&lt;/strong&gt; enable regulation of function. Bridging classical models with cutting-edge experimental and theoretical insights, this review explores how &lt;strong&gt;proteins use dynamic ensembles&lt;/strong&gt; and &lt;strong&gt;independent dynamic segments&lt;/strong&gt; to facilitate signaling, folding, and ligand binding — &lt;strong&gt;redefining allostery beyond static views.&lt;/strong&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

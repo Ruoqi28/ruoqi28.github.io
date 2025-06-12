@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>C-Tail on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/c-tail/</link>
+    <description>Recent content in C-Tail on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/c-tail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anchor Residues in Protein–Protein Interactions</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/26/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/26/</guid>
+      <description>Notes on 2004 PNAS paper introducing the concept of anchor residues as key pre-configured side chains that drive protein–protein interactions. The study highlights a two-step binding mechanism, combining preformed &amp;lsquo;anchor&amp;rsquo; interactions and induced-fit adjustments.</description>
+    </item>
+    
+    <item>
+      <title>Anchor Residues in Protein–Protein Interactions</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/26/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/26/</guid>
+      <description>Notes on 2004 PNAS paper introducing the concept of anchor residues as key pre-configured side chains that drive protein–protein interactions. The study highlights a two-step binding mechanism, combining preformed &amp;lsquo;anchor&amp;rsquo; interactions and induced-fit adjustments.</description>
+    </item>
+    
+    <item>
+      <title>The Hallmark of AGC Kinase Functional Divergence is Its C-terminal Tail, a Cis-acting Regulatory Module</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/37/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/37/</guid>
+      <description>&lt;strong&gt;An elegant dissection&lt;/strong&gt; of how the &lt;strong&gt;C-terminal tail (C-tail)&lt;/strong&gt; in AGC kinases serves as a &lt;strong&gt;cis-acting regulatory module&lt;/strong&gt;, driving functional divergence from other kinase families. Through conserved interactions and structural specialization, the C-tail orchestrates key regulatory processes, acting as a unique hallmark of AGC kinases.</description>
+    </item>
+    
+    <item>
+      <title>The Hallmark of AGC Kinase Functional Divergence is Its C-terminal Tail, a Cis-acting Regulatory Module</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/37/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/37/</guid>
+      <description>&lt;strong&gt;An elegant dissection&lt;/strong&gt; of how the &lt;strong&gt;C-terminal tail (C-tail)&lt;/strong&gt; in AGC kinases serves as a &lt;strong&gt;cis-acting regulatory module&lt;/strong&gt;, driving functional divergence from other kinase families. Through conserved interactions and structural specialization, the C-tail orchestrates key regulatory processes, acting as a unique hallmark of AGC kinases.</description>
+    </item>
+    
+  </channel>
+</rss>

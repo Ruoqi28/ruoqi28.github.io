@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RD&#39;s Blog</title>
+    <link>http://localhost:1313/zh/</link>
+    <description>Recent content on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于内耗的一点小想法</title>
+      <link>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l2/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l2/</guid>
+      <description>一些关于自我、内耗、行动的随想，来自 NieR 和萨特的启发。</description>
+    </item>
+    
+    <item>
+      <title>Book Recommendation: Dynamics in Enzyme Catalysis</title>
+      <link>http://localhost:1313/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/101/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/101/</guid>
+      <description>An advanced collection of papers exploring the role of dynamics in enzyme catalysis, co-edited by Judith Klinman and Sharon Hammes-Schiffer. Includes my annotated version and a clean copy for download.</description>
+    </item>
+    
+    <item>
+      <title>ZING</title>
+      <link>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l3/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l3/</guid>
+      <description>无趣的灵魂千篇一律，好看的皮囊形形色色</description>
+    </item>
+    
+    <item>
+      <title>羁绊说断就断，便真个断了 —— 一阙古意长词</title>
+      <link>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l1/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l1/</guid>
+      <description>少年曾梦桃花开，软红一片春潮细。羁绊说断就断，便真个断了，一阙写尽别离之意。</description>
+    </item>
+    
+    <item>
+      <title>Surface Comparison Reveals Conserved Activation Mechanism in Protein Kinases</title>
+      <link>http://localhost:1313/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/1/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/1/</guid>
+      <description>Notes on 2006_PNAS paper exploring conserved structural mechanisms of kinase activation via surface comparison.</description>
+    </item>
+    
+    <item>
+      <title>Community Analysis of PKA: A Dynamic View of Kinase Architecture</title>
+      <link>http://localhost:1313/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/2/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/2/</guid>
+      <description>Notes on a 2014 PNAS paper analyzing PKA dynamics through community analysis.</description>
+    </item>
+    
+    <item>
+      <title>若 琪</title>
+      <link>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l4/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l4/</guid>
+      <description>若隐若无，琪树成林</description>
+    </item>
+    
+    <item>
+      <title>若 琪</title>
+      <link>http://localhost:1313/zh/zh/posts_zh/%E8%A1%8C%E9%97%B4/hj1/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/zh/posts_zh/%E8%A1%8C%E9%97%B4/hj1/</guid>
+      <description>若隐若无，琪树成林</description>
+    </item>
+    
+    <item>
+      <title>友链</title>
+      <link>http://localhost:1313/zh/links/</link>
+      <pubDate>Sat, 06 Nov 2021 15:15:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh/links/</guid>
+      <description>&lt;a target=&#34;_blank&#34; href=http://www.monaghanlab.ca title=JML class=&#34;friendurl&#34;&gt;
+  &lt;div class=&#34;frienddiv&#34;&gt;
+    &lt;div class=&#34;frienddivleft&#34;&gt;
+      &lt;img class=&#34;myfriend&#34; src=http://localhost:1313/img/AT.png /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;frienddivright&#34;&gt;
+      &lt;div class=&#34;friendname&#34;&gt;JML&lt;/div&gt;
+      &lt;div class=&#34;friendinfo&#34;&gt;the Monaghan Lab_CA&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/a&gt;
+
+&lt;!--&lt;a target=&#34;_blank&#34; href=%20tbd title=ZMX class=&#34;friendurl&#34;&gt;
+  &lt;div class=&#34;frienddiv&#34;&gt;
+    &lt;div class=&#34;frienddivleft&#34;&gt;
+      &lt;img class=&#34;myfriend&#34; src=http://localhost:1313/img/yinyang.png /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;frienddivright&#34;&gt;
+      &lt;div class=&#34;friendname&#34;&gt;ZMX&lt;/div&gt;
+      &lt;div class=&#34;friendinfo&#34;&gt;Where math becomes beauty, and beauty inspires.&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/a&gt;
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/zh/about/</link>
+      <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh/about/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;    class Me:
+        def __init__(self):
+            self.name = &amp;quot;ruoqi&amp;quot;
+            self.prefer_name = &amp;quot;ruoqi&amp;quot;
+            self.born_year = 1997
+            self.height = 160
+            self.hometown = &amp;quot;Lanzhou, Gansu, CN&amp;quot;
+            self.grad_school = &amp;quot;Queen&#39;s U&amp;quot;
+            self.undergrad_school = &amp;quot;Lanzhou U, UM&amp;quot;
+            self.curr_location = &amp;quot;kingston, ON, CA&amp;quot;
+
+        def favs(self):
+            self.fav_sport = &amp;quot;cycling, ping-pang&amp;quot;
+            self.fav_color = &amp;quot;Linkin park; sekai no owari&amp;quot;
+            self.fav_band = &amp;quot;blue, yellow&amp;quot;
+            self.fav_city = &amp;quot;Xi&#39;an&amp;quot;
+
+
+        def contact_info(self):
+            self.github = &amp;quot;ruoqi28&amp;quot;
+            self.instagram = &amp;quot;xx&amp;quot;
+            self.linkedin = &amp;quot;xx&amp;quot;
+            self.wechat = &amp;quot;xx&amp;quot;
+            self.weibo = &amp;quot;xx&amp;quot;
+            self.strava = &amp;quot;xx&amp;quot;
+            self.zwift = &amp;quot;xx&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

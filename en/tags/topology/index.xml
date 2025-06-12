@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Topology on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/topology/</link>
+    <description>Recent content in Topology on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/topology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Topology of a Potential Energy Landscape: A Static Scale-Free Network</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/18/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/18/</guid>
+      <description>Notes on 2002 APS paper analyzing the topology of potential energy landscapes, showing how minima and transition states form a static scale-free and small-world network. Offers insights into energy landscape organization, optimization, and system dynamics.</description>
+    </item>
+    
+    <item>
+      <title>Network Topology of a Potential Energy Landscape: A Static Scale-Free Network</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/18/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/18/</guid>
+      <description>Notes on 2002 APS paper analyzing the topology of potential energy landscapes, showing how minima and transition states form a static scale-free and small-world network. Offers insights into energy landscape organization, optimization, and system dynamics.</description>
+    </item>
+    
+  </channel>
+</rss>

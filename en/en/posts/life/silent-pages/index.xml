@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SILENT PAGES on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/en/posts/life/silent-pages/</link>
+    <description>Recent content in SILENT PAGES on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/en/posts/life/silent-pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Whisper in the Static</title>
+      <link>http://localhost:1313/en/en/posts/life/silent-pages/h1/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/life/silent-pages/h1/</guid>
+      <description>&lt;div id=&#34;password-section&#34;&gt;
+    &lt;p&gt;Some doors are not meant to be opened. Are you sure?&lt;/p&gt;
+    &lt;input type=&#34;password&#34; id=&#34;password-input&#34; placeholder=&#34;Enter the key&#34;&gt;
+    &lt;button onclick=&#34;checkPassword()&#34;&gt;Unlock&lt;/button&gt;
+&lt;/div&gt;
+&lt;div id=&#34;protected-content&#34; style=&#34;display:none;&#34;&gt;
+    &lt;h3&gt;Welcome. The signal is clear.&lt;/h3&gt;
+    &lt;p id=&#34;hidden-text&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;script&gt;
+    function simpleHash(input) {
+        let hash = 0;
+        for (let i = 0; i &lt; input.length; i++) {
+            hash = (hash &lt;&lt; 5) - hash + input.charCodeAt(i);
+            hash |= 0; // Convert to 32-bit integer
+        }
+        return hash.toString(16);
+    }
+
+    function checkPassword() {
+        var input = document.getElementById(&#34;password-input&#34;).value;
+        var correctHash = &#34;be5d5d37542d75f93a87094459a6b118&#34;; // &#34;blue&#34; 的 MD5 哈希值
+
+        if (simpleHash(input) === correctHash) {
+            document.getElementById(&#34;protected-content&#34;).style.display = &#34;block&#34;;
+            document.getElementById(&#34;password-section&#34;).style.display = &#34;none&#34;;
+            document.getElementById(&#34;hidden-text&#34;).innerHTML = atob(hiddenContent);
+        } else {
+            alert(&#34;Wrong key. Try again.&#34;);
+        }
+    }
+
+    const hiddenContent = &#34;这里填入你的 Base64 加密内容&#34;;
+&lt;/script&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

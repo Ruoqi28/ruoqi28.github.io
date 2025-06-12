@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DFG on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/dfg/</link>
+    <description>Recent content in DFG on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/dfg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Identification of a Major Determinant for Serine-Threonine Kinase Phosphoacceptor Specificity</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/14/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/14/</guid>
+      <description>Notes on 2014 Cell paper that identifies the &amp;lsquo;DFG+1&amp;rsquo; residue as a key determinant of Ser/Thr kinase phosphoacceptor specificity, with structural and biochemical validation.</description>
+    </item>
+    
+    <item>
+      <title>Identification of a Major Determinant for Serine-Threonine Kinase Phosphoacceptor Specificity</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/14/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/14/</guid>
+      <description>Notes on 2014 Cell paper that identifies the &amp;lsquo;DFG+1&amp;rsquo; residue as a key determinant of Ser/Thr kinase phosphoacceptor specificity, with structural and biochemical validation.</description>
+    </item>
+    
+    <item>
+      <title>Community Analysis of PKA: A Dynamic View of Kinase Architecture</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/2/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/2/</guid>
+      <description>Notes on a 2014 PNAS paper analyzing PKA dynamics through community analysis.</description>
+    </item>
+    
+    <item>
+      <title>CASK Functions as a Mg²⁺-Independent Neurexin Kinase</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/94/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/94/</guid>
+      <description>The study redefines CASK as an active Mg²⁺-independent kinase that phosphorylates neurexin, integrating scaffolding and enzymatic functions, challenging its previous classification as a pseudokinase.</description>
+    </item>
+    
+    <item>
+      <title>CASK Functions as a Mg²⁺-Independent Neurexin Kinase</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/94/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/94/</guid>
+      <description>The study redefines CASK as an active Mg²⁺-independent kinase that phosphorylates neurexin, integrating scaffolding and enzymatic functions, challenging its previous classification as a pseudokinase.</description>
+    </item>
+    
+  </channel>
+</rss>

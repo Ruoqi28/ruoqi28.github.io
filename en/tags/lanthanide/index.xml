@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lanthanide on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/lanthanide/</link>
+    <description>Recent content in Lanthanide on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/lanthanide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structural Characteristics of Protein Binding Sites for Calcium and Lanthanide Ions</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/27/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/27/</guid>
+      <description>Notes on a 2001 JBIC review comparing structural features of Ca2+ and lanthanide-binding sites in proteins. Discusses coordination geometries, ligand types, and structural classes of metal-binding motifs, including under-representation of EF-hand in structural databases.</description>
+    </item>
+    
+    <item>
+      <title>Structural Characteristics of Protein Binding Sites for Calcium and Lanthanide Ions</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/27/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/27/</guid>
+      <description>Notes on a 2001 JBIC review comparing structural features of Ca2+ and lanthanide-binding sites in proteins. Discusses coordination geometries, ligand types, and structural classes of metal-binding motifs, including under-representation of EF-hand in structural databases.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Activation on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/activation/</link>
+    <description>Recent content in Activation on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/activation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Identification of a Major Determinant for Serine-Threonine Kinase Phosphoacceptor Specificity</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/14/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/14/</guid>
+      <description>Notes on 2014 Cell paper that identifies the &amp;lsquo;DFG+1&amp;rsquo; residue as a key determinant of Ser/Thr kinase phosphoacceptor specificity, with structural and biochemical validation.</description>
+    </item>
+    
+    <item>
+      <title>Identification of a Major Determinant for Serine-Threonine Kinase Phosphoacceptor Specificity</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/14/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/14/</guid>
+      <description>Notes on 2014 Cell paper that identifies the &amp;lsquo;DFG+1&amp;rsquo; residue as a key determinant of Ser/Thr kinase phosphoacceptor specificity, with structural and biochemical validation.</description>
+    </item>
+    
+    <item>
+      <title>The Hallmark of AGC Kinase Functional Divergence is Its C-terminal Tail, a Cis-acting Regulatory Module</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/37/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/37/</guid>
+      <description>&lt;strong&gt;An elegant dissection&lt;/strong&gt; of how the &lt;strong&gt;C-terminal tail (C-tail)&lt;/strong&gt; in AGC kinases serves as a &lt;strong&gt;cis-acting regulatory module&lt;/strong&gt;, driving functional divergence from other kinase families. Through conserved interactions and structural specialization, the C-tail orchestrates key regulatory processes, acting as a unique hallmark of AGC kinases.</description>
+    </item>
+    
+    <item>
+      <title>The Hallmark of AGC Kinase Functional Divergence is Its C-terminal Tail, a Cis-acting Regulatory Module</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/37/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/37/</guid>
+      <description>&lt;strong&gt;An elegant dissection&lt;/strong&gt; of how the &lt;strong&gt;C-terminal tail (C-tail)&lt;/strong&gt; in AGC kinases serves as a &lt;strong&gt;cis-acting regulatory module&lt;/strong&gt;, driving functional divergence from other kinase families. Through conserved interactions and structural specialization, the C-tail orchestrates key regulatory processes, acting as a unique hallmark of AGC kinases.</description>
+    </item>
+    
+    <item>
+      <title>Conformational Coupling Across the Plasma Membrane in Activation of the EGF Receptor</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/98/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/98/</guid>
+      <description>An in-depth study of EGFR activation focusing on transmembrane and juxtamembrane coupling, density-dependent activation, and the role of the plasma membrane in maintaining autoinhibition.</description>
+    </item>
+    
+    <item>
+      <title>Conformational Coupling Across the Plasma Membrane in Activation of the EGF Receptor</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/98/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/98/</guid>
+      <description>An in-depth study of EGFR activation focusing on transmembrane and juxtamembrane coupling, density-dependent activation, and the role of the plasma membrane in maintaining autoinhibition.</description>
+    </item>
+    
+    <item>
+      <title>DFGmodel: Predicting Protein Kinase Structure in Inactive States for Structure-based Discovery of Type-II Inhibitors</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/13/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/13/</guid>
+      <description>Notes on 2014 ACS paper introducing DFGmodel, a computational approach to predict kinase inactive structures for type-II inhibitor discovery. Includes insights on DFG-flip and kinase conformational analysis.</description>
+    </item>
+    
+    <item>
+      <title>DFGmodel: Predicting Protein Kinase Structure in Inactive States for Structure-based Discovery of Type-II Inhibitors</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/13/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/13/</guid>
+      <description>Notes on 2014 ACS paper introducing DFGmodel, a computational approach to predict kinase inactive structures for type-II inhibitor discovery. Includes insights on DFG-flip and kinase conformational analysis.</description>
+    </item>
+    
+    <item>
+      <title>Regulation of Protein Kinases: Activation Segment Conformation and Functional Control</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/9/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/9/</guid>
+      <description>Notes on 2004 Molecular Cell review analyzing how activation segment conformation regulates protein kinase activity, including insights into RD pocket, anchor residues, and alternative activation mechanisms.</description>
+    </item>
+    
+    <item>
+      <title>Regulation of Protein Kinases: Activation Segment Conformation and Functional Control</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/9/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/9/</guid>
+      <description>Notes on 2004 Molecular Cell review analyzing how activation segment conformation regulates protein kinase activity, including insights into RD pocket, anchor residues, and alternative activation mechanisms.</description>
+    </item>
+    
+    <item>
+      <title>Surface Comparison Reveals Conserved Activation Mechanism in Protein Kinases</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/1/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/1/</guid>
+      <description>Notes on 2006_PNAS paper exploring conserved structural mechanisms of kinase activation via surface comparison.</description>
+    </item>
+    
+    <item>
+      <title>Protein Kinases: Evolution of Dynamic Regulatory Proteins</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/7/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/7/</guid>
+      <description>Notes on 2010 Cell Review article exploring the structural and evolutionary principles that shape the dynamic regulatory mechanisms of protein kinases.</description>
+    </item>
+    
+    <item>
+      <title>Protein Kinases: Evolution of Dynamic Regulatory Proteins</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/7/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/7/</guid>
+      <description>Notes on 2010 Cell Review article exploring the structural and evolutionary principles that shape the dynamic regulatory mechanisms of protein kinases.</description>
+    </item>
+    
+    <item>
+      <title>The Conformational Plasticity of Protein Kinases</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/22/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/22/</guid>
+      <description>Notes on 2002 Cell review discussing conformational plasticity of protein kinases, highlighting key structural elements, activation mechanisms, and pseudosubstrate regulation. Includes insights on αC helix, activation loop, and therapeutic implications (e.g., Gleevec binding).</description>
+    </item>
+    
+    <item>
+      <title>The Conformational Plasticity of Protein Kinases</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/22/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/22/</guid>
+      <description>Notes on 2002 Cell review discussing conformational plasticity of protein kinases, highlighting key structural elements, activation mechanisms, and pseudosubstrate regulation. Includes insights on αC helix, activation loop, and therapeutic implications (e.g., Gleevec binding).</description>
+    </item>
+    
+    <item>
+      <title>F-Helix as a Structural Scaffold for Active Protein Kinase Assembly</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/4/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/4/</guid>
+      <description>Notes on 2008_PNAS paper revealing F-helix as a hub for regulatory and catalytic spine anchoring in protein kinases.</description>
+    </item>
+    
+    <item>
+      <title>F-Helix as a Structural Scaffold for Active Protein Kinase Assembly</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/4/</guid>
+      <description>Notes on 2008_PNAS paper revealing F-helix as a hub for regulatory and catalytic spine anchoring in protein kinases.</description>
+    </item>
+    
+    <item>
+      <title>Mechanism of CDK Activation Revealed by the Structure of a CyclinA-CDK2 Complex</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/72/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/72/</guid>
+      <description>Notes on a 1995 &lt;em&gt;Nature&lt;/em&gt; paper revealing the structural mechanism of CDK2 activation by cyclinA, focusing on key conformational changes that relieve autoinhibition and organize the catalytic site.</description>
+    </item>
+    
+    <item>
+      <title>Mechanism of CDK Activation Revealed by the Structure of a CyclinA-CDK2 Complex</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/72/</guid>
+      <description>Notes on a 1995 &lt;em&gt;Nature&lt;/em&gt; paper revealing the structural mechanism of CDK2 activation by cyclinA, focusing on key conformational changes that relieve autoinhibition and organize the catalytic site.</description>
+    </item>
+    
+    <item>
+      <title>Allosteric Activation of Toxoplasma CDPK1: A Splint Model for Kinase Regulation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/52/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/52/</guid>
+      <description>A fascinating study revealing that TgCDPK1 is stabilized and activated via an allosteric mechanism involving its regulatory CAD domain, challenging classical models of calcium-dependent kinase activation.</description>
+    </item>
+    
+    <item>
+      <title>Allosteric Activation of Toxoplasma CDPK1: A Splint Model for Kinase Regulation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/52/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/52/</guid>
+      <description>A fascinating study revealing that TgCDPK1 is stabilized and activated via an allosteric mechanism involving its regulatory CAD domain, challenging classical models of calcium-dependent kinase activation.</description>
+    </item>
+    
+    <item>
+      <title>Structural Insights into Apicomplexan CDPK Activation: A Calcium-Triggered Mechanism</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/53/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/53/</guid>
+      <description>A landmark structural study revealing how apicomplexan CDPKs (TgCDPK1/3, CpCDPK) undergo dramatic conformational changes upon calcium binding to shift from an autoinhibited to an active state.</description>
+    </item>
+    
+    <item>
+      <title>Structural Insights into Apicomplexan CDPK Activation: A Calcium-Triggered Mechanism</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/53/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/53/</guid>
+      <description>A landmark structural study revealing how apicomplexan CDPKs (TgCDPK1/3, CpCDPK) undergo dramatic conformational changes upon calcium binding to shift from an autoinhibited to an active state.</description>
+    </item>
+    
+    <item>
+      <title>The CaMKII Holoenzyme Structure in Activation-Competent Conformation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/69/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/69/</guid>
+      <description>Notes on a 2017 &lt;em&gt;Nature Communications&lt;/em&gt; paper revealing the 3D structure of the CaMKII holoenzyme in an activation-competent conformation, emphasizing the role of flexible linkers and dimeric kinase domain interactions in regulating activation and frequency decoding.</description>
+    </item>
+    
+    <item>
+      <title>The CaMKII Holoenzyme Structure in Activation-Competent Conformation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/69/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/69/</guid>
+      <description>Notes on a 2017 &lt;em&gt;Nature Communications&lt;/em&gt; paper revealing the 3D structure of the CaMKII holoenzyme in an activation-competent conformation, emphasizing the role of flexible linkers and dimeric kinase domain interactions in regulating activation and frequency decoding.</description>
+    </item>
+    
+    <item>
+      <title>Target-Induced Conformational Adaptation of Calmodulin in Complex with Nematode CaMKK Peptide: Insights into Calcium-Dependent Kinase Regulation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/63/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/63/</guid>
+      <description>Notes on a 2001 &lt;em&gt;Journal of Molecular Biology&lt;/em&gt; paper revealing the crystal structure of Ca2+/CaM bound to a CaMKK-derived peptide, highlighting how calmodulin achieves conformational flexibility to accommodate diverse targets — offering a mechanistic basis for how CaM relieves autoinhibition of kinases like CaMKK and mediates calcium signal transduction.</description>
+    </item>
+    
+    <item>
+      <title>Target-Induced Conformational Adaptation of Calmodulin in Complex with Nematode CaMKK Peptide: Insights into Calcium-Dependent Kinase Regulation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/63/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/63/</guid>
+      <description>Notes on a 2001 &lt;em&gt;Journal of Molecular Biology&lt;/em&gt; paper revealing the crystal structure of Ca2+/CaM bound to a CaMKK-derived peptide, highlighting how calmodulin achieves conformational flexibility to accommodate diverse targets — offering a mechanistic basis for how CaM relieves autoinhibition of kinases like CaMKK and mediates calcium signal transduction.</description>
+    </item>
+    
+    <item>
+      <title>Autophosphorylation-Dependent Activation of a Calcium-Dependent Protein Kinase from Groundnut</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/42/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/42/</guid>
+      <description>Notes on a 1999 ASPS paper analyzing autophosphorylation-dependent activation of a calcium-dependent protein kinase (GnCDPK) from groundnut and its role in substrate phosphorylation.</description>
+    </item>
+    
+    <item>
+      <title>Autophosphorylation-Dependent Activation of a Calcium-Dependent Protein Kinase from Groundnut</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/42/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/42/</guid>
+      <description>Notes on a 1999 ASPS paper analyzing autophosphorylation-dependent activation of a calcium-dependent protein kinase (GnCDPK) from groundnut and its role in substrate phosphorylation.</description>
+    </item>
+    
+    <item>
+      <title>A Critical Evolution of Protein Kinase Regulation by Activation Loop Autophosphorylation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/85/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/85/</guid>
+      <description>Notes on the 2023 eLife review analyzing protein kinase activation loop autophosphorylation. Discusses cis vs. trans mechanisms, dimerization, regulation, and the biochemical, structural, and kinetic evidence for these processes, while addressing the enigmatic nature of autophosphorylation.</description>
+    </item>
+    
+    <item>
+      <title>A Critical Evolution of Protein Kinase Regulation by Activation Loop Autophosphorylation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/85/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/85/</guid>
+      <description>Notes on the 2023 eLife review analyzing protein kinase activation loop autophosphorylation. Discusses cis vs. trans mechanisms, dimerization, regulation, and the biochemical, structural, and kinetic evidence for these processes, while addressing the enigmatic nature of autophosphorylation.</description>
+    </item>
+    
+  </channel>
+</rss>

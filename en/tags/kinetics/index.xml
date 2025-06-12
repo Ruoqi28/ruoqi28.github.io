@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kinetics on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/kinetics/</link>
+    <description>Recent content in Kinetics on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/kinetics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Binding Mechanism of Intrinsically Disordered Proteins: Theory, Simulation, and Experiment</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/32/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/32/</guid>
+      <description>Comprehensive 2016 Frontiers review on the diverse binding mechanisms of intrinsically disordered proteins (IDPs), covering theory, simulations, and experimental insights into how disorder facilitates interaction dynamics, specificity, and versatility in cellular signaling.</description>
+    </item>
+    
+    <item>
+      <title>Binding Mechanism of Intrinsically Disordered Proteins: Theory, Simulation, and Experiment</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/32/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/32/</guid>
+      <description>Comprehensive 2016 Frontiers review on the diverse binding mechanisms of intrinsically disordered proteins (IDPs), covering theory, simulations, and experimental insights into how disorder facilitates interaction dynamics, specificity, and versatility in cellular signaling.</description>
+    </item>
+    
+    <item>
+      <title>Protein Interaction Kinetics Delimit Phosphorylation-Driven Protein Switches</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/6/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/6/</guid>
+      <description>Notes on 2024_ACS paper discussing the kinetic and structural principles of phosphorylation-driven protein switches and their biosensor applications.</description>
+    </item>
+    
+    <item>
+      <title>Protein Interaction Kinetics Delimit Phosphorylation-Driven Protein Switches</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/6/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/6/</guid>
+      <description>Notes on 2024_ACS paper discussing the kinetic and structural principles of phosphorylation-driven protein switches and their biosensor applications.</description>
+    </item>
+    
+    <item>
+      <title>Kinetic and Catalytic Mechanisms of Protein Kinases</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/87/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/87/</guid>
+      <description>Comprehensive notes on the 2001 Chemical Reviews paper exploring the catalytic and kinetic mechanisms of protein kinases, with PKA as a model system. Covers substrate recognition, metal ion roles, phosphoryl transfer mechanisms, activation loop function, and rate-determining steps.</description>
+    </item>
+    
+    <item>
+      <title>Kinetic and Catalytic Mechanisms of Protein Kinases</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/87/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/87/</guid>
+      <description>Comprehensive notes on the 2001 Chemical Reviews paper exploring the catalytic and kinetic mechanisms of protein kinases, with PKA as a model system. Covers substrate recognition, metal ion roles, phosphoryl transfer mechanisms, activation loop function, and rate-determining steps.</description>
+    </item>
+    
+  </channel>
+</rss>

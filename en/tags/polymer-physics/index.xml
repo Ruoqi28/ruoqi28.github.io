@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Polymer Physics on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/polymer-physics/</link>
+    <description>Recent content in Polymer Physics on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/polymer-physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conformations of Intrinsically Disordered Proteins Are Influenced by Linear Sequence Distributions of Oppositely Charged Residues</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/21/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/21/</guid>
+      <description>Notes on 2013 PNAS paper introducing the role of charge distribution pattern (κ) in shaping IDP conformations. Highlights how linear charge segregation influences whether IDPs adopt random coil or compact, hairpin-like structures.</description>
+    </item>
+    
+    <item>
+      <title>Conformations of Intrinsically Disordered Proteins Are Influenced by Linear Sequence Distributions of Oppositely Charged Residues</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/21/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/21/</guid>
+      <description>Notes on 2013 PNAS paper introducing the role of charge distribution pattern (κ) in shaping IDP conformations. Highlights how linear charge segregation influences whether IDPs adopt random coil or compact, hairpin-like structures.</description>
+    </item>
+    
+    <item>
+      <title>Net Charge Per Residue Modulates Conformational Ensembles of Intrinsically Disordered Proteins</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/20/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/20/</guid>
+      <description>Notes on 2010 PNAS paper exploring how net charge per residue (NCPR) governs the balance between collapsed and extended conformations in intrinsically disordered proteins (IDPs), with implications for understanding IDP behavior and function.</description>
+    </item>
+    
+    <item>
+      <title>Net Charge Per Residue Modulates Conformational Ensembles of Intrinsically Disordered Proteins</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/20/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/20/</guid>
+      <description>Notes on 2010 PNAS paper exploring how net charge per residue (NCPR) governs the balance between collapsed and extended conformations in intrinsically disordered proteins (IDPs), with implications for understanding IDP behavior and function.</description>
+    </item>
+    
+    <item>
+      <title>Single-Molecule Spectroscopy Reveals Polymer Effects of Disordered Proteins in Crowded Environments</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/82/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/82/</guid>
+      <description>Notes on the 2014 PNAS paper using single-molecule FRET to analyze the conformational response of intrinsically disordered proteins (IDPs) to molecular crowding. Highlights how IDP compaction depends not only on crowder concentration but also on crowder size, challenging traditional crowding models and introducing polymer-specific effects.</description>
+    </item>
+    
+    <item>
+      <title>Single-Molecule Spectroscopy Reveals Polymer Effects of Disordered Proteins in Crowded Environments</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/82/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/82/</guid>
+      <description>Notes on the 2014 PNAS paper using single-molecule FRET to analyze the conformational response of intrinsically disordered proteins (IDPs) to molecular crowding. Highlights how IDP compaction depends not only on crowder concentration but also on crowder size, challenging traditional crowding models and introducing polymer-specific effects.</description>
+    </item>
+    
+    <item>
+      <title>Revealing the Hidden Sensitivity of Intrinsically Disordered Proteins to Their Chemical Environments</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/81/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/81/</guid>
+      <description>Notes on the 2020 ACS paper introducing a combined experimental, computational, and analytical framework to study how IDRs respond to changes in chemical environments. The work reveals sequence-dependent compaction and expansion of IDRs under different solutes and highlights the role of chemical sensitivity as an added layer of regulation in biology.</description>
+    </item>
+    
+    <item>
+      <title>Revealing the Hidden Sensitivity of Intrinsically Disordered Proteins to Their Chemical Environments</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/81/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/81/</guid>
+      <description>Notes on the 2020 ACS paper introducing a combined experimental, computational, and analytical framework to study how IDRs respond to changes in chemical environments. The work reveals sequence-dependent compaction and expansion of IDRs under different solutes and highlights the role of chemical sensitivity as an added layer of regulation in biology.</description>
+    </item>
+    
+  </channel>
+</rss>

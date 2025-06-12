@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Htmls on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/html/</link>
+    <description>Recent content in Htmls on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/en/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/html/ongoing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/html/ongoing/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+  &lt;meta charset=&#34;UTF-8&#34; /&gt;
+  &lt;title&gt;Letter Rain — Sakura&lt;/title&gt;
+  &lt;style&gt;
+    html, body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      height: 100%;
+      background: #7eaedb;
+      font-family: monospace;
+    }
+
+    /* 樱花背景图 */
+    body::before {
+      content: &#34;&#34;;
+      background: url(&#39;/img/sakura2.png&#39;) no-repeat center bottom;
+      background-size: contain;
+      opacity: 0.92;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -3;
+      pointer-events: none;
+    }
+
+    canvas {
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: block;
+      pointer-events: none;
+    }
+
+    audio {
+      position: fixed;
+      bottom: 10px;
+      right: 20px;
+      z-index: 10;
+      opacity: 0.85;
+    }
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;canvas id=&#34;particles&#34;&gt;&lt;/canvas&gt;
+  &lt;canvas id=&#34;textRain&#34;&gt;&lt;/canvas&gt;
+
+  &lt;!-- 背景音乐 --&gt;
+  &lt;audio autoplay loop controls&gt;
+    &lt;source src=&#34;http://localhost:1313/music/oldmemory.mp3&#34; type=&#34;audio/mp3&#34; /&gt;
+  &lt;/audio&gt;
+
+  &lt;script&gt;
+    // 初始化 canvas
+    const particleCanvas = document.getElementById(&#39;particles&#39;);
+    const textCanvas = document.getElementById(&#39;textRain&#39;);
+    const pctx = particleCanvas.getContext(&#39;2d&#39;);
+    const tctx = textCanvas.getContext(&#39;2d&#39;);
+
+    function resize() {
+      particleCanvas.width = textCanvas.width = window.innerWidth;
+      particleCanvas.height = textCanvas.height = window.innerHeight;
+    }
+    resize();
+    window.addEventListener(&#39;resize&#39;, resize);
+
+    // 🌌 模糊粒子漂浮
+    const particles = Array.from({ length: 100 }, () =&gt; ({
+      x: Math.random() * window.innerWidth,
+      y: Math.random() * window.innerHeight,
+      radius: 1 + Math.random() * 2,
+      speedX: -0.5 + Math.random(),
+      speedY: -0.3 + Math.random() * 0.6,
+      alpha: 0.2 + Math.random() * 0.3
+    }));
+
+    function drawParticles() {
+      pctx.clearRect(0, 0, particleCanvas.width, particleCanvas.height);
+      for (let p of particles) {
+        pctx.beginPath();
+        pctx.arc(p.x, p.y, p.radius, 0, 2 * Math.PI);
+        pctx.fillStyle = `rgba(255,255,255,${p.alpha})`;
+        pctx.shadowColor = &#34;#fff&#34;;
+        pctx.shadowBlur = 10;
+        pctx.fill();
+
+        p.x += p.speedX;
+        p.y += p.speedY;
+
+        if (p.x &lt; 0 || p.x &gt; particleCanvas.width || p.y &lt; 0 || p.y &gt; particleCanvas.height) {
+          p.x = Math.random() * particleCanvas.width;
+          p.y = Math.random() * particleCanvas.height;
+        }
+      }
+      requestAnimationFrame(drawParticles);
+    }
+    drawParticles();
+
+    // 💧 字母雨滴逻辑
+    const letters = &#34;Happinessisbeingabletoholdanumbrellafortheoneyoulove&#34;.split(&#34;&#34;);
+    const drops = [];
+
+    function createDrop() {
+      drops.push({
+        x: Math.random() * textCanvas.width,
+        y: -20,
+        speed: 1.5 + Math.random() * 2.5,
+        letter: letters[Math.floor(Math.random() * letters.length)],
+        size: 16 + Math.random() * 6,
+        opacity: 0.6 + Math.random() * 0.4,
+        bounced: false,
+        bounceHeight: 0
+      });
+    }
+
+    setInterval(() =&gt; {
+      const count = 2 + Math.floor(Math.random() * 4); // 更密
+      for (let i = 0; i &lt; count; i++) createDrop();
+    }, 80);
+
+    function drawText() {
+      tctx.clearRect(0, 0, textCanvas.width, textCanvas.height);
+      const ground = textCanvas.height * 0.78;
+
+      for (let i = drops.length - 1; i &gt;= 0; i--) {
+        const d = drops[i];
+
+        // 弹跳机制
+        if (!d.bounced &amp;&amp; d.y &gt; ground) {
+          d.bounced = true;
+          d.speed = -d.speed * 0.4;
+        }
+
+        if (d.bounced) {
+          d.bounceHeight++;
+          if (d.bounceHeight &gt; 20) {
+            drops.splice(i, 1);
+            continue;
+          }
+        }
+
+        d.y += d.speed;
+        tctx.font = `${d.size}px monospace`;
+        tctx.fillStyle = `rgba(55, 55, 75, ${d.opacity})`; // 柔和蓝灰
+        tctx.fillText(d.letter, d.x, d.y);
+      }
+
+      requestAnimationFrame(drawText);
+    }
+
+    drawText();
+  &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

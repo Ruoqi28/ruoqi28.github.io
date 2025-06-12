@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>哲学 on RD&#39;s Blog</title>
+    <link>http://localhost:1313/zh/tags/%E5%93%B2%E5%AD%A6/</link>
+    <description>Recent content in 哲学 on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh/tags/%E5%93%B2%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZING</title>
+      <link>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l3/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l3/</guid>
+      <description>无趣的灵魂千篇一律，好看的皮囊形形色色</description>
+    </item>
+    
+  </channel>
+</rss>

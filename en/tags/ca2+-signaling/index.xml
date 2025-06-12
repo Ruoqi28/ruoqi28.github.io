@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ca2&#43; Signaling on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/ca2&#43;-signaling/</link>
+    <description>Recent content in Ca2&#43; Signaling on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/ca2+-signaling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structural Insights into Apicomplexan CDPK Activation: A Calcium-Triggered Mechanism</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/53/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/53/</guid>
+      <description>A landmark structural study revealing how apicomplexan CDPKs (TgCDPK1/3, CpCDPK) undergo dramatic conformational changes upon calcium binding to shift from an autoinhibited to an active state.</description>
+    </item>
+    
+    <item>
+      <title>Structural Insights into Apicomplexan CDPK Activation: A Calcium-Triggered Mechanism</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/53/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/53/</guid>
+      <description>A landmark structural study revealing how apicomplexan CDPKs (TgCDPK1/3, CpCDPK) undergo dramatic conformational changes upon calcium binding to shift from an autoinhibited to an active state.</description>
+    </item>
+    
+  </channel>
+</rss>

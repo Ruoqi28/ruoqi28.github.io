@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>乱乱谈 on RD&#39;s Blog</title>
+    <link>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/</link>
+    <description>Recent content in 乱乱谈 on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于内耗的一点小想法</title>
+      <link>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l2/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l2/</guid>
+      <description>一些关于自我、内耗、行动的随想，来自 NieR 和萨特的启发。</description>
+    </item>
+    
+    <item>
+      <title>ZING</title>
+      <link>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l3/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l3/</guid>
+      <description>无趣的灵魂千篇一律，好看的皮囊形形色色</description>
+    </item>
+    
+    <item>
+      <title>羁绊说断就断，便真个断了 —— 一阙古意长词</title>
+      <link>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l1/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l1/</guid>
+      <description>少年曾梦桃花开，软红一片春潮细。羁绊说断就断，便真个断了，一阙写尽别离之意。</description>
+    </item>
+    
+    <item>
+      <title>若 琪</title>
+      <link>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l4/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/zh/posts_zh/%E4%B9%B1%E4%B9%B1%E8%B0%88/l4/</guid>
+      <description>若隐若无，琪树成林</description>
+    </item>
+    
+  </channel>
+</rss>

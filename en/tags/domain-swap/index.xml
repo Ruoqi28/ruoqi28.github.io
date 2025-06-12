@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Domain Swap on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/domain-swap/</link>
+    <description>Recent content in Domain Swap on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/domain-swap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structure of the Regulatory Apparatus of a Calcium-Dependent Protein Kinase (CDPK): A Novel Mode of Calmodulin-Target Recognition</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/48/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/48/</guid>
+      <description>A 2006 JMB study presenting the crystal structure of Arabidopsis CDPK&amp;rsquo;s regulatory domain, revealing a domain-swapped dimer and an unexpected mechanism of calmodulin-like domain (CaM-LD) recognition, challenging classical calmodulin-target models.</description>
+    </item>
+    
+    <item>
+      <title>Structure of the Regulatory Apparatus of a Calcium-Dependent Protein Kinase (CDPK): A Novel Mode of Calmodulin-Target Recognition</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/48/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/48/</guid>
+      <description>A 2006 JMB study presenting the crystal structure of Arabidopsis CDPK&amp;rsquo;s regulatory domain, revealing a domain-swapped dimer and an unexpected mechanism of calmodulin-like domain (CaM-LD) recognition, challenging classical calmodulin-target models.</description>
+    </item>
+    
+  </channel>
+</rss>

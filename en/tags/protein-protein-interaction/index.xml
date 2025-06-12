@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Protein-Protein Interaction on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/protein-protein-interaction/</link>
+    <description>Recent content in Protein-Protein Interaction on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/protein-protein-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diversity of Conformational States and Changes within the EF-hand Protein Superfamily</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/28/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/28/</guid>
+      <description>Notes on a 1999 Proteins review analyzing the conformational diversity of EF-hand motifs in calcium-binding proteins. Introduces Vector Geometry Mapping (VGM) to dissect helix movements beyond simple interhelical angles, and discusses functional implications of EF-hand plasticity.</description>
+    </item>
+    
+    <item>
+      <title>Diversity of Conformational States and Changes within the EF-hand Protein Superfamily</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/28/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/28/</guid>
+      <description>Notes on a 1999 Proteins review analyzing the conformational diversity of EF-hand motifs in calcium-binding proteins. Introduces Vector Geometry Mapping (VGM) to dissect helix movements beyond simple interhelical angles, and discusses functional implications of EF-hand plasticity.</description>
+    </item>
+    
+    <item>
+      <title>Anchor Residues in Protein–Protein Interactions</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/26/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/26/</guid>
+      <description>Notes on 2004 PNAS paper introducing the concept of anchor residues as key pre-configured side chains that drive protein–protein interactions. The study highlights a two-step binding mechanism, combining preformed &amp;lsquo;anchor&amp;rsquo; interactions and induced-fit adjustments.</description>
+    </item>
+    
+    <item>
+      <title>Anchor Residues in Protein–Protein Interactions</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/26/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/26/</guid>
+      <description>Notes on 2004 PNAS paper introducing the concept of anchor residues as key pre-configured side chains that drive protein–protein interactions. The study highlights a two-step binding mechanism, combining preformed &amp;lsquo;anchor&amp;rsquo; interactions and induced-fit adjustments.</description>
+    </item>
+    
+    <item>
+      <title>Graded Enhancement of p53-CBP Interaction by Multisite Phosphorylation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/3/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/3/</guid>
+      <description>Notes on 2010_PNAS study exploring how multisite phosphorylation of p53 modulates its interaction with CBP and transcriptional activation.</description>
+    </item>
+    
+    <item>
+      <title>Graded Enhancement of p53-CBP Interaction by Multisite Phosphorylation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/3/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/3/</guid>
+      <description>Notes on 2010_PNAS study exploring how multisite phosphorylation of p53 modulates its interaction with CBP and transcriptional activation.</description>
+    </item>
+    
+    <item>
+      <title>SOCKET: A Program for Identifying and Analyzing Coiled-Coil Motifs within Protein Structures</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/78/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/78/</guid>
+      <description>Notes on the 2001 JMB paper introducing SOCKET, a computational tool that identifies coiled-coil motifs based on structural features rather than sequence patterns. Highlights the diversity of coiled-coil structures, the central role of knobs-into-holes packing, and applications in structural analysis and design.</description>
+    </item>
+    
+    <item>
+      <title>SOCKET: A Program for Identifying and Analyzing Coiled-Coil Motifs within Protein Structures</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/78/</guid>
+      <description>Notes on the 2001 JMB paper introducing SOCKET, a computational tool that identifies coiled-coil motifs based on structural features rather than sequence patterns. Highlights the diversity of coiled-coil structures, the central role of knobs-into-holes packing, and applications in structural analysis and design.</description>
+    </item>
+    
+    <item>
+      <title>Unique Conformational Adaptation of Calmodulin to CaMKK: A Distinct Mode of Calcium-Dependent Kinase Regulation</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/64/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/64/</guid>
+      <description>Notes on a landmark &lt;em&gt;Nature&lt;/em&gt; (1999) paper detailing how calmodulin (CaM) adopts a unique binding mode when interacting with CaMKK, revealing an extended 26-residue peptide interface and an opposite binding orientation, distinguishing it from classical CaM-target interactions — a new paradigm in calcium signaling complexes.</description>
+    </item>
+    
+    <item>
+      <title>Unique Conformational Adaptation of Calmodulin to CaMKK: A Distinct Mode of Calcium-Dependent Kinase Regulation</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/64/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/64/</guid>
+      <description>Notes on a landmark &lt;em&gt;Nature&lt;/em&gt; (1999) paper detailing how calmodulin (CaM) adopts a unique binding mode when interacting with CaMKK, revealing an extended 26-residue peptide interface and an opposite binding orientation, distinguishing it from classical CaM-target interactions — a new paradigm in calcium signaling complexes.</description>
+    </item>
+    
+  </channel>
+</rss>

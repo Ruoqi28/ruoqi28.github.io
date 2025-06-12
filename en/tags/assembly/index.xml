@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Assembly on RD&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/assembly/</link>
+    <description>Recent content in Assembly on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/assembly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structure-Function of the Multifunctional Ca2&#43;/Calmodulin-Dependent Protein Kinase II (CaMKII)</title>
+      <link>http://localhost:1313/en/en/posts/mind/mindscape/70/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/en/posts/mind/mindscape/70/</guid>
+      <description>Notes on a 2002 &lt;em&gt;JBC&lt;/em&gt; review dissecting CaMKII&amp;rsquo;s structure-function relationship, covering autoinhibition, isoform diversity, holoenzyme assembly, autophosphorylation, subunit exchange, and Ca2+/CaM frequency decoding — a foundational reference for understanding this multifunctional kinase as a calcium signal integrator.</description>
+    </item>
+    
+    <item>
+      <title>Structure-Function of the Multifunctional Ca2&#43;/Calmodulin-Dependent Protein Kinase II (CaMKII)</title>
+      <link>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/zh/posts_zh/%E7%95%8C%E9%99%90%E4%B9%8B%E5%A4%96/70/</guid>
+      <description>Notes on a 2002 &lt;em&gt;JBC&lt;/em&gt; review dissecting CaMKII&amp;rsquo;s structure-function relationship, covering autoinhibition, isoform diversity, holoenzyme assembly, autophosphorylation, subunit exchange, and Ca2+/CaM frequency decoding — a foundational reference for understanding this multifunctional kinase as a calcium signal integrator.</description>
+    </item>
+    
+  </channel>
+</rss>
